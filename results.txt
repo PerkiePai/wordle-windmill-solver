@@ -1,0 +1,9405 @@
+HARD WINDMILL (130 words)
+======================================================================
+
+Target: acrid
+  Row 1: cedar  YxYYY
+  Row 2: cease  YxYxx
+  Row 3: cardi  YYGYY
+  Row 4: elder  xxYxY
+  Row 5: cider  YYYxY
+
+Target: acrid
+  Row 1: cedar  YxYYY
+  Row 2: cease  YxYxx
+  Row 3: cardi  YYGYY
+  Row 4: elder  xxYxY
+  Row 5: cider  YYYxY
+
+Target: aider
+  Row 1: eliad  YxYYY
+  Row 2: doing  YxYxx
+  Row 3: redia  YYGYY
+  Row 4: blame  xxYxY
+  Row 5: drake  YYYxY
+
+Target: among
+  Row 1: organ  YxYYY
+  Row 2: genie  YxYxx
+  Row 3: ngoma  YYGYY
+  Row 4: begin  xxYxY
+  Row 5: gambo  YYYxY
+
+Target: anger
+  Row 1: glare  YxYYY
+  Row 2: eerie  YxYxx
+  Row 3: regna  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: grace  YYYxY
+
+Target: artsy
+  Row 1: smart  YxYYY
+  Row 2: reach  YxYxx
+  Row 3: satyr  YYGYY
+  Row 4: beret  xxYxY
+  Row 5: stair  YYYxY
+
+Target: askew
+  Row 1: shake  YxYYY
+  Row 2: elate  YxYxx
+  Row 3: wekas  YYGYY
+  Row 4: black  xxYxY
+  Row 5: skate  YYYxY
+
+Target: asset
+  Row 1: skate  YxYYY
+  Row 2: email  YxYxx
+  Row 3: easts  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: stage  YYYxY
+
+Target: cacti
+  Row 1: antic  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: ticca  YYGYY
+  Row 4: beast  xxYxY
+  Row 5: ictic  YYYxY
+
+Target: cheer
+  Row 1: rache  YxYYY
+  Row 2: early  YxYxx
+  Row 3: reech  YYGYY
+  Row 4: barge  xxYxY
+  Row 5: herse  YYYxY
+
+Target: crate
+  Row 1: after  YxYYY
+  Row 2: ahead  YxYxx
+  Row 3: react  YYGYY
+  Row 4: burnt  xxYxY
+  Row 5: actor  YYYxY
+
+Target: curse
+  Row 1: ulcer  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: ecrus  YYGYY
+  Row 4: basic  xxYxY
+  Row 5: eruvs  YYYxY
+
+Target: debut
+  Row 1: brute  YxYYY
+  Row 2: badly  YxYxx
+  Row 3: tubed  YYGYY
+  Row 4: ahead  xxYxY
+  Row 5: budge  YYYxY
+
+Target: decal
+  Row 1: abled  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: laced  YYGYY
+  Row 4: bilge  xxYxY
+  Row 5: ladle  YYYxY
+
+Target: denim
+  Row 1: named  YxYYY
+  Row 2: elder  YxYxx
+  Row 3: mined  YYGYY
+  Row 4: afire  xxYxY
+  Row 5: midge  YYYxY
+
+Target: depot
+  Row 1: trope  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: toped  YYGYY
+  Row 4: above  xxYxY
+  Row 5: podge  YYYxY
+
+Target: devil
+  Row 1: isled  YxYYY
+  Row 2: eclat  YxYxx
+  Row 3: lived  YYGYY
+  Row 4: afire  xxYxY
+  Row 5: eliad  YYYxY
+
+Target: drier
+  Row 1: rorid  YxYYY
+  Row 2: early  YxYxx
+  Row 3: reird  YYGYY
+  Row 4: ahead  xxYxY
+  Row 5: ridge  YYYxY
+
+Target: earth
+  Row 1: after  YxYYY
+  Row 2: amend  YxYxx
+  Row 3: thrae  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: react  YYYxY
+
+Target: enema
+  Row 1: admen  YxYYY
+  Row 2: admit  YxYxx
+  Row 3: amene  YYGYY
+  Row 4: binge  xxYxY
+  Row 5: mange  YYYxY
+
+Target: extra
+  Row 1: roate  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: retax  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: react  YYYxY
+
+Target: flesh
+  Row 1: hales  YxYYY
+  Row 2: eclat  YxYxx
+  Row 3: shelf  YYGYY
+  Row 4: awful  xxYxY
+  Row 5: hefts  YYYxY
+
+Target: giant
+  Row 1: align  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: ngati  YYGYY
+  Row 4: begun  xxYxY
+  Row 5: intra  YYYxY
+
+Target: gnome
+  Row 1: mango  YxYYY
+  Row 2: eager  YxYxx
+  Row 3: emong  YYGYY
+  Row 4: admin  xxYxY
+  Row 5: mento  YYYxY
+
+Target: heist
+  Row 1: iches  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: shite  YYGYY
+  Row 4: batch  xxYxY
+  Row 5: ethos  YYYxY
+
+Target: inner
+  Row 1: raine  YxYYY
+  Row 2: early  YxYxx
+  Row 3: renin  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: reign  YYYxY
+
+Target: inter
+  Row 1: twine  YxYYY
+  Row 2: early  YxYxx
+  Row 3: nitre  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: reign  YYYxY
+
+Target: lager
+  Row 1: gnarl  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: regal  YYGYY
+  Row 4: borne  xxYxY
+  Row 5: glade  YYYxY
+
+Target: lapse
+  Row 1: scalp  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: sepal  YYGYY
+  Row 4: brawl  xxYxY
+  Row 5: pearl  YYYxY
+
+Target: leapt
+  Row 1: ample  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: plate  YYGYY
+  Row 4: bilge  xxYxY
+  Row 5: patte  YYYxY
+
+Target: leash
+  Row 1: aisle  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: shale  YYGYY
+  Row 4: bilge  xxYxY
+  Row 5: easel  YYYxY
+
+Target: least
+  Row 1: aisle  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: slate  YYGYY
+  Row 4: bilge  xxYxY
+  Row 5: easel  YYYxY
+
+Target: liken
+  Row 1: koine  YxYYY
+  Row 2: eclat  YxYxx
+  Row 3: inkle  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: knife  YYYxY
+
+Target: moist
+  Row 1: tamis  YxYYY
+  Row 2: inter  YxYxx
+  Row 3: omits  YYGYY
+  Row 4: bloom  xxYxY
+  Row 5: storm  YYYxY
+
+Target: mural
+  Row 1: lemur  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: larum  YYGYY
+  Row 4: chair  xxYxY
+  Row 5: lamer  YYYxY
+
+Target: navel
+  Row 1: liane  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: elvan  YYGYY
+  Row 4: bilge  xxYxY
+  Row 5: learn  YYYxY
+
+Target: neigh
+  Row 1: grein  YxYYY
+  Row 2: eager  YxYxx
+  Row 3: ehing  YYGYY
+  Row 4: algae  xxYxY
+  Row 5: ingle  YYYxY
+
+Target: offer
+  Row 1: fuero  YxYYY
+  Row 2: early  YxYxx
+  Row 3: reffo  YYGYY
+  Row 4: abode  xxYxY
+  Row 5: force  YYYxY
+
+Target: organ
+  Row 1: along  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: nagor  YYGYY
+  Row 4: chair  xxYxY
+  Row 5: goner  YYYxY
+
+Target: otter
+  Row 1: tarot  YxYYY
+  Row 2: early  YxYxx
+  Row 3: rotte  YYGYY
+  Row 4: abode  xxYxY
+  Row 5: treat  YYYxY
+
+Target: parse
+  Row 1: sharp  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: apres  YYGYY
+  Row 4: bleep  xxYxY
+  Row 5: sepia  YYYxY
+
+Target: phase
+  Row 1: aches  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: heaps  YYGYY
+  Row 4: bleep  xxYxY
+  Row 5: sepia  YYYxY
+
+Target: plate
+  Row 1: adept  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: leapt  YYGYY
+  Row 4: chest  xxYxY
+  Row 5: apert  YYYxY
+
+Target: reach
+  Row 1: clear  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: chare  YYGYY
+  Row 4: borne  xxYxY
+  Row 5: carve  YYYxY
+
+Target: react
+  Row 1: after  YxYYY
+  Row 2: ahead  YxYxx
+  Row 3: crate  YYGYY
+  Row 4: borne  xxYxY
+  Row 5: actor  YYYxY
+
+Target: rebus
+  Row 1: bluer  YxYYY
+  Row 2: baron  YxYxx
+  Row 3: suber  YYGYY
+  Row 4: acute  xxYxY
+  Row 5: brute  YYYxY
+
+Target: rebut
+  Row 1: bluer  YxYYY
+  Row 2: baron  YxYxx
+  Row 3: tuber  YYGYY
+  Row 4: actor  xxYxY
+  Row 5: butte  YYYxY
+
+Target: recap
+  Row 1: place  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: pacer  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: carve  YYYxY
+
+Target: regal
+  Row 1: abler  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: lager  YYGYY
+  Row 4: borne  xxYxY
+  Row 5: glade  YYYxY
+
+Target: reign
+  Row 1: goner  YxYYY
+  Row 2: eagle  YxYxx
+  Row 3: ering  YYGYY
+  Row 4: algae  xxYxY
+  Row 5: ingle  YYYxY
+
+Target: remit
+  Row 1: inter  YxYYY
+  Row 2: early  YxYxx
+  Row 3: timer  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: tribe  YYYxY
+
+Target: roost
+  Row 1: outro  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: stoor  YYGYY
+  Row 4: after  xxYxY
+  Row 5: ortho  YYYxY
+
+Target: satyr
+  Row 1: roast  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: artsy  YYGYY
+  Row 4: beady  xxYxY
+  Row 5: arsey  YYYxY
+
+Target: scald
+  Row 1: decal  YxYYY
+  Row 2: aglow  YxYxx
+  Row 3: clads  YYGYY
+  Row 4: excel  xxYxY
+  Row 5: alcos  YYYxY
+
+Target: scale
+  Row 1: ables  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: claes  YYGYY
+  Row 4: ficus  xxYxY
+  Row 5: easel  YYYxY
+
+Target: scalp
+  Row 1: colas  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: claps  YYGYY
+  Row 4: delta  xxYxY
+  Row 5: alcos  YYYxY
+
+Target: scaly
+  Row 1: colas  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: clays  YYGYY
+  Row 4: delta  xxYxY
+  Row 5: alcos  YYYxY
+
+Target: scary
+  Row 1: yucas  YxYYY
+  Row 2: agree  YxYxx
+  Row 3: crays  YYGYY
+  Row 4: buyer  xxYxY
+  Row 5: arcos  YYYxY
+
+Target: scion
+  Row 1: canso  YxYYY
+  Row 2: canal  YxYxx
+  Row 3: coins  YYGYY
+  Row 4: banjo  xxYxY
+  Row 5: ionic  YYYxY
+
+Target: scold
+  Row 1: disco  YxYYY
+  Row 2: caddy  YxYxx
+  Row 3: clods  YYGYY
+  Row 4: audio  xxYxY
+  Row 5: locus  YYYxY
+
+Target: scoop
+  Row 1: pisco  YxYYY
+  Row 2: caper  YxYxx
+  Row 3: coops  YYGYY
+  Row 4: basic  xxYxY
+  Row 5: copes  YYYxY
+
+Target: scorn
+  Row 1: canso  YxYYY
+  Row 2: canal  YxYxx
+  Row 3: crons  YYGYY
+  Row 4: banjo  xxYxY
+  Row 5: cones  YYYxY
+
+Target: scram
+  Row 1: chams  YxYYY
+  Row 2: admin  YxYxx
+  Row 3: marcs  YYGYY
+  Row 4: decor  xxYxY
+  Row 5: arcos  YYYxY
+
+Target: scrap
+  Row 1: chaps  YxYYY
+  Row 2: aisle  YxYxx
+  Row 3: carps  YYGYY
+  Row 4: decor  xxYxY
+  Row 5: caper  YYYxY
+
+Target: scrub
+  Row 1: baurs  YxYYY
+  Row 2: bacon  YxYxx
+  Row 3: curbs  YYGYY
+  Row 4: amber  xxYxY
+  Row 5: bruts  YYYxY
+
+Target: sense
+  Row 1: eases  YxYYY
+  Row 2: eject  YxYxx
+  Row 3: esnes  YYGYY
+  Row 4: arson  xxYxY
+  Row 5: enews  YYYxY
+
+Target: serif
+  Row 1: flier  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: fires  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: rifle  YYYxY
+
+Target: serum
+  Row 1: miser  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: mures  YYGYY
+  Row 4: acute  xxYxY
+  Row 5: eruvs  YYYxY
+
+Target: shade
+  Row 1: aahed  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: deash  YYGYY
+  Row 4: bleed  xxYxY
+  Row 5: aedes  YYYxY
+
+Target: shale
+  Row 1: ables  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: leash  YYGYY
+  Row 4: filth  xxYxY
+  Row 5: easel  YYYxY
+
+Target: shelf
+  Row 1: false  YxYYY
+  Row 2: eclat  YxYxx
+  Row 3: flesh  YYGYY
+  Row 4: awful  xxYxY
+  Row 5: felch  YYYxY
+
+Target: shied
+  Row 1: dashi  YxYYY
+  Row 2: dream  YxYxx
+  Row 3: heids  YYGYY
+  Row 4: badge  xxYxY
+  Row 5: diebs  YYYxY
+
+Target: shrew
+  Row 1: hawse  YxYYY
+  Row 2: ensue  YxYxx
+  Row 3: wersh  YYGYY
+  Row 4: abhor  xxYxY
+  Row 5: erhus  YYYxY
+
+Target: shrug
+  Row 1: rough  YxYYY
+  Row 2: gassy  YxYxx
+  Row 3: gursh  YYGYY
+  Row 4: abhor  xxYxY
+  Row 5: usher  YYYxY
+
+Target: skate
+  Row 1: tweak  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: teaks  YYGYY
+  Row 4: check  xxYxY
+  Row 5: katas  YYYxY
+
+Target: skier
+  Row 1: epris  YxYYY
+  Row 2: early  YxYxx
+  Row 3: keirs  YYGYY
+  Row 4: ankle  xxYxY
+  Row 5: kerbs  YYYxY
+
+Target: slate
+  Row 1: eclat  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: least  YYGYY
+  Row 4: crept  xxYxY
+  Row 5: easel  YYYxY
+
+Target: slave
+  Row 1: ables  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: veals  YYGYY
+  Row 4: civil  xxYxY
+  Row 5: easel  YYYxY
+
+Target: sleek
+  Row 1: easle  YxYYY
+  Row 2: eclat  YxYxx
+  Row 3: keels  YYGYY
+  Row 4: basal  xxYxY
+  Row 5: kells  YYYxY
+
+Target: sleep
+  Row 1: lapse  YxYYY
+  Row 2: eclat  YxYxx
+  Row 3: leeps  YYGYY
+  Row 4: basal  xxYxY
+  Row 5: pelas  YYYxY
+
+Target: sleet
+  Row 1: easle  YxYYY
+  Row 2: entry  YxYxx
+  Row 3: leets  YYGYY
+  Row 4: basal  xxYxY
+  Row 5: lethe  YYYxY
+
+Target: slice
+  Row 1: coles  YxYYY
+  Row 2: cheap  YxYxx
+  Row 3: ceils  YYGYY
+  Row 4: basal  xxYxY
+  Row 5: celli  YYYxY
+
+Target: slide
+  Row 1: dales  YxYYY
+  Row 2: dally  YxYxx
+  Row 3: deils  YYGYY
+  Row 4: ahead  xxYxY
+  Row 5: ideal  YYYxY
+
+Target: smart
+  Row 1: airts  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: trams  YYGYY
+  Row 4: bosom  xxYxY
+  Row 5: tamer  YYYxY
+
+Target: snare
+  Row 1: risen  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: reans  YYGYY
+  Row 4: bison  xxYxY
+  Row 5: arson  YYYxY
+
+Target: sneer
+  Row 1: nurse  YxYYY
+  Row 2: early  YxYxx
+  Row 3: reens  YYGYY
+  Row 4: aisle  xxYxY
+  Row 5: nerve  YYYxY
+
+Target: snipe
+  Row 1: elsin  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: peins  YYGYY
+  Row 4: arson  xxYxY
+  Row 5: niefs  YYYxY
+
+Target: snort
+  Row 1: tenor  YxYYY
+  Row 2: nasal  YxYxx
+  Row 3: trons  YYGYY
+  Row 4: after  xxYxY
+  Row 5: torus  YYYxY
+
+Target: spank
+  Row 1: kinas  YxYYY
+  Row 2: aisle  YxYxx
+  Row 3: knaps  YYGYY
+  Row 4: bison  xxYxY
+  Row 5: ankhs  YYYxY
+
+Target: spare
+  Row 1: poser  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: reaps  YYGYY
+  Row 4: bleep  xxYxY
+  Row 5: aeros  YYYxY
+
+Target: spear
+  Row 1: phase  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: presa  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: paste  YYYxY
+
+Target: sperm
+  Row 1: miser  YxYYY
+  Row 2: early  YxYxx
+  Row 3: prems  YYGYY
+  Row 4: aisle  xxYxY
+  Row 5: empts  YYYxY
+
+Target: spire
+  Row 1: poser  YxYYY
+  Row 2: early  YxYxx
+  Row 3: pries  YYGYY
+  Row 4: bleep  xxYxY
+  Row 5: perai  YYYxY
+
+Target: stage
+  Row 1: angst  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: geats  YYGYY
+  Row 4: bigot  xxYxY
+  Row 5: agent  YYYxY
+
+Target: staid
+  Row 1: acids  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: tsadi  YYGYY
+  Row 4: beset  xxYxY
+  Row 5: adios  YYYxY
+
+Target: stain
+  Row 1: adits  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: tians  YYGYY
+  Row 4: beset  xxYxY
+  Row 5: aitus  YYYxY
+
+Target: stair
+  Row 1: aarti  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: tiars  YYGYY
+  Row 4: beret  xxYxY
+  Row 5: airns  YYYxY
+
+Target: stale
+  Row 1: eclat  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: least  YYGYY
+  Row 4: crept  xxYxY
+  Row 5: alert  YYYxY
+
+Target: stare
+  Row 1: after  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: reast  YYGYY
+  Row 4: burnt  xxYxY
+  Row 5: eater  YYYxY
+
+Target: start
+  Row 1: airts  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: trats  YYGYY
+  Row 4: circa  xxYxY
+  Row 5: artis  YYYxY
+
+Target: steal
+  Row 1: aisle  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: taels  YYGYY
+  Row 4: bilge  xxYxY
+  Row 5: lathe  YYYxY
+
+Target: steel
+  Row 1: easle  YxYYY
+  Row 2: entry  YxYxx
+  Row 3: leets  YYGYY
+  Row 4: bathe  xxYxY
+  Row 5: lethe  YYYxY
+
+Target: steer
+  Row 1: earst  YxYYY
+  Row 2: early  YxYxx
+  Row 3: reest  YYGYY
+  Row 4: aisle  xxYxY
+  Row 5: resat  YYYxY
+
+Target: stink
+  Row 1: kants  YxYYY
+  Row 2: ionic  YxYxx
+  Row 3: knits  YYGYY
+  Row 4: arson  xxYxY
+  Row 5: inset  YYYxY
+
+Target: stoop
+  Row 1: pesto  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: poots  YYGYY
+  Row 4: beset  xxYxY
+  Row 5: posit  YYYxY
+
+Target: story
+  Row 1: ratos  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: ryots  YYGYY
+  Row 4: after  xxYxY
+  Row 5: torus  YYYxY
+
+Target: strap
+  Row 1: roast  YxYYY
+  Row 2: aisle  YxYxx
+  Row 3: parts  YYGYY
+  Row 4: beset  xxYxY
+  Row 5: taper  YYYxY
+
+Target: straw
+  Row 1: roast  YxYYY
+  Row 2: aisle  YxYxx
+  Row 3: warst  YYGYY
+  Row 4: beset  xxYxY
+  Row 5: water  YYYxY
+
+Target: stunk
+  Row 1: kants  YxYYY
+  Row 2: kinky  YxYxx
+  Row 3: knuts  YYGYY
+  Row 4: arson  xxYxY
+  Row 5: unset  YYYxY
+
+Target: sugar
+  Row 1: gears  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: argus  YYGYY
+  Row 4: chaos  xxYxY
+  Row 5: agros  YYYxY
+
+Target: sumac
+  Row 1: chasm  YxYYY
+  Row 2: adult  YxYxx
+  Row 3: camus  YYGYY
+  Row 4: bosom  xxYxY
+  Row 5: cauks  YYYxY
+
+Target: swath
+  Row 1: wetas  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: thaws  YYGYY
+  Row 4: beset  xxYxY
+  Row 5: ashet  YYYxY
+
+Target: sweet
+  Row 1: waste  YxYYY
+  Row 2: entry  YxYxx
+  Row 3: weets  YYGYY
+  Row 4: aisle  xxYxY
+  Row 5: teste  YYYxY
+
+Target: sword
+  Row 1: deros  YxYYY
+  Row 2: derby  YxYxx
+  Row 3: drows  YYGYY
+  Row 4: aider  xxYxY
+  Row 5: dorbs  YYYxY
+
+Target: synod
+  Row 1: drony  YxYYY
+  Row 2: diode  YxYxx
+  Row 3: donsy  YYGYY
+  Row 4: acorn  xxYxY
+  Row 5: nosey  YYYxY
+
+Target: syrup
+  Row 1: raspy  YxYYY
+  Row 2: pasta  YxYxx
+  Row 3: pursy  YYGYY
+  Row 4: amply  xxYxY
+  Row 5: pushy  YYYxY
+
+Target: tenor
+  Row 1: often  YxYYY
+  Row 2: early  YxYxx
+  Row 3: ronte  YYGYY
+  Row 4: abode  xxYxY
+  Row 5: rotan  YYYxY
+
+Target: terra
+  Row 1: after  YxYYY
+  Row 2: ahead  YxYxx
+  Row 3: arret  YYGYY
+  Row 4: blade  xxYxY
+  Row 5: eater  YYYxY
+
+Target: throw
+  Row 1: rewth  YxYYY
+  Row 2: hatch  YxYxx
+  Row 3: worth  YYGYY
+  Row 4: about  xxYxY
+  Row 5: other  YYYxY
+
+Target: timer
+  Row 1: inert  YxYYY
+  Row 2: early  YxYxx
+  Row 3: remit  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: meint  YYYxY
+
+Target: trail
+  Row 1: aarti  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: liart  YYGYY
+  Row 4: beret  xxYxY
+  Row 5: altar  YYYxY
+
+Target: train
+  Row 1: aarti  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: riant  YYGYY
+  Row 4: beret  xxYxY
+  Row 5: inter  YYYxY
+
+Target: troop
+  Row 1: outro  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: poort  YYGYY
+  Row 4: after  xxYxY
+  Row 5: opter  YYYxY
+
+Target: tuber
+  Row 1: blurt  YxYYY
+  Row 2: baron  YxYxx
+  Row 3: rebut  YYGYY
+  Row 4: adept  xxYxY
+  Row 5: brunt  YYYxY
+
+Target: ulcer
+  Row 1: carle  YxYYY
+  Row 2: carat  YxYxx
+  Row 3: lucre  YYGYY
+  Row 4: abuse  xxYxY
+  Row 5: crude  YYYxY
+
+Target: usher
+  Row 1: horse  YxYYY
+  Row 2: early  YxYxx
+  Row 3: erhus  YYGYY
+  Row 4: acute  xxYxY
+  Row 5: surge  YYYxY
+
+Target: worse
+  Row 1: enows  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: owres  YYGYY
+  Row 4: cheer  xxYxY
+  Row 5: sewer  YYYxY
+
+Target: worst
+  Row 1: ratos  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: strow  YYGYY
+  Row 4: after  xxYxY
+  Row 5: stoor  YYYxY
+
+Target: write
+  Row 1: inert  YxYYY
+  Row 2: early  YxYxx
+  Row 3: twier  YYGYY
+  Row 4: actor  xxYxY
+  Row 5: rewet  YYYxY
+
+Target: wrote
+  Row 1: outer  YxYYY
+  Row 2: early  YxYxx
+  Row 3: twoer  YYGYY
+  Row 4: adept  xxYxY
+  Row 5: retro  YYYxY
+
+
+SOFT WINDMILL (1050 words)
+======================================================================
+
+Target: abled
+  Row 1: amble  GxYYY
+  Row 2: agent  GxYxx
+  Row 3: blade  YYYYY
+  Row 4: chafe  xxYxY
+  Row 5: badge  YYYxY
+
+Target: abode
+  Row 1: anode  GxGGG
+  Row 2: acorn  GxGxx
+  Row 3: adobe  GYGYG
+  Row 4: cease  xxYxG
+  Row 5: above  GGGxG
+
+Target: abort
+  Row 1: actor  GxYYY
+  Row 2: acrid  GxYxx
+  Row 3: boart  YYYGG
+  Row 4: chair  xxYxY
+  Row 5: about  GGGxG
+
+Target: abuse
+  Row 1: amuse  GxGGG
+  Row 2: adept  GxYxx
+  Row 3: beaus  YYYYY
+  Row 4: chafe  xxYxG
+  Row 5: baste  YYYxG
+
+Target: abyss
+  Row 1: bossy  YxYGY
+  Row 2: aisle  GxYxx
+  Row 3: bassy  YYYGY
+  Row 4: chaos  xxYxG
+  Row 5: assay  GYYxY
+
+Target: acorn
+  Row 1: adorn  GxGGG
+  Row 2: abode  GxGxx
+  Row 3: caron  YYYYG
+  Row 4: bingo  xxYxY
+  Row 5: cargo  YYYxY
+
+Target: actor
+  Row 1: abort  GxYYY
+  Row 2: abode  GxYxx
+  Row 3: taroc  YYYGY
+  Row 4: beast  xxYxY
+  Row 5: carat  YYYxY
+
+Target: adept
+  Row 1: drape  YxYGY
+  Row 2: actor  GxYxx
+  Row 3: apted  GYYYY
+  Row 4: blame  xxYxY
+  Row 5: dealt  YYYxG
+
+Target: admin
+  Row 1: denim  YxYGY
+  Row 2: afire  GxYxx
+  Row 3: mandi  YYYYY
+  Row 4: beard  xxYxY
+  Row 5: adman  GGGxG
+
+Target: adobe
+  Row 1: anode  GxGYG
+  Row 2: acorn  GxGxx
+  Row 3: abode  GYGYG
+  Row 4: cease  xxYxG
+  Row 5: above  GYGxG
+
+Target: adore
+  Row 1: abode  GxGYG
+  Row 2: about  GxGxx
+  Row 3: oared  YYYYY
+  Row 4: biome  xxGxG
+  Row 5: adobe  GGGxG
+
+Target: adorn
+  Row 1: acorn  GxGGG
+  Row 2: about  GxGxx
+  Row 3: andro  GYYGY
+  Row 4: bingo  xxYxY
+  Row 5: donor  YYYxY
+
+Target: adult
+  Row 1: dealt  YxYGG
+  Row 2: abuse  GxGxx
+  Row 3: dault  YYGGG
+  Row 4: beard  xxYxY
+  Row 5: audit  GYYxG
+
+Target: afire
+  Row 1: flair  YxYYY
+  Row 2: adept  GxYxx
+  Row 3: feria  YYYYY
+  Row 4: blade  xxYxG
+  Row 5: arise  GYGxG
+
+Target: after
+  Row 1: alert  GxYYY
+  Row 2: acrid  GxYxx
+  Row 3: feart  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: farce  YYYxY
+
+Target: again
+  Row 1: align  GxYYG
+  Row 2: aback  GxGxx
+  Row 3: ainga  GYYYY
+  Row 4: begun  xxYxG
+  Row 5: agami  GGGxY
+
+Target: agape
+  Row 1: adage  GxGYG
+  Row 2: aback  GxGxx
+  Row 3: apage  GYGYG
+  Row 4: blade  xxGxG
+  Row 5: agate  GGGxG
+
+Target: agree
+  Row 1: anger  GxYGY
+  Row 2: acrid  GxGxx
+  Row 3: eager  YYYGY
+  Row 4: blade  xxYxG
+  Row 5: argue  GYYxG
+
+Target: ahead
+  Row 1: ached  GxYYG
+  Row 2: aback  GxYxx
+  Row 3: aahed  GYYYG
+  Row 4: beech  xxGxY
+  Row 5: adage  GYYxY
+
+Target: alarm
+  Row 1: molar  YxYYY
+  Row 2: aback  GxGxx
+  Row 3: malar  YYYYY
+  Row 4: chair  xxGxY
+  Row 5: larva  YYYxY
+
+Target: alert
+  Row 1: after  GxYYY
+  Row 2: acrid  GxYxx
+  Row 3: alter  GGYYY
+  Row 4: bilge  xxYxY
+  Row 5: altar  GGYxY
+
+Target: algae
+  Row 1: adage  GxYYG
+  Row 2: aback  GxYxx
+  Row 3: galea  YYYYY
+  Row 4: belie  xxYxG
+  Row 5: agape  GYYxG
+
+Target: alibi
+  Row 1: aalii  GxYYG
+  Row 2: afire  GxGxx
+  Row 3: biali  YYYYG
+  Row 4: china  xxGxY
+  Row 5: balti  YYYxG
+
+Target: alien
+  Row 1: agile  GxGYY
+  Row 2: adept  GxYxx
+  Row 3: aline  GGGYY
+  Row 4: brace  xxYxY
+  Row 5: align  GGGxG
+
+Target: align
+  Row 1: aping  GxGYY
+  Row 2: abide  GxGxx
+  Row 3: algin  GGYYG
+  Row 4: begun  xxYxG
+  Row 5: alien  GGGxG
+
+Target: alike
+  Row 1: agile  GxGYG
+  Row 2: adept  GxYxx
+  Row 3: alkie  GGYYG
+  Row 4: belle  xxYxG
+  Row 5: alive  GGGxG
+
+Target: allot
+  Row 1: octal  YxYYY
+  Row 2: abled  GxGxx
+  Row 3: atoll  GYYYY
+  Row 4: beast  xxYxG
+  Row 5: aloft  GGYxG
+
+Target: alloy
+  Row 1: atoll  GxYYY
+  Row 2: abled  GxGxx
+  Row 3: loyal  YYYYY
+  Row 4: beady  xxYxG
+  Row 5: allay  GGGxG
+
+Target: aloft
+  Row 1: fetal  YxYYY
+  Row 2: abled  GxYxx
+  Row 3: float  YGGYG
+  Row 4: beast  xxYxG
+  Row 5: afoot  GYGxG
+
+Target: alone
+  Row 1: atone  GxGGG
+  Row 2: abort  GxGxx
+  Row 3: anole  GYGYG
+  Row 4: belie  xxYxG
+  Row 5: anode  GYGxG
+
+Target: along
+  Row 1: among  GxGGG
+  Row 2: abled  GxYxx
+  Row 3: anglo  GYYYY
+  Row 4: begin  xxYxY
+  Row 5: angel  GYYxY
+
+Target: aloof
+  Row 1: agloo  GxYGY
+  Row 2: abled  GxYxx
+  Row 3: loofa  YYGYY
+  Row 4: bravo  xxYxY
+  Row 5: afoul  GYGxY
+
+Target: aloud
+  Row 1: afoul  GxGGY
+  Row 2: abort  GxGxx
+  Row 3: doula  YYYYY
+  Row 4: beard  xxYxG
+  Row 5: audio  GYYxY
+
+Target: altar
+  Row 1: aorta  GxYYY
+  Row 2: aback  GxYxx
+  Row 3: artal  GYGGY
+  Row 4: beast  xxYxY
+  Row 5: alter  GGGxG
+
+Target: alter
+  Row 1: after  GxGGG
+  Row 2: acrid  GxYxx
+  Row 3: alert  GGYYY
+  Row 4: bilge  xxYxY
+  Row 5: altar  GGGxG
+
+Target: amass
+  Row 1: spasm  YxGGY
+  Row 2: aback  GxGxx
+  Row 3: assam  GYYYY
+  Row 4: bosom  xxYxY
+  Row 5: amahs  GGGxG
+
+Target: amber
+  Row 1: blame  YxYYY
+  Row 2: abbot  GxGxx
+  Row 3: brame  YYYYY
+  Row 4: bible  xxGxY
+  Row 5: amble  GGGxY
+
+Target: amble
+  Row 1: brame  YxYYG
+  Row 2: abbot  GxGxx
+  Row 3: blame  YYYYG
+  Row 4: cease  xxYxG
+  Row 5: album  GYGxY
+
+Target: amend
+  Row 1: dream  YxGYY
+  Row 2: alert  GxGxx
+  Row 3: admen  GYYYY
+  Row 4: binge  xxYxY
+  Row 5: admin  GYYxY
+
+Target: amiss
+  Row 1: spasm  YxYGY
+  Row 2: abide  GxGxx
+  Row 3: missa  YYYGY
+  Row 4: bosom  xxYxY
+  Row 5: amias  GGGxG
+
+Target: amity
+  Row 1: admit  GxYYY
+  Row 2: abide  GxGxx
+  Row 3: atimy  GYGYG
+  Row 4: beady  xxYxG
+  Row 5: matey  YYYxG
+
+Target: ample
+  Row 1: apple  GxGGG
+  Row 2: admin  GxYxx
+  Row 3: maple  YYGGG
+  Row 4: belie  xxYxG
+  Row 5: email  YGYxY
+
+Target: amply
+  Row 1: apply  GxGGG
+  Row 2: abled  GxYxx
+  Row 3: palmy  YYYYG
+  Row 4: beady  xxYxG
+  Row 5: palsy  YYYxG
+
+Target: angel
+  Row 1: lunge  YxYYY
+  Row 2: adept  GxYxx
+  Row 3: angle  GGGYY
+  Row 4: brace  xxYxY
+  Row 5: algae  GYGxY
+
+Target: angle
+  Row 1: lunge  YxYYG
+  Row 2: adept  GxYxx
+  Row 3: angel  GGGYY
+  Row 4: belie  xxYxG
+  Row 5: algae  GYGxG
+
+Target: angry
+  Row 1: yearn  YxYGY
+  Row 2: abyss  GxYxx
+  Row 3: rangy  YYYYG
+  Row 4: beady  xxYxG
+  Row 5: anger  GGGxY
+
+Target: angst
+  Row 1: giant  YxYYG
+  Row 2: actor  GxYxx
+  Row 3: gants  YYYYY
+  Row 4: beget  xxGxG
+  Row 5: satin  YYYxY
+
+Target: anime
+  Row 1: admin  GxYYY
+  Row 2: adept  GxYxx
+  Row 3: amine  GYGYG
+  Row 4: blade  xxYxG
+  Row 5: image  YYYxG
+
+Target: annoy
+  Row 1: agony  GxYYG
+  Row 2: abode  GxYxx
+  Row 3: anyon  GGYGY
+  Row 4: beady  xxYxG
+  Row 5: nanny  YYGxG
+
+Target: antic
+  Row 1: attic  GxGGG
+  Row 2: abide  GxYxx
+  Row 3: actin  GYGGY
+  Row 4: beast  xxYxY
+  Row 5: cairn  YYYxY
+
+Target: anvil
+  Row 1: voila  YxYYY
+  Row 2: abide  GxYxx
+  Row 3: nival  YYGYG
+  Row 4: bevel  xxGxG
+  Row 5: alien  GYYxY
+
+Target: apnea
+  Row 1: agape  GxYYY
+  Row 2: aback  GxYxx
+  Row 3: paean  YYYYY
+  Row 4: binge  xxGxY
+  Row 5: apace  GGYxY
+
+Target: apple
+  Row 1: ample  GxGGG
+  Row 2: agent  GxYxx
+  Row 3: appel  GGGYY
+  Row 4: belie  xxYxG
+  Row 5: lapse  YYGxG
+
+Target: aptly
+  Row 1: amply  GxYGG
+  Row 2: abled  GxYxx
+  Row 3: patly  YYGGG
+  Row 4: beady  xxYxG
+  Row 5: palsy  YYYxG
+
+Target: arbor
+  Row 1: rebar  YxGYG
+  Row 2: abbey  GxGxx
+  Row 3: barro  YYYYY
+  Row 4: chair  xxYxG
+  Row 5: bravo  YGYxY
+
+Target: arena
+  Row 1: apnea  GxYYG
+  Row 2: aback  GxYxx
+  Row 3: anear  GYGYY
+  Row 4: binge  xxYxY
+  Row 5: range  YYYxY
+
+Target: argue
+  Row 1: anger  GxGYY
+  Row 2: acrid  GxYxx
+  Row 3: auger  GYGYY
+  Row 4: blade  xxYxG
+  Row 5: agree  GYYxG
+
+Target: arise
+  Row 1: afire  GxGYG
+  Row 2: adept  GxYxx
+  Row 3: raise  YYGGG
+  Row 4: blade  xxYxG
+  Row 5: aisle  GYYxG
+
+Target: armor
+  Row 1: rearm  YxYYY
+  Row 2: abode  GxYxx
+  Row 3: maror  YYYGG
+  Row 4: chair  xxYxG
+  Row 5: amour  GYYxG
+
+Target: arose
+  Row 1: adore  GxGYG
+  Row 2: about  GxGxx
+  Row 3: aeros  GYYYY
+  Row 4: biome  xxGxG
+  Row 5: aeons  GYGxY
+
+Target: arson
+  Row 1: acorn  GxYYG
+  Row 2: abode  GxYxx
+  Row 3: sonar  YYYYY
+  Row 4: bingo  xxYxY
+  Row 5: saner  YYYxY
+
+Target: ascot
+  Row 1: chaos  YxYGY
+  Row 2: abode  GxYxx
+  Row 3: coast  YYYYG
+  Row 4: beset  xxYxG
+  Row 5: scant  YYYxG
+
+Target: ashen
+  Row 1: hyena  YxYYY
+  Row 2: abhor  GxGxx
+  Row 3: hanse  YYYYY
+  Row 4: binge  xxYxY
+  Row 5: haste  YYYxY
+
+Target: aside
+  Row 1: abide  GxGGG
+  Row 2: agent  GxYxx
+  Row 3: aides  GYYYY
+  Row 4: blame  xxYxG
+  Row 5: aisle  GYYxG
+
+Target: atoll
+  Row 1: octal  YxYYG
+  Row 2: abled  GxYxx
+  Row 3: allot  GYYYY
+  Row 4: beast  xxYxY
+  Row 5: aloft  GYGxY
+
+Target: atone
+  Row 1: agent  GxYGY
+  Row 2: afoul  GxGxx
+  Row 3: oaten  YYYYY
+  Row 4: binge  xxYxG
+  Row 5: anode  GYGxG
+
+Target: attic
+  Row 1: antic  GxGGG
+  Row 2: abide  GxYxx
+  Row 3: tacit  YYYGY
+  Row 4: beast  xxYxY
+  Row 5: taint  YYYxY
+
+Target: avert
+  Row 1: after  GxYYY
+  Row 2: acrid  GxYxx
+  Row 3: taver  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: eater  YYYxY
+
+Target: await
+  Row 1: agita  GxYYY
+  Row 2: aback  GxGxx
+  Row 3: tawai  YYYYY
+  Row 4: beast  xxGxG
+  Row 5: tiara  YYGxY
+
+Target: awash
+  Row 1: abash  GxGGG
+  Row 2: aback  GxGxx
+  Row 3: sawah  YYYYG
+  Row 4: beach  xxGxG
+  Row 5: swath  YGGxG
+
+Target: bacon
+  Row 1: ancon  YxGGG
+  Row 2: adopt  YxYxx
+  Row 3: banco  GGYYY
+  Row 4: dingo  xxYxY
+  Row 5: acorn  YYYxG
+
+Target: badge
+  Row 1: blade  GxYYG
+  Row 2: album  YxYxx
+  Row 3: begad  GYYYY
+  Row 4: cease  xxYxG
+  Row 5: beard  GYYxY
+
+Target: badly
+  Row 1: beady  GxYYG
+  Row 2: aglow  YxYxx
+  Row 3: baldy  GGYYG
+  Row 4: chard  xxYxY
+  Row 5: abled  YYYxY
+
+Target: bagel
+  Row 1: amble  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: belga  GYYYY
+  Row 4: chafe  xxYxY
+  Row 5: algae  YYGxY
+
+Target: baker
+  Row 1: amber  YxYGG
+  Row 2: acrid  YxYxx
+  Row 3: brake  GYYYY
+  Row 4: chafe  xxYxY
+  Row 5: barge  GGYxY
+
+Target: baler
+  Row 1: amber  YxYGG
+  Row 2: acrid  YxYxx
+  Row 3: blare  GYYYY
+  Row 4: chafe  xxYxY
+  Row 5: barge  GGYxY
+
+Target: balmy
+  Row 1: loamy  YxYGG
+  Row 2: admin  YxYxx
+  Row 3: lamby  YGYYG
+  Row 4: charm  xxYxY
+  Row 5: album  YYYxY
+
+Target: banal
+  Row 1: amban  YxYGY
+  Row 2: adage  YxYxx
+  Row 3: nabla  YGYYY
+  Row 4: chain  xxYxY
+  Row 5: balsa  GGYxY
+
+Target: barge
+  Row 1: amber  YxYYY
+  Row 2: acrid  YxGxx
+  Row 3: begar  GYYYY
+  Row 4: cease  xxYxG
+  Row 5: agree  YYGxG
+
+Target: baron
+  Row 1: acorn  YxYYG
+  Row 2: acrid  YxGxx
+  Row 3: borna  GYGYY
+  Row 4: chain  xxYxG
+  Row 5: banjo  GGYxY
+
+Target: basal
+  Row 1: amlas  YxYGY
+  Row 2: adage  YxYxx
+  Row 3: albas  YYYGY
+  Row 4: chaos  xxYxY
+  Row 5: basil  GGGxG
+
+Target: basil
+  Row 1: snail  YxYGG
+  Row 2: afire  YxYxx
+  Row 3: bails  GGYYY
+  Row 4: chaos  xxYxY
+  Row 5: basal  GGGxG
+
+Target: basin
+  Row 1: brain  GxYGG
+  Row 2: afire  YxYxx
+  Row 3: nabis  YGYGY
+  Row 4: chaos  xxYxY
+  Row 5: bison  GYGxG
+
+Target: basis
+  Row 1: amiss  YxYYG
+  Row 2: afire  YxYxx
+  Row 3: bassi  GGGYY
+  Row 4: chaos  xxYxG
+  Row 5: abies  YYYxG
+
+Target: baste
+  Row 1: asset  YxGYY
+  Row 2: actor  YxYxx
+  Row 3: beast  GYYYY
+  Row 4: chafe  xxYxG
+  Row 5: bathe  GGYxG
+
+Target: bathe
+  Row 1: bleat  GxYYY
+  Row 2: actor  YxGxx
+  Row 3: beath  GYYYY
+  Row 4: cease  xxYxG
+  Row 5: batch  GGGxY
+
+Target: beady
+  Row 1: blade  GxGGY
+  Row 2: agent  YxYxx
+  Row 3: bayed  GYYYY
+  Row 4: agape  xxGxY
+  Row 5: badge  GYYxY
+
+Target: beard
+  Row 1: aider  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: bread  GYYYG
+  Row 4: agape  xxGxY
+  Row 5: badge  GYYxY
+
+Target: beast
+  Row 1: blast  GxGGG
+  Row 2: actor  YxYxx
+  Row 3: baste  GYYYY
+  Row 4: adage  xxGxY
+  Row 5: bathe  GYYxY
+
+Target: began
+  Row 1: binge  GxYYY
+  Row 2: adept  YxYxx
+  Row 3: benga  GGYYY
+  Row 4: chafe  xxYxY
+  Row 5: angle  YYGxY
+
+Target: begin
+  Row 1: brine  GxYYY
+  Row 2: baggy  GxGxx
+  Row 3: being  GGYYY
+  Row 4: afire  xxYxY
+  Row 5: began  GGGxG
+
+Target: being
+  Row 1: brine  GxGGY
+  Row 2: baggy  GxYxx
+  Row 3: begin  GGYYY
+  Row 4: afire  xxGxY
+  Row 5: began  GGYxY
+
+Target: belch
+  Row 1: cable  YxYYY
+  Row 2: bacon  GxYxx
+  Row 3: blech  GYYGG
+  Row 4: false  xxGxY
+  Row 5: belah  GGGxG
+
+Target: below
+  Row 1: whole  YxYYY
+  Row 2: balmy  GxGxx
+  Row 3: bowel  GYYYY
+  Row 4: adore  xxYxY
+  Row 5: bloke  GYYxY
+
+Target: beset
+  Row 1: baste  GxGYY
+  Row 2: basal  GxGxx
+  Row 3: beets  GGYYY
+  Row 4: adept  xxYxG
+  Row 5: beefs  GGYxY
+
+Target: bilge
+  Row 1: bagel  GxYYY
+  Row 2: balmy  GxGxx
+  Row 3: gibel  YGYYY
+  Row 4: afire  xxYxG
+  Row 5: being  GYYxY
+
+Target: binge
+  Row 1: brine  GxYYG
+  Row 2: banal  GxGxx
+  Row 3: begin  GYYYY
+  Row 4: afire  xxYxG
+  Row 5: began  GYYxY
+
+Target: bingo
+  Row 1: begin  GxYYY
+  Row 2: bagel  GxYxx
+  Row 3: boing  GYYYY
+  Row 4: acorn  xxYxY
+  Row 5: bogan  GYYxY
+
+Target: biome
+  Row 1: brome  GxGGG
+  Row 2: bleak  GxYxx
+  Row 3: mobie  YYYYG
+  Row 4: adore  xxGxG
+  Row 5: imbue  YYYxG
+
+Target: birth
+  Row 1: berth  GxGGG
+  Row 2: barge  GxGxx
+  Row 3: brith  GYYGG
+  Row 4: actor  xxYxY
+  Row 5: birch  GGGxG
+
+Target: blade
+  Row 1: amble  YxYYG
+  Row 2: agent  YxYxx
+  Row 3: abled  YYYYY
+  Row 4: agape  xxGxG
+  Row 5: badge  GYYxG
+
+Target: blame
+  Row 1: brame  GxGGG
+  Row 2: adept  YxYxx
+  Row 3: amble  YYYYG
+  Row 4: adage  xxGxG
+  Row 5: album  YGYxY
+
+Target: blare
+  Row 1: amber  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: baler  GYYYY
+  Row 4: adage  xxGxG
+  Row 5: barge  GYYxG
+
+Target: blast
+  Row 1: beast  GxGGG
+  Row 2: actor  YxYxx
+  Row 3: blats  GGGYY
+  Row 4: adapt  xxGxG
+  Row 5: basal  GYYxY
+
+Target: bleat
+  Row 1: amble  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: table  YYYYY
+  Row 4: chafe  xxYxY
+  Row 5: alert  YGGxG
+
+Target: bleed
+  Row 1: breed  GxGGG
+  Row 2: balmy  GxYxx
+  Row 3: bedel  GYYGY
+  Row 4: ahead  xxGxG
+  Row 5: belie  GYYxY
+
+Target: bleep
+  Row 1: expel  YxYGY
+  Row 2: balmy  GxYxx
+  Row 3: plebe  YGGYY
+  Row 4: cabal  xxYxY
+  Row 5: belie  GYYxY
+
+Target: bless
+  Row 1: baels  GxGYG
+  Row 2: balmy  GxYxx
+  Row 3: slebs  YGGYG
+  Row 4: cabal  xxYxY
+  Row 5: bells  GYYxG
+
+Target: bluer
+  Row 1: baler  GxYGG
+  Row 2: balmy  GxYxx
+  Row 3: brule  GYGYY
+  Row 4: acute  xxGxY
+  Row 5: brute  GYGxY
+
+Target: blush
+  Row 1: brush  GxGGG
+  Row 2: baler  GxYxx
+  Row 3: buhls  GYYYY
+  Row 4: cabal  xxYxY
+  Row 5: bhuts  GYGxY
+
+Target: board
+  Row 1: beard  GxGGG
+  Row 2: afoot  YxYxx
+  Row 3: broad  GYYYG
+  Row 4: chair  xxGxY
+  Row 5: braid  GYGxG
+
+Target: boast
+  Row 1: beast  GxGGG
+  Row 2: acorn  YxYxx
+  Row 3: basto  GYYYY
+  Row 4: adapt  xxGxG
+  Row 5: abort  YYYxG
+
+Target: bongo
+  Row 1: bingo  GxGGG
+  Row 2: bagel  GxYxx
+  Row 3: boong  GGYYY
+  Row 4: acorn  xxYxY
+  Row 5: bogan  GGYxY
+
+Target: bonus
+  Row 1: bison  GxYYY
+  Row 2: banal  GxGxx
+  Row 3: bosun  GGYGY
+  Row 4: acorn  xxYxY
+  Row 5: bonds  GGGxG
+
+Target: booby
+  Row 1: baboo  GxYYY
+  Row 2: bible  GxYxx
+  Row 3: yobbo  YGYGY
+  Row 4: agony  xxGxG
+  Row 5: booty  GGGxG
+
+Target: boost
+  Row 1: shoot  YxGYG
+  Row 2: basal  GxYxx
+  Row 3: boots  GGGYY
+  Row 4: adopt  xxGxG
+  Row 5: boobs  GGGxY
+
+Target: booth
+  Row 1: broth  GxGGG
+  Row 2: betel  GxYxx
+  Row 3: bhoot  GYGYY
+  Row 4: adopt  xxGxY
+  Row 5: boost  GGGxY
+
+Target: borne
+  Row 1: baron  GxGYY
+  Row 2: banal  GxYxx
+  Row 3: boner  GGYYY
+  Row 4: agree  xxGxG
+  Row 5: broke  GYYxG
+
+Target: bosom
+  Row 1: bloom  GxYGG
+  Row 2: basal  GxGxx
+  Row 3: booms  GGYYY
+  Row 4: album  xxYxG
+  Row 5: bomas  GGYxY
+
+Target: bowel
+  Row 1: whole  YxYYY
+  Row 2: balmy  GxYxx
+  Row 3: below  GYYYY
+  Row 4: adore  xxYxY
+  Row 5: bloke  GYYxY
+
+Target: brace
+  Row 1: amber  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: acerb  YYYYY
+  Row 4: adage  xxGxG
+  Row 5: barge  GYYxG
+
+Target: braid
+  Row 1: acrid  YxYGG
+  Row 2: agile  YxYxx
+  Row 3: rabid  YYYGG
+  Row 4: child  xxYxG
+  Row 5: aider  YYYxY
+
+Target: brain
+  Row 1: robin  YxYGG
+  Row 2: agile  YxYxx
+  Row 3: abrin  YYYGG
+  Row 4: climb  xxYxY
+  Row 5: baron  GYYxG
+
+Target: brake
+  Row 1: amber  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: baker  GYYYY
+  Row 4: adage  xxGxG
+  Row 5: barge  GYYxG
+
+Target: bread
+  Row 1: aider  YxYYY
+  Row 2: agent  YxGxx
+  Row 3: beard  GYYYG
+  Row 4: chafe  xxYxY
+  Row 5: badge  GYYxY
+
+Target: break
+  Row 1: amber  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: baker  GYYYY
+  Row 4: chafe  xxYxY
+  Row 5: barge  GYYxY
+
+Target: breed
+  Row 1: bleed  GxGGG
+  Row 2: badly  GxYxx
+  Row 3: brede  GGGYY
+  Row 4: acrid  xxYxG
+  Row 5: bread  GGGxG
+
+Target: bride
+  Row 1: rabid  YxYYY
+  Row 2: badly  GxYxx
+  Row 3: bider  GYYYY
+  Row 4: agile  xxGxG
+  Row 5: bread  GGYxY
+
+Target: brief
+  Row 1: flier  YxGGY
+  Row 2: baron  GxYxx
+  Row 3: fiber  YYYGY
+  Row 4: agile  xxGxY
+  Row 5: bribe  GGGxY
+
+Target: brine
+  Row 1: borne  GxYGG
+  Row 2: banal  GxYxx
+  Row 3: biner  GYYYY
+  Row 4: agile  xxGxG
+  Row 5: binge  GYYxG
+
+Target: brisk
+  Row 1: shirk  YxGYG
+  Row 2: barge  GxYxx
+  Row 3: birks  GYYYY
+  Row 4: amber  xxYxY
+  Row 5: brick  GGGxG
+
+Target: broad
+  Row 1: beard  GxYYG
+  Row 2: afoot  YxGxx
+  Row 3: board  GYYYG
+  Row 4: chair  xxYxY
+  Row 5: braid  GGYxG
+
+Target: broke
+  Row 1: baker  GxYYY
+  Row 2: birch  GxYxx
+  Row 3: berko  GYYGY
+  Row 4: agree  xxYxG
+  Row 5: borne  GYYxG
+
+Target: brood
+  Row 1: blood  GxGGG
+  Row 2: badge  GxYxx
+  Row 3: boord  GYGYG
+  Row 4: acrid  xxYxG
+  Row 5: broad  GGGxG
+
+Target: broom
+  Row 1: bloom  GxGGG
+  Row 2: barge  GxYxx
+  Row 3: bromo  GGGYY
+  Row 4: album  xxYxG
+  Row 5: bombo  GYYxY
+
+Target: broth
+  Row 1: berth  GxYGG
+  Row 2: barge  GxYxx
+  Row 3: throb  YYYYY
+  Row 4: adopt  xxGxY
+  Row 5: botch  GYYxG
+
+Target: brunt
+  Row 1: blunt  GxGGG
+  Row 2: banal  GxYxx
+  Row 3: burnt  GYYGG
+  Row 4: actor  xxYxY
+  Row 5: burst  GYYxG
+
+Target: brush
+  Row 1: blush  GxGGG
+  Row 2: barge  GxYxx
+  Row 3: shrub  YYYYY
+  Row 4: amber  xxYxY
+  Row 5: usher  YYYxY
+
+Target: brute
+  Row 1: bluer  GxGYY
+  Row 2: baron  GxYxx
+  Row 3: rebut  YYYYY
+  Row 4: actor  xxYxY
+  Row 5: beret  GYYxY
+
+Target: budge
+  Row 1: badge  GxGGG
+  Row 2: badly  GxGxx
+  Row 3: debug  YYYYY
+  Row 4: acute  xxYxG
+  Row 5: bugle  GGYxG
+
+Target: bugle
+  Row 1: bagel  GxGYY
+  Row 2: baggy  GxGxx
+  Row 3: bulge  GGYYG
+  Row 4: acute  xxYxG
+  Row 5: blude  GYYxG
+
+Target: build
+  Row 1: unbid  YxYYG
+  Row 2: badge  GxYxx
+  Row 3: bluid  GYYYG
+  Row 4: axial  xxGxY
+  Row 5: blind  GYGxG
+
+Target: bulge
+  Row 1: bagel  GxYYY
+  Row 2: balmy  GxGxx
+  Row 3: bugle  GGYYG
+  Row 4: acute  xxYxG
+  Row 5: blude  GYYxG
+
+Target: burnt
+  Row 1: blunt  GxYGG
+  Row 2: banal  GxYxx
+  Row 3: brunt  GYYGG
+  Row 4: actor  xxYxY
+  Row 5: burst  GGGxG
+
+Target: burst
+  Row 1: blurt  GxYYG
+  Row 2: barge  GxGxx
+  Row 3: brust  GYYGG
+  Row 4: actor  xxYxY
+  Row 5: brunt  GYYxG
+
+Target: bused
+  Row 1: based  GxGGG
+  Row 2: badly  GxYxx
+  Row 3: debus  YYYYY
+  Row 4: acute  xxYxY
+  Row 5: budge  GGYxY
+
+Target: buyer
+  Row 1: bluer  GxYGG
+  Row 2: baron  GxYxx
+  Row 3: rebuy  YYYYY
+  Row 4: acute  xxYxY
+  Row 5: berry  GYYxY
+
+Target: cache
+  Row 1: coach  GxYYY
+  Row 2: abhor  YxYxx
+  Row 3: chace  GYYYG
+  Row 4: blade  xxYxG
+  Row 5: chafe  GYYxG
+
+Target: cadet
+  Row 1: cheat  GxYYG
+  Row 2: altar  YxYxx
+  Row 3: acted  YYYGY
+  Row 4: blame  xxYxY
+  Row 5: adept  YYYxG
+
+Target: cairn
+  Row 1: chain  GxYYG
+  Row 2: abide  YxGxx
+  Row 3: naric  YGYYY
+  Row 4: decor  xxYxY
+  Row 5: circa  GYYxY
+
+Target: camel
+  Row 1: cream  GxYYY
+  Row 2: adept  YxYxx
+  Row 3: clame  GYYYY
+  Row 4: bilge  xxYxY
+  Row 5: claim  GYYxY
+
+Target: cameo
+  Row 1: cream  GxYYY
+  Row 2: abort  YxYxx
+  Row 3: comae  GYGYY
+  Row 4: blade  xxYxY
+  Row 5: comma  GYGxY
+
+Target: candy
+  Row 1: decay  YxYYG
+  Row 2: abyss  YxYxx
+  Row 3: dancy  YGGYG
+  Row 4: beard  xxYxY
+  Row 5: canny  GGGxG
+
+Target: canoe
+  Row 1: alone  YxYYG
+  Row 2: abort  YxYxx
+  Row 3: ocean  YYYYY
+  Row 4: binge  xxGxG
+  Row 5: acorn  YYYxY
+
+Target: canon
+  Row 1: ascon  YxYGG
+  Row 2: abode  YxYxx
+  Row 3: ancon  YYYGG
+  Row 4: bingo  xxGxY
+  Row 5: acorn  YYYxG
+
+Target: caper
+  Row 1: cheap  GxYYY
+  Row 2: agent  YxYxx
+  Row 3: recap  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: carve  GGYxY
+
+Target: carat
+  Row 1: altar  YxYGY
+  Row 2: abase  YxYxx
+  Row 3: carta  GGGYY
+  Row 4: beast  xxYxG
+  Row 5: actor  YYYxY
+
+Target: carol
+  Row 1: color  GxYGY
+  Row 2: abled  YxYxx
+  Row 3: coral  GYGYG
+  Row 4: delta  xxYxY
+  Row 5: cargo  GGGxY
+
+Target: carve
+  Row 1: clear  GxYYY
+  Row 2: adept  YxYxx
+  Row 3: crave  GYYGG
+  Row 4: blade  xxYxG
+  Row 5: crane  GYYxG
+
+Target: caste
+  Row 1: asset  YxGYY
+  Row 2: ahead  YxYxx
+  Row 3: cates  GGYYY
+  Row 4: blade  xxYxG
+  Row 5: ascot  YYYxY
+
+Target: cater
+  Row 1: after  YxGGG
+  Row 2: ahead  YxYxx
+  Row 3: crate  GYYYY
+  Row 4: blade  xxYxY
+  Row 5: actor  YYGxG
+
+Target: cause
+  Row 1: abuse  YxGGG
+  Row 2: adept  YxYxx
+  Row 3: sauce  YGGYG
+  Row 4: blade  xxYxG
+  Row 5: acute  YYGxG
+
+Target: cavil
+  Row 1: anvil  YxGGG
+  Row 2: abide  YxYxx
+  Row 3: clavi  GYYYY
+  Row 4: bevel  xxGxG
+  Row 5: villa  YYYxY
+
+Target: cease
+  Row 1: chase  GxGGG
+  Row 2: adept  YxYxx
+  Row 3: caese  GYYGG
+  Row 4: abate  xxGxG
+  Row 5: caste  GYYxG
+
+Target: cedar
+  Row 1: aider  YxGYG
+  Row 2: agent  YxYxx
+  Row 3: acred  YYYYY
+  Row 4: blame  xxYxY
+  Row 5: acrid  YYYxY
+
+Target: chain
+  Row 1: amnic  YxYGY
+  Row 2: abhor  YxYxx
+  Row 3: china  GGYYY
+  Row 4: awash  xxGxY
+  Row 5: cairn  GYYxG
+
+Target: chair
+  Row 1: reach  YxGYY
+  Row 2: abide  YxYxx
+  Row 3: archi  YYYYY
+  Row 4: awash  xxGxY
+  Row 5: china  GGYxY
+
+Target: chant
+  Row 1: notch  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: natch  YYYYY
+  Row 4: adapt  xxGxG
+  Row 5: antic  YYYxY
+
+Target: chaos
+  Row 1: clash  GxGYY
+  Row 2: abode  YxYxx
+  Row 3: oshac  YYYYY
+  Row 4: amass  xxGxG
+  Row 5: coach  GYGxY
+
+Target: charm
+  Row 1: mocha  YxYYY
+  Row 2: admin  YxYxx
+  Row 3: march  YYYYY
+  Row 4: awash  xxGxY
+  Row 5: chair  GGGxY
+
+Target: chart
+  Row 1: heart  YxGGG
+  Row 2: agree  YxYxx
+  Row 3: ratch  YYYYY
+  Row 4: adapt  xxGxG
+  Row 5: actor  YYYxY
+
+Target: chase
+  Row 1: cease  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: aches  YYYYY
+  Row 4: abate  xxGxG
+  Row 5: caste  GYYxG
+
+Target: chasm
+  Row 1: clash  GxGGY
+  Row 2: abhor  YxYxx
+  Row 3: chams  GGGYY
+  Row 4: alarm  xxGxG
+  Row 5: chaos  GGGxY
+
+Target: cheap
+  Row 1: place  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: peach  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: chafe  GGYxY
+
+Target: cheat
+  Row 1: cleat  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: teach  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: catch  GYYxY
+
+Target: cheek
+  Row 1: creek  GxGGG
+  Row 2: clean  GxGxx
+  Row 3: keech  YYGYY
+  Row 4: ankle  xxYxY
+  Row 5: check  GGGxG
+
+Target: chess
+  Row 1: cress  GxGGG
+  Row 2: clean  GxGxx
+  Row 3: sechs  YYYYG
+  Row 4: aisle  xxYxY
+  Row 5: chefs  GGGxG
+
+Target: chest
+  Row 1: caste  GxYYY
+  Row 2: catty  GxYxx
+  Row 3: techs  YYYYY
+  Row 4: adept  xxGxG
+  Row 5: cheat  GGGxG
+
+Target: chide
+  Row 1: cried  GxGYY
+  Row 2: cairn  GxGxx
+  Row 3: iched  YYYYY
+  Row 4: afire  xxGxG
+  Row 5: child  GGGxY
+
+Target: chief
+  Row 1: ethic  YxYYY
+  Row 2: cairn  GxGxx
+  Row 3: fiche  YYYYY
+  Row 4: abide  xxGxY
+  Row 5: chide  GGGxY
+
+Target: chili
+  Row 1: ceili  GxGGG
+  Row 2: cairn  GxGxx
+  Row 3: lichi  YYYYG
+  Row 4: axial  xxGxY
+  Row 5: iliac  YYGxY
+
+Target: chime
+  Row 1: crime  GxGGG
+  Row 2: cairn  GxGxx
+  Row 3: hemic  YYYYY
+  Row 4: abide  xxGxG
+  Row 5: chide  GGGxG
+
+Target: china
+  Row 1: amnic  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: chain  GGYYY
+  Row 4: apnea  xxYxG
+  Row 5: cairn  GYGxY
+
+Target: choir
+  Row 1: curio  GxYGY
+  Row 2: carat  GxYxx
+  Row 3: chiro  GGYYY
+  Row 4: berth  xxYxY
+  Row 5: rhino  YGYxY
+
+Target: chore
+  Row 1: epoch  YxGYY
+  Row 2: carat  GxYxx
+  Row 3: ocher  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: cheer  GGYxY
+
+Target: chose
+  Row 1: close  GxGGG
+  Row 2: clean  GxYxx
+  Row 3: echos  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: choke  GGGxG
+
+Target: churn
+  Row 1: ranch  YxYYY
+  Row 2: canal  GxYxx
+  Row 3: runch  YYYYY
+  Row 4: abhor  xxYxY
+  Row 5: crush  GYGxY
+
+Target: chute
+  Row 1: haute  YxGGG
+  Row 2: caulk  GxGxx
+  Row 3: teuch  YYGYY
+  Row 4: abuse  xxGxG
+  Row 5: cheat  GGYxY
+
+Target: cider
+  Row 1: chide  GxYYY
+  Row 2: caddy  GxGxx
+  Row 3: cried  GYYGY
+  Row 4: agile  xxYxY
+  Row 5: cedar  GYGxG
+
+Target: cigar
+  Row 1: chair  GxYYG
+  Row 2: abide  YxYxx
+  Row 3: craig  GYYYY
+  Row 4: being  xxYxY
+  Row 5: circa  GGYxY
+
+Target: circa
+  Row 1: chair  GxYYY
+  Row 2: abide  YxYxx
+  Row 3: craic  GYYYY
+  Row 4: aorta  xxGxG
+  Row 5: cacti  GYYxY
+
+Target: claim
+  Row 1: armil  YxYGY
+  Row 2: abide  YxYxx
+  Row 3: malic  YYYGY
+  Row 4: brawl  xxGxY
+  Row 5: camel  GYYxY
+
+Target: clash
+  Row 1: crash  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: chals  GYGYY
+  Row 4: avail  xxGxY
+  Row 5: chaos  GYGxY
+
+Target: clasp
+  Row 1: chals  GxGYY
+  Row 2: abled  YxYxx
+  Row 3: scalp  YYGYG
+  Row 4: avail  xxGxY
+  Row 5: clamp  GGGxG
+
+Target: clean
+  Row 1: canal  GxYGY
+  Row 2: adept  YxGxx
+  Row 3: lance  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: canoe  GYYxY
+
+Target: clear
+  Row 1: coral  GxYGY
+  Row 2: adept  YxGxx
+  Row 3: carle  GYYYY
+  Row 4: bilge  xxYxY
+  Row 5: carol  GYYxY
+
+Target: cleat
+  Row 1: cheat  GxGGG
+  Row 2: aglow  YxYxx
+  Row 3: eclat  YYYGG
+  Row 4: bilge  xxYxY
+  Row 5: alert  YGGxG
+
+Target: close
+  Row 1: chose  GxGGG
+  Row 2: cheap  GxYxx
+  Row 3: coles  GYYYY
+  Row 4: abode  xxGxG
+  Row 5: cello  GYYxY
+
+Target: cloud
+  Row 1: cauld  GxYYG
+  Row 2: caddy  GxYxx
+  Row 3: could  GYYYG
+  Row 4: abled  xxYxG
+  Row 5: clued  GGYxG
+
+Target: clued
+  Row 1: could  GxGYG
+  Row 2: caddy  GxYxx
+  Row 3: dulce  YYYYY
+  Row 4: abuse  xxGxY
+  Row 5: decal  YYYxY
+
+Target: coach
+  Row 1: ancho  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: chaco  GYGGY
+  Row 4: awash  xxGxG
+  Row 5: cacao  GYYxY
+
+Target: coast
+  Row 1: chaos  GxGYY
+  Row 2: abode  YxYxx
+  Row 3: ascot  YYYYG
+  Row 4: adapt  xxGxG
+  Row 5: scant  YYGxG
+
+Target: cobra
+  Row 1: barca  YxYYG
+  Row 2: abbey  YxGxx
+  Row 3: carbo  GYYYY
+  Row 4: ember  xxGxY
+  Row 5: bravo  YYYxY
+
+Target: color
+  Row 1: carol  GxYGY
+  Row 2: carat  GxYxx
+  Row 3: crool  GYYGY
+  Row 4: afoul  xxYxY
+  Row 5: coral  GGYxY
+
+Target: comet
+  Row 1: cameo  GxGGY
+  Row 2: catch  GxYxx
+  Row 3: comte  GGGYY
+  Row 4: abode  xxYxY
+  Row 5: metro  YYYxY
+
+Target: condo
+  Row 1: choon  GxYYY
+  Row 2: cadet  GxYxx
+  Row 3: codon  GGYYY
+  Row 4: aloud  xxYxY
+  Row 5: coden  GGYxY
+
+Target: copse
+  Row 1: chose  GxYGG
+  Row 2: caput  GxGxx
+  Row 3: scope  YYYYG
+  Row 4: abode  xxYxG
+  Row 5: pesto  YYYxY
+
+Target: coral
+  Row 1: ceorl  GxYYG
+  Row 2: abled  YxYxx
+  Row 3: carol  GYGYG
+  Row 4: delta  xxYxY
+  Row 5: cargo  GYGxY
+
+Target: corer
+  Row 1: chore  GxYYY
+  Row 2: carat  GxGxx
+  Row 3: crore  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: credo  GYYxY
+
+Target: corny
+  Row 1: rayon  YxYYY
+  Row 2: canal  GxYxx
+  Row 3: crony  GYYGG
+  Row 4: array  xxGxG
+  Row 5: crown  GYYxY
+
+Target: cough
+  Row 1: gauch  YxGYG
+  Row 2: cagey  GxYxx
+  Row 3: gouch  YGGYG
+  Row 4: along  xxYxY
+  Row 5: couch  GGGxG
+
+Target: could
+  Row 1: cauld  GxGGG
+  Row 2: caddy  GxYxx
+  Row 3: cloud  GYYYG
+  Row 4: abled  xxYxG
+  Row 5: clued  GYGxG
+
+Target: court
+  Row 1: clout  GxYYG
+  Row 2: carve  GxYxx
+  Row 3: crout  GYYYG
+  Row 4: adopt  xxYxG
+  Row 5: count  GGGxG
+
+Target: craft
+  Row 1: chart  GxGYG
+  Row 2: agree  YxYxx
+  Row 3: fract  YGGYG
+  Row 4: adapt  xxGxG
+  Row 5: actor  YYYxY
+
+Target: crane
+  Row 1: clean  GxYYY
+  Row 2: adept  YxYxx
+  Row 3: caner  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: canoe  GYYxG
+
+Target: crash
+  Row 1: clash  GxGGG
+  Row 2: agree  YxYxx
+  Row 3: chars  GYGYY
+  Row 4: berth  xxYxG
+  Row 5: chair  GYGxY
+
+Target: crass
+  Row 1: class  GxGGG
+  Row 2: agree  YxYxx
+  Row 3: scars  YYGYG
+  Row 4: decor  xxYxY
+  Row 5: acres  YYYxG
+
+Target: crave
+  Row 1: clear  GxYYY
+  Row 2: adept  YxYxx
+  Row 3: carve  GYYGG
+  Row 4: abase  xxGxG
+  Row 5: crane  GGGxG
+
+Target: creak
+  Row 1: clear  GxGGY
+  Row 2: adept  YxGxx
+  Row 3: acker  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: carve  GYYxY
+
+Target: cream
+  Row 1: charm  GxYYG
+  Row 2: adept  YxGxx
+  Row 3: crame  GGYYY
+  Row 4: blade  xxYxY
+  Row 5: carve  GYYxY
+
+Target: credo
+  Row 1: chord  GxYYY
+  Row 2: carat  GxYxx
+  Row 3: decor  YYYYY
+  Row 4: above  xxYxY
+  Row 5: cedar  GYYxY
+
+Target: creed
+  Row 1: cheer  GxGGY
+  Row 2: caddy  GxYxx
+  Row 3: ceder  GYYGY
+  Row 4: ahead  xxGxG
+  Row 5: cedar  GYYxY
+
+Target: creep
+  Row 1: caper  GxYGY
+  Row 2: caput  GxYxx
+  Row 3: crepe  GGGYY
+  Row 4: ample  xxYxY
+  Row 5: creme  GGGxY
+
+Target: crepe
+  Row 1: caper  GxYYY
+  Row 2: caput  GxYxx
+  Row 3: creep  GGGYY
+  Row 4: ample  xxYxG
+  Row 5: creme  GGGxG
+
+Target: crest
+  Row 1: caste  GxYYY
+  Row 2: cargo  GxYxx
+  Row 3: certs  GYYYY
+  Row 4: adept  xxGxG
+  Row 5: crept  GGGxG
+
+Target: cried
+  Row 1: chide  GxGYY
+  Row 2: caddy  GxYxx
+  Row 3: cider  GYYGY
+  Row 4: agile  xxGxY
+  Row 5: cedar  GYYxY
+
+Target: crier
+  Row 1: corer  GxYGG
+  Row 2: carat  GxYxx
+  Row 3: ricer  YYYGG
+  Row 4: abide  xxGxY
+  Row 5: crime  GGGxY
+
+Target: crisp
+  Row 1: chirp  GxGYG
+  Row 2: caput  GxYxx
+  Row 3: crips  GGGYY
+  Row 4: blimp  xxGxG
+  Row 5: crimp  GGGxG
+
+Target: crone
+  Row 1: canoe  GxYYG
+  Row 2: canal  GxYxx
+  Row 3: oncer  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: credo  GGYxY
+
+Target: crony
+  Row 1: rayon  YxYYY
+  Row 2: canal  GxYxx
+  Row 3: corny  GYYGG
+  Row 4: aunty  xxYxG
+  Row 5: crown  GGGxY
+
+Target: crude
+  Row 1: cider  GxYYY
+  Row 2: carat  GxYxx
+  Row 3: cured  GYYYY
+  Row 4: abuse  xxGxG
+  Row 5: cedar  GYYxY
+
+Target: cruel
+  Row 1: uncle  YxYYY
+  Row 2: carat  GxYxx
+  Row 3: ulcer  YYYGY
+  Row 4: abuse  xxGxY
+  Row 5: clear  GYYxY
+
+Target: crust
+  Row 1: court  GxGYG
+  Row 2: cargo  GxYxx
+  Row 3: curst  GYYGG
+  Row 4: adult  xxGxG
+  Row 5: cruds  GGGxY
+
+Target: cumin
+  Row 1: manic  YxYGY
+  Row 2: camel  GxGxx
+  Row 3: mucin  YGYGG
+  Row 4: alien  xxYxG
+  Row 5: cunei  GGYxY
+
+Target: curve
+  Row 1: carve  GxGGG
+  Row 2: carat  GxGxx
+  Row 3: cruve  GYYGG
+  Row 4: abuse  xxYxG
+  Row 5: crude  GYYxG
+
+Target: cycle
+  Row 1: chyle  GxYGG
+  Row 2: cacao  GxGxx
+  Row 3: leccy  YYGYY
+  Row 4: balmy  xxYxY
+  Row 5: cecal  GYGxY
+
+Target: dairy
+  Row 1: acrid  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: diary  GYYGG
+  Row 4: bland  xxYxY
+  Row 5: aider  YYYxY
+
+Target: daisy
+  Row 1: shady  YxYYG
+  Row 2: afire  YxGxx
+  Row 3: diyas  GYYYY
+  Row 4: beard  xxYxY
+  Row 5: daily  GGGxG
+
+Target: dally
+  Row 1: delay  GxGYG
+  Row 2: abyss  YxYxx
+  Row 3: laldy  YGGYG
+  Row 4: beard  xxYxY
+  Row 5: allay  YYGxG
+
+Target: dance
+  Row 1: amend  YxYYY
+  Row 2: alert  YxYxx
+  Row 3: acned  YYGYY
+  Row 4: binge  xxGxG
+  Row 5: canoe  YGGxG
+
+Target: dealt
+  Row 1: abled  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: delta  GGYYY
+  Row 4: abase  xxGxY
+  Row 5: adept  YYYxG
+
+Target: death
+  Row 1: trade  YxGYY
+  Row 2: abhor  YxYxx
+  Row 3: hated  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: adept  YYYxY
+
+Target: debar
+  Row 1: aider  YxYYG
+  Row 2: abbot  YxGxx
+  Row 3: beard  YGYYY
+  Row 4: bible  xxGxY
+  Row 5: badge  YYYxY
+
+Target: debit
+  Row 1: bride  YxYYY
+  Row 2: badly  YxYxx
+  Row 3: betid  YGYGY
+  Row 4: abbot  xxGxG
+  Row 5: debut  GGGxG
+
+Target: debug
+  Row 1: badge  YxYYY
+  Row 2: badly  YxYxx
+  Row 3: budge  YYYYY
+  Row 4: acute  xxYxY
+  Row 5: bugle  YYYxY
+
+Target: decor
+  Row 1: chord  YxYYY
+  Row 2: caddy  YxYxx
+  Row 3: credo  YYYYY
+  Row 4: above  xxYxY
+  Row 5: cedar  YGYxG
+
+Target: decoy
+  Row 1: credo  YxYYY
+  Row 2: cheap  YxYxx
+  Row 3: coyed  YYYYY
+  Row 4: above  xxYxY
+  Row 5: decay  GGGxG
+
+Target: decry
+  Row 1: cider  YxYYY
+  Row 2: carat  YxYxx
+  Row 3: cyder  YYYYY
+  Row 4: ahead  xxYxY
+  Row 5: cedar  YGYxY
+
+Target: defer
+  Row 1: elder  YxYGG
+  Row 2: dirty  GxYxx
+  Row 3: freed  YYYGY
+  Row 4: acrid  xxYxY
+  Row 5: drere  GYYxY
+
+Target: deign
+  Row 1: doing  GxGYY
+  Row 2: daily  GxGxx
+  Row 3: dinge  GYYGY
+  Row 4: afire  xxGxY
+  Row 5: indie  YYYxY
+
+Target: delay
+  Row 1: abled  YxGYY
+  Row 2: abyss  YxYxx
+  Row 3: layed  YYYYY
+  Row 4: biddy  xxYxG
+  Row 5: dally  GYGxG
+
+Target: delta
+  Row 1: abled  YxGYY
+  Row 2: actor  YxYxx
+  Row 3: dealt  GGYYY
+  Row 4: arena  xxYxG
+  Row 5: adept  YYYxY
+
+Target: delve
+  Row 1: ealed  YxGYY
+  Row 2: dally  GxGxx
+  Row 3: devel  GGYYY
+  Row 4: ahead  xxYxY
+  Row 5: devil  GGYxY
+
+Target: demon
+  Row 1: drone  GxYYY
+  Row 2: dandy  GxYxx
+  Row 3: monde  YYYYY
+  Row 4: above  xxYxY
+  Row 5: denim  GGYxY
+
+Target: demur
+  Row 1: under  YxYYG
+  Row 2: daunt  GxYxx
+  Row 3: mured  YYYYY
+  Row 4: abuse  xxYxY
+  Row 5: dream  GYYxY
+
+Target: dense
+  Row 1: scene  YxYYG
+  Row 2: dandy  GxGxx
+  Row 3: deens  GGYYY
+  Row 4: ahead  xxYxY
+  Row 5: ensue  YYYxG
+
+Target: deter
+  Row 1: eater  YxGGG
+  Row 2: datum  GxGxx
+  Row 3: treed  YYYGY
+  Row 4: acrid  xxYxY
+  Row 5: erect  YYYxY
+
+Target: diary
+  Row 1: acrid  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: dairy  GYYGG
+  Row 4: bland  xxGxY
+  Row 5: aider  YGYxY
+
+Target: dingo
+  Row 1: deign  GxYGY
+  Row 2: daily  GxYxx
+  Row 3: doing  GYYYY
+  Row 4: acorn  xxYxY
+  Row 5: gonad  YYGxY
+
+Target: dingy
+  Row 1: deign  GxYGY
+  Row 2: dance  GxGxx
+  Row 3: dying  GYYYY
+  Row 4: alien  xxYxY
+  Row 5: giddy  YGYxG
+
+Target: dirge
+  Row 1: glide  YxYYG
+  Row 2: daily  GxYxx
+  Row 3: ridge  YGYGG
+  Row 4: ahead  xxYxY
+  Row 5: drive  GYYxG
+
+Target: disco
+  Row 1: stoic  YxYYY
+  Row 2: caddy  YxYxx
+  Row 3: sodic  YYYYY
+  Row 4: aloud  xxYxY
+  Row 5: scold  YYYxY
+
+Target: ditch
+  Row 1: dutch  GxGGG
+  Row 2: caddy  YxYxx
+  Row 3: dicht  GGYYY
+  Row 4: ascot  xxYxY
+  Row 5: child  YYYxY
+
+Target: diver
+  Row 1: drier  GxYGG
+  Row 2: daily  GxYxx
+  Row 3: drive  GYYYY
+  Row 4: agile  xxYxY
+  Row 5: dirge  GGYxY
+
+Target: doing
+  Row 1: deign  GxGYY
+  Row 2: daily  GxGxx
+  Row 3: dingo  GYYYY
+  Row 4: acorn  xxYxY
+  Row 5: gonad  YGYxY
+
+Target: donor
+  Row 1: nidor  YxYGG
+  Row 2: dance  GxGxx
+  Row 3: doorn  GGYYY
+  Row 4: acrid  xxYxY
+  Row 5: drown  GYYxY
+
+Target: dowel
+  Row 1: endow  YxYYY
+  Row 2: dally  GxYxx
+  Row 3: dowle  GGGYY
+  Row 4: above  xxYxY
+  Row 5: dwell  GYYxG
+
+Target: dowry
+  Row 1: duroy  GxYYG
+  Row 2: diode  GxYxx
+  Row 3: rowdy  YGGYG
+  Row 4: acrid  xxYxY
+  Row 5: dowdy  GGGxG
+
+Target: dozen
+  Row 1: drone  GxYYY
+  Row 2: dandy  GxYxx
+  Row 3: zendo  YYYYY
+  Row 4: above  xxYxY
+  Row 5: donne  GGYxY
+
+Target: drain
+  Row 1: acrid  YxYGY
+  Row 2: agile  YxYxx
+  Row 3: nadir  YYYGY
+  Row 4: build  xxYxY
+  Row 5: aider  YYYxY
+
+Target: drake
+  Row 1: aider  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: arked  YGYYY
+  Row 4: aback  xxGxY
+  Row 5: drank  GGGxY
+
+Target: drama
+  Row 1: alarm  YxGYY
+  Row 2: aback  YxGxx
+  Row 3: damar  GYYYY
+  Row 4: bland  xxGxY
+  Row 5: armed  YGYxY
+
+Target: drape
+  Row 1: aider  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: padre  YYYYG
+  Row 4: abase  xxGxG
+  Row 5: drake  GGGxG
+
+Target: dread
+  Row 1: aider  YxYYY
+  Row 2: agent  YxGxx
+  Row 3: adder  YYYYY
+  Row 4: blame  xxYxY
+  Row 5: drake  GGYxY
+
+Target: dream
+  Row 1: aider  YxYYY
+  Row 2: agent  YxGxx
+  Row 3: armed  YGYYY
+  Row 4: bland  xxYxY
+  Row 5: amend  YYGxY
+
+Target: dried
+  Row 1: dared  GxYGG
+  Row 2: daddy  GxYxx
+  Row 3: redid  YYYYG
+  Row 4: agile  xxGxY
+  Row 5: dirge  GYYxY
+
+Target: drive
+  Row 1: dover  GxYYY
+  Row 2: daily  GxGxx
+  Row 3: diver  GYYYY
+  Row 4: agile  xxGxG
+  Row 5: dirge  GYYxG
+
+Target: drone
+  Row 1: diner  GxYYY
+  Row 2: dandy  GxYxx
+  Row 3: doner  GYYYY
+  Row 4: above  xxGxG
+  Row 5: donor  GYYxY
+
+Target: dross
+  Row 1: sword  YxGYY
+  Row 2: derby  GxYxx
+  Row 3: sords  YYYYG
+  Row 4: acrid  xxYxY
+  Row 5: dorbs  GYYxG
+
+Target: drove
+  Row 1: diver  GxYYY
+  Row 2: dirty  GxYxx
+  Row 3: dover  GYYYY
+  Row 4: acrid  xxYxY
+  Row 5: drone  GGGxG
+
+Target: drown
+  Row 1: doorn  GxGYG
+  Row 2: dance  GxYxx
+  Row 3: rownd  YYYYY
+  Row 4: acrid  xxYxY
+  Row 5: donor  GYYxY
+
+Target: dryer
+  Row 1: rider  YxYGG
+  Row 2: dwell  GxYxx
+  Row 3: derry  GYYYY
+  Row 4: acrid  xxYxY
+  Row 5: derby  GYYxY
+
+Target: dusty
+  Row 1: dauts  GxYGY
+  Row 2: deter  GxYxx
+  Row 3: study  YYYYG
+  Row 4: aptly  xxYxG
+  Row 5: dusky  GGGxG
+
+Target: dying
+  Row 1: deign  GxGYY
+  Row 2: dance  GxYxx
+  Row 3: dingy  GYYYY
+  Row 4: alien  xxGxY
+  Row 5: giddy  YYYxY
+
+Target: eager
+  Row 1: anger  YxGGG
+  Row 2: acrid  YxYxx
+  Row 3: agree  YYYGY
+  Row 4: blade  xxYxY
+  Row 5: argue  YYGxY
+
+Target: eagle
+  Row 1: angel  YxGYY
+  Row 2: adept  YxYxx
+  Row 3: aglee  YYYYG
+  Row 4: brace  xxYxG
+  Row 5: algae  YYGxG
+
+Target: early
+  Row 1: royal  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: layer  YGYYY
+  Row 4: bilge  xxYxY
+  Row 5: large  YGGxY
+
+Target: easel
+  Row 1: aisle  YxGYY
+  Row 2: adept  YxYxx
+  Row 3: lease  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: elate  GYYxY
+
+Target: eaten
+  Row 1: agent  YxYYY
+  Row 2: actor  YxGxx
+  Row 3: enate  GYYYY
+  Row 4: binge  xxYxY
+  Row 5: enact  GYYxY
+
+Target: eater
+  Row 1: after  YxGGG
+  Row 2: acrid  YxYxx
+  Row 3: arete  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: erase  GYYxY
+
+Target: eclat
+  Row 1: cheat  YxYGG
+  Row 2: aglow  YxGxx
+  Row 3: cleat  YYYGG
+  Row 4: bilge  xxGxY
+  Row 5: alert  YYYxG
+
+Target: edict
+  Row 1: cadet  YxYYG
+  Row 2: caddy  YxYxx
+  Row 3: cited  YYYYY
+  Row 4: afire  xxGxY
+  Row 5: deist  YYGxG
+
+Target: edify
+  Row 1: fried  YxGYY
+  Row 2: doing  YxGxx
+  Row 3: deify  YYGGG
+  Row 4: agile  xxGxY
+  Row 5: deity  YYGxG
+
+Target: egret
+  Row 1: eager  GxYGY
+  Row 2: early  GxGxx
+  Row 3: greet  YYYGG
+  Row 4: actor  xxYxY
+  Row 5: erect  GYYxG
+
+Target: elate
+  Row 1: eclat  GxYYY
+  Row 2: actor  YxYxx
+  Row 3: telae  YYYYG
+  Row 4: abase  xxGxG
+  Row 5: alert  YGYxY
+
+Target: elbow
+  Row 1: whole  YxYYY
+  Row 2: balmy  YxYxx
+  Row 3: below  YYYGG
+  Row 4: adore  xxYxY
+  Row 5: bloke  YGYxY
+
+Target: elder
+  Row 1: doree  YxYGY
+  Row 2: dally  YxYxx
+  Row 3: lered  YYYGY
+  Row 4: acrid  xxYxY
+  Row 5: delve  YYYxY
+
+Target: elide
+  Row 1: exile  GxGYG
+  Row 2: dairy  YxGxx
+  Row 3: edile  GYGYG
+  Row 4: afire  xxGxG
+  Row 5: delve  YYYxG
+
+Target: email
+  Row 1: agile  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: maile  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: alike  YYYxY
+
+Target: ember
+  Row 1: boree  YxYGY
+  Row 2: baron  YxYxx
+  Row 3: berme  YYYYY
+  Row 4: album  xxGxY
+  Row 5: merge  YYYxY
+
+Target: endow
+  Row 1: drone  YxYYY
+  Row 2: dandy  YxYxx
+  Row 3: nowed  YYYYY
+  Row 4: above  xxYxY
+  Row 5: dewan  YYYxY
+
+Target: ensue
+  Row 1: scene  YxYYG
+  Row 2: eject  GxYxx
+  Row 3: unsee  YGGYG
+  Row 4: acute  xxYxG
+  Row 5: sense  YYYxG
+
+Target: enter
+  Row 1: eaten  GxGGY
+  Row 2: early  GxYxx
+  Row 3: rente  YYYYY
+  Row 4: actor  xxGxG
+  Row 5: erect  GYYxY
+
+Target: entry
+  Row 1: earnt  GxYYY
+  Row 2: eerie  GxYxx
+  Row 3: yrent  YYYYY
+  Row 4: actor  xxGxY
+  Row 5: enter  GGGxY
+
+Target: equal
+  Row 1: ureal  YxYGG
+  Row 2: adept  YxYxx
+  Row 3: quale  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: quail  YYYxG
+
+Target: equip
+  Row 1: umpie  YxYGY
+  Row 2: edict  GxYxx
+  Row 3: pique  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: quite  YYYxY
+
+Target: erase
+  Row 1: agree  YxYYG
+  Row 2: acrid  YxYxx
+  Row 3: easer  GYYYY
+  Row 4: abate  xxGxG
+  Row 5: serve  YYYxG
+
+Target: erect
+  Row 1: cater  YxYYY
+  Row 2: cargo  YxYxx
+  Row 3: terce  YYYGY
+  Row 4: adept  xxGxG
+  Row 5: creme  YGGxY
+
+Target: erode
+  Row 1: elder  GxYYY
+  Row 2: dirty  YxYxx
+  Row 3: doree  YYYYG
+  Row 4: above  xxGxG
+  Row 5: drone  YGGxG
+
+Target: erupt
+  Row 1: route  YxGYY
+  Row 2: early  GxYxx
+  Row 3: upter  YYYYY
+  Row 4: abuse  xxGxY
+  Row 5: prude  YGGxY
+
+Target: essay
+  Row 1: abyss  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: eyass  GYYYY
+  Row 4: blade  xxYxY
+  Row 5: sassy  YYGxG
+
+Target: ester
+  Row 1: eater  GxGGG
+  Row 2: early  GxYxx
+  Row 3: reset  YYYGY
+  Row 4: actor  xxGxG
+  Row 5: erect  GYYxY
+
+Target: ether
+  Row 1: earth  GxYYY
+  Row 2: early  GxYxx
+  Row 3: there  YYYYY
+  Row 4: abhor  xxGxG
+  Row 5: erect  GYYxY
+
+Target: ethic
+  Row 1: cutie  YxYGY
+  Row 2: cairn  YxYxx
+  Row 3: theic  YYYGG
+  Row 4: abide  xxYxY
+  Row 5: cheat  YYYxY
+
+Target: ethos
+  Row 1: haste  YxYYY
+  Row 2: easel  GxYxx
+  Row 3: those  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: sheet  YYYxY
+
+Target: evade
+  Row 1: arede  YxYGG
+  Row 2: agent  YxYxx
+  Row 3: deave  YYGYG
+  Row 4: abase  xxGxG
+  Row 5: deare  YYGxG
+
+Target: every
+  Row 1: elver  GxYYY
+  Row 2: earth  GxYxx
+  Row 3: veery  YYGGG
+  Row 4: barge  xxYxY
+  Row 5: reedy  YYGxG
+
+Target: evict
+  Row 1: covet  YxYYG
+  Row 2: cairn  YxGxx
+  Row 3: civet  YYYYG
+  Row 4: abide  xxGxY
+  Row 5: civie  YYYxY
+
+Target: exalt
+  Row 1: eclat  GxYYG
+  Row 2: actor  YxYxx
+  Row 3: latex  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: alert  YYYxG
+
+Target: exist
+  Row 1: smite  YxGYY
+  Row 2: easel  GxYxx
+  Row 3: exits  GGGYY
+  Row 4: abide  xxGxY
+  Row 5: etics  GYGxY
+
+Target: eying
+  Row 1: eking  GxGGG
+  Row 2: eager  GxYxx
+  Row 3: gynie  YGYYY
+  Row 4: abide  xxGxY
+  Row 5: genty  YYYxY
+
+Target: faint
+  Row 1: flint  GxGGG
+  Row 2: abide  YxGxx
+  Row 3: fitna  GYYGY
+  Row 4: beast  xxYxG
+  Row 5: finca  GYYxY
+
+Target: false
+  Row 1: aisle  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: alefs  YYYYY
+  Row 4: belie  xxGxG
+  Row 5: easel  YGYxY
+
+Target: farce
+  Row 1: chafe  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: facer  GGYYY
+  Row 4: blade  xxYxG
+  Row 5: carve  YGGxG
+
+Target: feast
+  Row 1: shaft  YxGYG
+  Row 2: actor  YxYxx
+  Row 3: fates  GYYYY
+  Row 4: adage  xxGxY
+  Row 5: fetus  GGYxY
+
+Target: femur
+  Row 1: flume  GxYYY
+  Row 2: early  YxYxx
+  Row 3: fumer  GYGYG
+  Row 4: abuse  xxYxY
+  Row 5: feuar  GGYxG
+
+Target: feral
+  Row 1: filer  GxYYY
+  Row 2: acrid  YxGxx
+  Row 3: flare  GYYYY
+  Row 4: bilge  xxYxY
+  Row 5: false  GYYxY
+
+Target: ferry
+  Row 1: fiery  GxYGG
+  Row 2: earth  YxGxx
+  Row 3: fryer  GYYYY
+  Row 4: barge  xxGxY
+  Row 5: freer  GYYxY
+
+Target: fetal
+  Row 1: eclat  YxYGY
+  Row 2: actor  YxGxx
+  Row 3: aleft  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: alert  YYYxY
+
+Target: fetch
+  Row 1: cleft  YxYYY
+  Row 2: catty  YxGxx
+  Row 3: fecht  GGYYY
+  Row 4: adept  xxYxY
+  Row 5: cheat  YYYxY
+
+Target: fiber
+  Row 1: flier  GxYGG
+  Row 2: baron  YxYxx
+  Row 3: brief  YYYGY
+  Row 4: agile  xxYxY
+  Row 5: bribe  YYYxY
+
+Target: fibre
+  Row 1: flier  GxYYY
+  Row 2: baron  YxYxx
+  Row 3: brief  YYYYY
+  Row 4: agile  xxYxG
+  Row 5: bribe  YYYxG
+
+Target: ficus
+  Row 1: focus  GxGGG
+  Row 2: cairn  YxYxx
+  Row 3: cuifs  YYYYG
+  Row 4: amiss  xxYxG
+  Row 5: cuffs  YYYxG
+
+Target: field
+  Row 1: fried  GxYYG
+  Row 2: dairy  YxYxx
+  Row 3: felid  GYYYG
+  Row 4: ahead  xxGxG
+  Row 5: fiend  GGGxG
+
+Target: fiend
+  Row 1: elfin  YxYYY
+  Row 2: daily  YxYxx
+  Row 3: fined  GGYYG
+  Row 4: agile  xxYxY
+  Row 5: deign  YYYxY
+
+Target: fiery
+  Row 1: edify  YxYYG
+  Row 2: earth  YxYxx
+  Row 3: reify  YYYYG
+  Row 4: abide  xxYxY
+  Row 5: rifle  YGYxY
+
+Target: filer
+  Row 1: idler  YxGGG
+  Row 2: earth  YxYxx
+  Row 3: flier  GYYGG
+  Row 4: abide  xxYxY
+  Row 5: feral  GYYxY
+
+Target: filet
+  Row 1: inlet  YxGGG
+  Row 2: eking  YxYxx
+  Row 3: flite  GYYYY
+  Row 4: abide  xxYxY
+  Row 5: fetal  GYYxY
+
+Target: finer
+  Row 1: elfin  YxYYY
+  Row 2: early  YxYxx
+  Row 3: infer  YYYGG
+  Row 4: abide  xxYxY
+  Row 5: feign  GYYxY
+
+Target: first
+  Row 1: flirt  GxYYG
+  Row 2: farce  GxGxx
+  Row 3: frist  GYYGG
+  Row 4: actor  xxYxY
+  Row 5: fires  GGGxY
+
+Target: fixer
+  Row 1: flier  GxYGG
+  Row 2: early  YxYxx
+  Row 3: refix  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: rifle  YGYxY
+
+Target: flair
+  Row 1: feral  GxYYY
+  Row 2: abide  YxYxx
+  Row 3: frail  GYGGY
+  Row 4: chief  xxYxY
+  Row 5: filer  GYYxG
+
+Target: flame
+  Row 1: frame  GxGGG
+  Row 2: adept  YxYxx
+  Row 3: femal  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: email  YYGxY
+
+Target: flare
+  Row 1: filer  GxYYY
+  Row 2: acrid  YxYxx
+  Row 3: feral  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: false  GYYxG
+
+Target: flash
+  Row 1: leash  YxGGG
+  Row 2: abhor  YxYxx
+  Row 3: halfs  YYYYY
+  Row 4: avail  xxGxY
+  Row 5: shawl  YYGxY
+
+Target: flask
+  Row 1: stalk  YxGYG
+  Row 2: abled  YxYxx
+  Row 3: flaks  GGGYY
+  Row 4: aback  xxGxG
+  Row 5: flack  GGGxG
+
+Target: fleet
+  Row 1: filet  GxYGG
+  Row 2: enema  YxGxx
+  Row 3: lefte  YYYYY
+  Row 4: adept  xxGxG
+  Row 5: elect  YGGxG
+
+Target: flier
+  Row 1: idler  YxYGG
+  Row 2: earth  YxYxx
+  Row 3: filer  GYYGG
+  Row 4: abide  xxGxY
+  Row 5: feral  GYYxY
+
+Target: float
+  Row 1: fatal  GxYGY
+  Row 2: abled  YxYxx
+  Row 3: aloft  YGGYG
+  Row 4: beast  xxYxG
+  Row 5: afoot  YYGxG
+
+Target: flyer
+  Row 1: early  YxYYY
+  Row 2: earth  YxYxx
+  Row 3: ferly  GYYYY
+  Row 4: awful  xxYxY
+  Row 5: feral  GYYxY
+
+Target: foist
+  Row 1: frost  GxYGG
+  Row 2: fairy  GxGxx
+  Row 3: tifos  YYYYY
+  Row 4: abort  xxYxG
+  Row 5: fitts  GYYxY
+
+Target: forge
+  Row 1: fuero  GxYYY
+  Row 2: early  YxGxx
+  Row 3: gofer  YGYYY
+  Row 4: abode  xxYxG
+  Row 5: force  GGGxG
+
+Target: forgo
+  Row 1: floor  GxYYY
+  Row 2: farce  GxGxx
+  Row 3: groof  YYYYY
+  Row 4: along  xxYxY
+  Row 5: fordo  GGGxG
+
+Target: forte
+  Row 1: outer  YxYYY
+  Row 2: early  YxGxx
+  Row 3: fetor  GYYYY
+  Row 4: abode  xxYxG
+  Row 5: force  GGGxG
+
+Target: forth
+  Row 1: fetor  GxYYY
+  Row 2: farce  GxGxx
+  Row 3: froth  GYYGG
+  Row 4: about  xxYxY
+  Row 5: front  GYYxY
+
+Target: found
+  Row 1: frond  GxYGG
+  Row 2: dance  YxYxx
+  Row 3: fondu  GGYYY
+  Row 4: acorn  xxYxY
+  Row 5: unfed  YYYxG
+
+Target: frail
+  Row 1: feral  GxYYG
+  Row 2: abide  YxYxx
+  Row 3: flair  GYGGY
+  Row 4: chief  xxYxY
+  Row 5: filer  GYYxY
+
+Target: fraud
+  Row 1: dwarf  YxGYY
+  Row 2: abuse  YxYxx
+  Row 3: faurd  GYYYG
+  Row 4: bland  xxGxG
+  Row 5: daraf  YYYxY
+
+Target: freak
+  Row 1: flake  GxYYY
+  Row 2: acrid  YxYxx
+  Row 3: faker  GYYYY
+  Row 4: black  xxYxG
+  Row 5: farce  GYYxY
+
+Target: freed
+  Row 1: elder  YxYGY
+  Row 2: dirty  YxYxx
+  Row 3: defer  YYYGY
+  Row 4: acrid  xxYxG
+  Row 5: drere  YGGxY
+
+Target: fried
+  Row 1: defer  YxYGY
+  Row 2: daily  YxGxx
+  Row 3: fired  GYYGG
+  Row 4: agile  xxGxY
+  Row 5: dirge  YYYxY
+
+Target: frisk
+  Row 1: serif  YxYYY
+  Row 2: faint  GxGxx
+  Row 3: firks  GYYYY
+  Row 4: baker  xxYxY
+  Row 5: skier  YYGxY
+
+Target: frost
+  Row 1: first  GxYGG
+  Row 2: farce  GxYxx
+  Row 3: forts  GYYYY
+  Row 4: about  xxGxG
+  Row 5: front  GGGxG
+
+Target: froth
+  Row 1: fetor  GxYYY
+  Row 2: farce  GxYxx
+  Row 3: forth  GYYGG
+  Row 4: about  xxGxY
+  Row 5: front  GGGxY
+
+Target: froze
+  Row 1: fuero  GxYYY
+  Row 2: early  YxYxx
+  Row 3: forze  GYYGG
+  Row 4: abode  xxGxG
+  Row 5: force  GYYxG
+
+Target: gamer
+  Row 1: anger  YxYGG
+  Row 2: acrid  YxYxx
+  Row 3: grame  GYYYY
+  Row 4: blade  xxYxY
+  Row 5: argue  YYYxY
+
+Target: gamma
+  Row 1: gemma  GxGGG
+  Row 2: aback  YxYxx
+  Row 3: magma  YGYGG
+  Row 4: charm  xxYxY
+  Row 5: gamba  GGGxG
+
+Target: gayer
+  Row 1: anger  YxYGG
+  Row 2: abyss  YxGxx
+  Row 3: aygre  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: argue  YYYxY
+
+Target: gazer
+  Row 1: anger  YxYGG
+  Row 2: acrid  YxYxx
+  Row 3: graze  GYYYY
+  Row 4: blade  xxYxY
+  Row 5: argue  YYYxY
+
+Target: genie
+  Row 1: eking  YxYYY
+  Row 2: edict  YxYxx
+  Row 3: eigne  YYYYG
+  Row 4: abide  xxYxG
+  Row 5: genre  GGGxG
+
+Target: genre
+  Row 1: eager  YxYYY
+  Row 2: early  YxYxx
+  Row 3: green  GYYYY
+  Row 4: algae  xxYxG
+  Row 5: genie  GGGxG
+
+Target: ghost
+  Row 1: gusto  GxYYY
+  Row 2: globe  GxGxx
+  Row 3: gosht  GYYYG
+  Row 4: abort  xxGxG
+  Row 5: shoot  YGGxG
+
+Target: ghoul
+  Row 1: laugh  YxYYY
+  Row 2: gaudy  GxYxx
+  Row 3: lough  YYYYY
+  Row 4: among  xxGxY
+  Row 5: gulch  GYYxY
+
+Target: girth
+  Row 1: thigh  YxYYG
+  Row 2: gaily  GxYxx
+  Row 3: right  YGYYY
+  Row 4: abhor  xxYxY
+  Row 5: thing  YYYxY
+
+Target: giver
+  Row 1: goier  GxYGG
+  Row 2: eagle  YxYxx
+  Row 3: virge  YGYYY
+  Row 4: abide  xxYxY
+  Row 5: grime  GYYxY
+
+Target: glade
+  Row 1: abled  YxYYY
+  Row 2: angry  YxYxx
+  Row 3: galed  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: algae  YGYxG
+
+Target: glare
+  Row 1: angel  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: lager  YYYYY
+  Row 4: abase  xxGxG
+  Row 5: agree  YYYxG
+
+Target: glass
+  Row 1: grass  GxGGG
+  Row 2: abled  YxYxx
+  Row 3: slags  YGGYG
+  Row 4: avail  xxGxY
+  Row 5: slang  YGGxY
+
+Target: glean
+  Row 1: lunge  YxYYY
+  Row 2: adept  YxGxx
+  Row 3: angel  YYYYY
+  Row 4: brace  xxYxY
+  Row 5: glade  GGYxY
+
+Target: glide
+  Row 1: guide  GxGGG
+  Row 2: dairy  YxGxx
+  Row 3: gelid  GYYYY
+  Row 4: afire  xxGxG
+  Row 5: ideal  YYYxY
+
+Target: globe
+  Row 1: bagel  YxYYY
+  Row 2: baggy  YxYxx
+  Row 3: bogle  YYYYG
+  Row 4: adore  xxGxG
+  Row 5: bloke  YGGxG
+
+Target: gloss
+  Row 1: gross  GxGGG
+  Row 2: gnome  GxGxx
+  Row 3: slogs  YGGYG
+  Row 4: afoul  xxGxY
+  Row 5: globs  GGGxG
+
+Target: gnash
+  Row 1: slang  YxGYY
+  Row 2: abhor  YxYxx
+  Row 3: hangs  YYYYY
+  Row 4: beach  xxGxG
+  Row 5: ashen  YYYxY
+
+Target: godly
+  Row 1: oddly  YxGGG
+  Row 2: delta  YxYxx
+  Row 3: goldy  GGYYG
+  Row 4: abled  xxYxY
+  Row 5: glory  GYYxG
+
+Target: going
+  Row 1: groin  GxYYY
+  Row 2: gaily  GxGxx
+  Row 3: oggin  YYYYY
+  Row 4: acorn  xxYxY
+  Row 5: ginzo  GYYxY
+
+Target: gonad
+  Row 1: along  YxYYY
+  Row 2: abort  YxYxx
+  Row 3: dogan  YGYGY
+  Row 4: beard  xxYxG
+  Row 5: adorn  YYYxY
+
+Target: goner
+  Row 1: owner  YxGGG
+  Row 2: eagle  YxYxx
+  Row 3: ergon  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: gnome  GYYxY
+
+Target: gorge
+  Row 1: gager  GxYYY
+  Row 2: early  YxGxx
+  Row 3: grego  GYYGY
+  Row 4: abode  xxYxG
+  Row 5: grope  GYYxG
+
+Target: grace
+  Row 1: anger  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: cager  YYYYY
+  Row 4: abase  xxGxG
+  Row 5: agree  YYYxG
+
+Target: grade
+  Row 1: aider  YxYYY
+  Row 2: angst  YxYxx
+  Row 3: radge  YYYYG
+  Row 4: abase  xxGxG
+  Row 5: agree  YYYxG
+
+Target: grail
+  Row 1: regal  YxYYG
+  Row 2: abide  YxYxx
+  Row 3: argil  YGYGG
+  Row 4: being  xxYxY
+  Row 5: grill  GGYxG
+
+Target: grain
+  Row 1: align  YxYYG
+  Row 2: abide  YxYxx
+  Row 3: agrin  YYYGG
+  Row 4: begun  xxYxG
+  Row 5: anger  YYYxY
+
+Target: grape
+  Row 1: anger  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: gaper  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: agree  YYYxG
+
+Target: grasp
+  Row 1: scrap  YxYYG
+  Row 2: acrid  YxYxx
+  Row 3: sprag  YYYYY
+  Row 4: chair  xxGxY
+  Row 5: sprig  YYYxY
+
+Target: grate
+  Row 1: after  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: great  GGYYY
+  Row 4: abase  xxGxG
+  Row 5: agent  YYYxY
+
+Target: graze
+  Row 1: anger  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: gazer  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: agree  YYYxG
+
+Target: great
+  Row 1: after  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: grate  GGYYY
+  Row 4: bigot  xxYxG
+  Row 5: agent  YYGxG
+
+Target: greed
+  Row 1: dirge  YxYYY
+  Row 2: digit  YxYxx
+  Row 3: edger  YYYGY
+  Row 4: acrid  xxYxG
+  Row 5: derig  YYYxY
+
+Target: green
+  Row 1: eager  YxYGY
+  Row 2: early  YxYxx
+  Row 3: genre  GYYYY
+  Row 4: algae  xxYxY
+  Row 5: genie  GYYxY
+
+Target: greet
+  Row 1: eager  YxYGY
+  Row 2: early  YxYxx
+  Row 3: egret  YYYGG
+  Row 4: actor  xxYxY
+  Row 5: erect  YGGxG
+
+Target: groan
+  Row 1: acorn  YxGYG
+  Row 2: abode  YxGxx
+  Row 3: organ  YGYGG
+  Row 4: begin  xxYxG
+  Row 5: anger  YYYxY
+
+Target: groin
+  Row 1: owing  YxYYY
+  Row 2: gaily  GxYxx
+  Row 3: giron  GYYYG
+  Row 4: alien  xxYxG
+  Row 5: goner  GYYxY
+
+Target: grope
+  Row 1: purge  YxYYG
+  Row 2: early  YxYxx
+  Row 3: perog  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: gorge  GYYxG
+
+Target: grout
+  Row 1: gator  GxYYY
+  Row 2: gaudy  GxYxx
+  Row 3: trugo  YGYYY
+  Row 4: adopt  xxGxG
+  Row 5: grunt  GGYxG
+
+Target: grown
+  Row 1: wagon  YxYYG
+  Row 2: gawky  GxYxx
+  Row 3: wrong  YGGYY
+  Row 4: augur  xxYxY
+  Row 5: goner  GYYxY
+
+Target: gruel
+  Row 1: lager  YxYGY
+  Row 2: earth  YxYxx
+  Row 3: gluer  GYGGY
+  Row 4: abuse  xxGxY
+  Row 5: regal  YYYxG
+
+Target: guest
+  Row 1: saute  YxYYY
+  Row 2: eager  YxYxx
+  Row 3: tegus  YYYYY
+  Row 4: adept  xxGxG
+  Row 5: stung  YYYxY
+
+Target: gusto
+  Row 1: ghost  GxYYY
+  Row 2: gassy  GxGxx
+  Row 3: gouts  GYYGY
+  Row 4: abort  xxYxY
+  Row 5: ought  YGYxY
+
+Target: gusty
+  Row 1: giust  GxYYY
+  Row 2: gauge  GxYxx
+  Row 3: gutsy  GGYYG
+  Row 4: adult  xxYxY
+  Row 5: study  YYYxG
+
+Target: habit
+  Row 1: tibia  YxGGY
+  Row 2: abbey  YxGxx
+  Row 3: baith  YGYYY
+  Row 4: clash  xxYxY
+  Row 5: batch  YGYxY
+
+Target: hardy
+  Row 1: diary  YxYYG
+  Row 2: abyss  YxYxx
+  Row 3: hydra  GYYYY
+  Row 4: beach  xxYxY
+  Row 5: harpy  GGGxG
+
+Target: harem
+  Row 1: homer  GxYGY
+  Row 2: acrid  YxGxx
+  Row 3: herma  GYGYY
+  Row 4: birch  xxGxY
+  Row 5: earth  YGGxY
+
+Target: haste
+  Row 1: asset  YxGYY
+  Row 2: abhor  YxYxx
+  Row 3: ashet  YYYYY
+  Row 4: blade  xxYxG
+  Row 5: ethos  YYYxY
+
+Target: hater
+  Row 1: after  YxGGG
+  Row 2: acrid  YxYxx
+  Row 3: earth  YGYYY
+  Row 4: birch  xxYxY
+  Row 5: reach  YYYxY
+
+Target: haunt
+  Row 1: arnut  YxYYG
+  Row 2: abhor  YxYxx
+  Row 3: unhat  YYYYG
+  Row 4: beach  xxYxY
+  Row 5: hault  GGGxG
+
+Target: heady
+  Row 1: aahed  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: hayed  GYYYY
+  Row 4: abase  xxGxY
+  Row 5: ahead  YYYxY
+
+Target: heard
+  Row 1: aider  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: hared  GYYYG
+  Row 4: abase  xxGxY
+  Row 5: ahead  YYYxG
+
+Target: heart
+  Row 1: after  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: earth  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: eater  YYYxY
+
+Target: heave
+  Row 1: arvee  YxYYG
+  Row 2: abhor  YxYxx
+  Row 3: hevea  GGYYY
+  Row 4: abase  xxGxG
+  Row 5: evade  YYGxG
+
+Target: heron
+  Row 1: honor  GxYGY
+  Row 2: early  YxGxx
+  Row 3: honer  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: horde  GYGxY
+
+Target: hinge
+  Row 1: eking  YxYYY
+  Row 2: eager  YxYxx
+  Row 3: neigh  YYYGY
+  Row 4: abide  xxYxG
+  Row 5: ginch  YGGxY
+
+Target: homer
+  Row 1: harem  GxYGY
+  Row 2: early  YxYxx
+  Row 3: horme  GGYYY
+  Row 4: abode  xxYxY
+  Row 5: horde  GGYxY
+
+Target: horse
+  Row 1: ethos  YxYYY
+  Row 2: early  YxGxx
+  Row 3: shore  YYYYG
+  Row 4: abode  xxYxG
+  Row 5: horde  GGGxG
+
+Target: hotel
+  Row 1: extol  YxGYG
+  Row 2: ebony  YxYxx
+  Row 3: helot  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: hello  GYYxY
+
+Target: hydro
+  Row 1: hardy  GxYYY
+  Row 2: diode  YxYxx
+  Row 3: rhody  YYYYY
+  Row 4: acrid  xxYxY
+  Row 5: horny  GYYxY
+
+Target: ideal
+  Row 1: abide  YxYYY
+  Row 2: agent  YxGxx
+  Row 3: ailed  YYYYY
+  Row 4: board  xxYxY
+  Row 5: alike  YYYxY
+
+Target: idiom
+  Row 1: demoi  YxYGY
+  Row 2: daily  YxGxx
+  Row 3: imido  GYGYY
+  Row 4: alibi  xxGxY
+  Row 5: dimbo  YYYxY
+
+Target: idler
+  Row 1: drier  YxYGG
+  Row 2: daisy  YxYxx
+  Row 3: riled  YYGGY
+  Row 4: ahead  xxYxY
+  Row 5: dirge  YYYxY
+
+Target: igloo
+  Row 1: oboli  YxYYY
+  Row 2: ghost  YxYxx
+  Row 3: logoi  YYYGY
+  Row 4: afoul  xxYxY
+  Row 5: globi  YYYxY
+
+Target: iliac
+  Row 1: chili  YxGYY
+  Row 2: abide  YxGxx
+  Row 3: cilia  YYYYY
+  Row 4: brawl  xxYxY
+  Row 5: alibi  YGGxY
+
+Target: incur
+  Row 1: cairn  YxYYY
+  Row 2: canal  YxYxx
+  Row 3: runic  YYYYY
+  Row 4: alien  xxYxY
+  Row 5: nicer  YYGxG
+
+Target: index
+  Row 1: daine  YxYYY
+  Row 2: daily  YxYxx
+  Row 3: nixed  YYYGY
+  Row 4: afire  xxYxY
+  Row 5: deign  YYYxY
+
+Target: inept
+  Row 1: paint  YxYYG
+  Row 2: eater  YxYxx
+  Row 3: nepit  YYYYG
+  Row 4: abide  xxYxY
+  Row 5: inert  GGGxG
+
+Target: inert
+  Row 1: their  YxGYY
+  Row 2: early  YxYxx
+  Row 3: inter  GGYYY
+  Row 4: abide  xxYxY
+  Row 5: enter  YGYxY
+
+Target: infer
+  Row 1: elfin  YxGYY
+  Row 2: early  YxYxx
+  Row 3: finer  YYYGG
+  Row 4: abide  xxYxY
+  Row 5: feign  YYYxY
+
+Target: ingot
+  Row 1: glint  YxYYG
+  Row 2: gaily  YxYxx
+  Row 3: tigon  YYGGY
+  Row 4: abort  xxYxG
+  Row 5: intro  GGYxY
+
+Target: inlay
+  Row 1: ixnay  GxYGG
+  Row 2: abide  YxYxx
+  Row 3: layin  YYYYY
+  Row 4: beady  xxYxG
+  Row 5: alien  YYYxY
+
+Target: inlet
+  Row 1: islet  GxGGG
+  Row 2: edify  YxYxx
+  Row 3: elint  YYYYG
+  Row 4: abide  xxYxY
+  Row 5: inept  GGYxG
+
+Target: intro
+  Row 1: ratio  YxGYG
+  Row 2: naive  YxYxx
+  Row 3: nitro  YYGGG
+  Row 4: about  xxYxY
+  Row 5: inter  GGGxY
+
+Target: irate
+  Row 1: afire  YxYYG
+  Row 2: aging  YxYxx
+  Row 3: retia  YYYYY
+  Row 4: abase  xxGxG
+  Row 5: arise  YGYxG
+
+Target: islet
+  Row 1: exist  YxYYG
+  Row 2: edify  YxYxx
+  Row 3: istle  GGYYY
+  Row 4: abide  xxYxY
+  Row 5: lithe  YYYxY
+
+Target: itchy
+  Row 1: yacht  YxGGY
+  Row 2: cairn  YxYxx
+  Row 3: tichy  YYGGG
+  Row 4: aptly  xxYxG
+  Row 5: chirt  YYYxY
+
+Target: jaunt
+  Row 1: arnut  YxYYG
+  Row 2: abuse  YxGxx
+  Row 3: junta  GYYYY
+  Row 4: beast  xxYxG
+  Row 5: tauon  YGGxY
+
+Target: junta
+  Row 1: arnut  YxGYY
+  Row 2: abuse  YxYxx
+  Row 3: jaunt  GYYYY
+  Row 4: apnea  xxGxG
+  Row 5: naunt  YYYxY
+
+Target: junto
+  Row 1: jaunt  GxYYY
+  Row 2: natal  YxYxx
+  Row 3: jotun  GYYYY
+  Row 4: abort  xxYxY
+  Row 5: joust  GYYxY
+
+Target: karma
+  Row 1: alarm  YxYYY
+  Row 2: abase  YxYxx
+  Row 3: makar  YGYYY
+  Row 4: black  xxYxY
+  Row 5: maker  YGYxY
+
+Target: kayak
+  Row 1: khaya  GxYYY
+  Row 2: abase  YxYxx
+  Row 3: yakka  YGYYY
+  Row 4: beady  xxYxY
+  Row 5: kyack  GYYxG
+
+Target: knead
+  Row 1: amend  YxGYG
+  Row 2: alert  YxGxx
+  Row 3: naked  YYYYG
+  Row 4: binge  xxYxY
+  Row 5: ankle  YGYxY
+
+Target: labor
+  Row 1: arbor  YxGGG
+  Row 2: abbey  YxGxx
+  Row 3: bolar  YYYYG
+  Row 4: cello  xxYxY
+  Row 5: baler  YGYxG
+
+Target: laden
+  Row 1: abled  YxYGY
+  Row 2: aglow  YxYxx
+  Row 3: eland  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: dance  YGYxY
+
+Target: ladle
+  Row 1: abled  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: dalle  YGYGG
+  Row 4: belie  xxYxG
+  Row 5: delta  YYYxY
+
+Target: lance
+  Row 1: crane  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: clean  YYYYY
+  Row 4: belie  xxYxG
+  Row 5: canal  YGGxY
+
+Target: large
+  Row 1: angel  YxYYY
+  Row 2: acrid  YxGxx
+  Row 3: glare  YYYYG
+  Row 4: belie  xxYxG
+  Row 5: agree  YYGxG
+
+Target: larva
+  Row 1: rival  YxYYY
+  Row 2: aback  YxYxx
+  Row 3: alvar  YYYYY
+  Row 4: bevel  xxYxY
+  Row 5: avail  YYYxY
+
+Target: lasso
+  Row 1: shoal  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: solas  YYYYY
+  Row 4: bravo  xxYxG
+  Row 5: salvo  YGYxG
+
+Target: later
+  Row 1: after  YxGGG
+  Row 2: acrid  YxYxx
+  Row 3: alert  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: altar  YYGxG
+
+Target: lathe
+  Row 1: eclat  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: ethal  YYYYY
+  Row 4: belie  xxYxG
+  Row 5: alert  YYYxY
+
+Target: layer
+  Row 1: royal  YxGYY
+  Row 2: abyss  YxGxx
+  Row 3: early  YGYYY
+  Row 4: bilge  xxYxY
+  Row 5: large  GGYxY
+
+Target: leach
+  Row 1: ancle  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: chela  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: chafe  YYGxY
+
+Target: leaky
+  Row 1: ankle  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: kayle  YYYYY
+  Row 4: aback  xxGxY
+  Row 5: leafy  GGGxG
+
+Target: leant
+  Row 1: agent  YxYGG
+  Row 2: actor  YxYxx
+  Row 3: laten  GYYYY
+  Row 4: abase  xxGxY
+  Row 5: alert  YYYxG
+
+Target: learn
+  Row 1: liner  GxYYY
+  Row 2: acrid  YxYxx
+  Row 3: renal  YGYYY
+  Row 4: abase  xxGxY
+  Row 5: lance  GYYxY
+
+Target: lease
+  Row 1: aisle  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: easel  YYYYY
+  Row 4: abate  xxGxG
+  Row 5: elate  YYGxG
+
+Target: leave
+  Row 1: abele  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: veale  YGGYG
+  Row 4: abase  xxGxG
+  Row 5: elate  YYGxG
+
+Target: ledge
+  Row 1: eagle  YxYYG
+  Row 2: dally  YxYxx
+  Row 3: glede  YYYYG
+  Row 4: ahead  xxYxY
+  Row 5: delve  YGYxG
+
+Target: lefty
+  Row 1: filet  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: felty  YGYGG
+  Row 4: adept  xxYxY
+  Row 5: fetal  YGYxY
+
+Target: lemon
+  Row 1: lumen  GxGYG
+  Row 2: eclat  YxYxx
+  Row 3: melon  YGYGG
+  Row 4: abode  xxYxY
+  Row 5: elmen  YYGxG
+
+Target: leper
+  Row 1: expel  YxGGY
+  Row 2: earth  YxYxx
+  Row 3: repel  YGGGY
+  Row 4: barge  xxYxY
+  Row 5: peril  YGYxY
+
+Target: lever
+  Row 1: liver  GxGGG
+  Row 2: earth  YxYxx
+  Row 3: revel  YGGGY
+  Row 4: anvil  xxGxY
+  Row 5: revue  YGGxY
+
+Target: lingo
+  Row 1: groin  YxYYY
+  Row 2: genre  YxGxx
+  Row 3: login  GYYYY
+  Row 4: acorn  xxYxY
+  Row 5: igloo  YYYxG
+
+Target: liver
+  Row 1: idler  YxYGG
+  Row 2: earth  YxYxx
+  Row 3: ervil  YYGYY
+  Row 4: abide  xxYxY
+  Row 5: rival  YGGxY
+
+Target: loath
+  Row 1: octal  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: altho  YYYYY
+  Row 4: adapt  xxGxY
+  Row 5: aloft  YYYxY
+
+Target: locus
+  Row 1: calos  YxYYG
+  Row 2: caste  YxYxx
+  Row 3: clous  YYYGG
+  Row 4: basal  xxYxY
+  Row 5: scowl  YYYxY
+
+Target: lodge
+  Row 1: ledge  GxGGG
+  Row 2: dally  YxYxx
+  Row 3: glode  YYYYG
+  Row 4: above  xxYxG
+  Row 5: globe  YYYxG
+
+Target: login
+  Row 1: groin  YxYGG
+  Row 2: genre  YxYxx
+  Row 3: lingo  GYYYY
+  Row 4: acorn  xxYxG
+  Row 5: ginzo  YYYxY
+
+Target: loose
+  Row 1: spool  YxGYY
+  Row 2: ebony  YxGxx
+  Row 3: oleos  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: slope  YYGxG
+
+Target: loser
+  Row 1: score  YxYYY
+  Row 2: earth  YxYxx
+  Row 3: eorls  YGYYY
+  Row 4: abode  xxYxY
+  Row 5: slope  YYYxY
+
+Target: louse
+  Row 1: stole  YxYYG
+  Row 2: ebony  YxYxx
+  Row 3: eusol  YYYYY
+  Row 4: abode  xxYxG
+  Row 5: slope  YYYxG
+
+Target: lower
+  Row 1: whole  YxYYY
+  Row 2: earth  YxYxx
+  Row 3: owler  YYYGG
+  Row 4: abode  xxYxY
+  Row 5: worse  YGYxY
+
+Target: lowly
+  Row 1: willy  YxYGG
+  Row 2: layer  GxYxx
+  Row 3: wolly  YGYGG
+  Row 4: afoul  xxYxY
+  Row 5: loyal  GGYxY
+
+Target: loyal
+  Row 1: atoll  YxYYG
+  Row 2: abled  YxYxx
+  Row 3: alloy  YYYYY
+  Row 4: beady  xxYxY
+  Row 5: alley  YYYxY
+
+Target: lucid
+  Row 1: child  YxYYG
+  Row 2: caddy  YxYxx
+  Row 3: ludic  GGYGY
+  Row 4: abled  xxYxG
+  Row 5: clued  YYYxG
+
+Target: lumpy
+  Row 1: layup  GxYYY
+  Row 2: lapel  GxYxx
+  Row 3: plumy  YYYYG
+  Row 4: bayou  xxYxY
+  Row 5: lummy  GGGxG
+
+Target: lunar
+  Row 1: annul  YxGYY
+  Row 2: abled  YxYxx
+  Row 3: ulnar  YYGGG
+  Row 4: chain  xxYxY
+  Row 5: nulla  YGYxY
+
+Target: lupus
+  Row 1: loups  GxYYG
+  Row 2: lapel  GxGxx
+  Row 3: pulus  YGYGG
+  Row 4: basal  xxYxY
+  Row 5: slump  YYYxY
+
+Target: lurch
+  Row 1: larch  GxGGG
+  Row 2: carat  YxGxx
+  Row 3: churl  YYYYY
+  Row 4: abhor  xxYxY
+  Row 5: cruel  YYYxY
+
+Target: lying
+  Row 1: gaily  YxGYY
+  Row 2: gayer  YxYxx
+  Row 3: lingy  GYYYY
+  Row 4: amity  xxGxY
+  Row 5: inlay  YYYxY
+
+Target: macho
+  Row 1: abmho  YxYGG
+  Row 2: abode  YxYxx
+  Row 3: mocha  GYGGY
+  Row 4: bloom  xxYxY
+  Row 5: cameo  YGYxG
+
+Target: macro
+  Row 1: charm  YxYGY
+  Row 2: abode  YxYxx
+  Row 3: carom  YGYYY
+  Row 4: bloom  xxYxY
+  Row 5: cameo  YGYxG
+
+Target: magic
+  Row 1: claim  YxYGY
+  Row 2: abide  YxYxx
+  Row 3: gamic  YGYGG
+  Row 4: being  xxYxY
+  Row 5: acing  YYYxY
+
+Target: magma
+  Row 1: gemma  YxYGG
+  Row 2: aback  YxYxx
+  Row 3: gamma  YGYGG
+  Row 4: charm  xxYxY
+  Row 5: gamba  YGYxG
+
+Target: major
+  Row 1: armor  YxYGG
+  Row 2: abode  YxYxx
+  Row 3: joram  YYYYY
+  Row 4: chair  xxYxG
+  Row 5: amour  YYYxG
+
+Target: maker
+  Row 1: acker  YxGGG
+  Row 2: acrid  YxYxx
+  Row 3: kerma  YYYYY
+  Row 4: black  xxYxY
+  Row 5: realm  YYYxY
+
+Target: mango
+  Row 1: along  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: among  YYYYY
+  Row 4: begin  xxYxY
+  Row 5: amnio  YYGxG
+
+Target: mania
+  Row 1: admin  YxYGY
+  Row 2: aback  YxYxx
+  Row 3: amain  YYYGY
+  Row 4: brawn  xxYxY
+  Row 5: manga  GGGxG
+
+Target: manic
+  Row 1: admin  YxYGY
+  Row 2: abide  YxYxx
+  Row 3: amnic  YYGGG
+  Row 4: brawn  xxYxY
+  Row 5: cairn  YGYxY
+
+Target: manor
+  Row 1: acorn  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: maron  GGYGY
+  Row 4: bingo  xxGxY
+  Row 5: mango  GGGxY
+
+Target: maple
+  Row 1: apple  YxGGG
+  Row 2: admin  YxYxx
+  Row 3: ample  YYGGG
+  Row 4: belie  xxYxG
+  Row 5: email  YYYxY
+
+Target: march
+  Row 1: mocha  GxYYY
+  Row 2: admin  YxYxx
+  Row 3: charm  YYYYY
+  Row 4: berth  xxGxG
+  Row 5: chair  YYYxY
+
+Target: marsh
+  Row 1: scram  YxGYY
+  Row 2: acrid  YxGxx
+  Row 3: harms  YGGYY
+  Row 4: beach  xxYxG
+  Row 5: harem  YGGxY
+
+Target: mason
+  Row 1: arson  YxGGG
+  Row 2: abode  YxYxx
+  Row 3: manos  GGYGY
+  Row 4: bingo  xxYxY
+  Row 5: mango  GGYxY
+
+Target: masse
+  Row 1: shame  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: mases  GGGYY
+  Row 4: blade  xxYxG
+  Row 5: amens  YYYxY
+
+Target: matey
+  Row 1: thyme  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: meaty  GYYYG
+  Row 4: bitty  xxGxG
+  Row 5: maybe  GGYxY
+
+Target: maybe
+  Row 1: blame  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: beamy  YYYYY
+  Row 4: cease  xxYxG
+  Row 5: amble  YYYxG
+
+Target: mayor
+  Row 1: armor  YxYGG
+  Row 2: abode  YxYxx
+  Row 3: moray  GYYYY
+  Row 4: beady  xxYxY
+  Row 5: marry  GGYxY
+
+Target: mealy
+  Row 1: loamy  YxGYG
+  Row 2: abyss  YxYxx
+  Row 3: yealm  YGGGY
+  Row 4: abase  xxGxY
+  Row 5: email  YYGxY
+
+Target: meant
+  Row 1: agent  YxYGG
+  Row 2: actor  YxYxx
+  Row 3: ament  YYYGG
+  Row 4: abase  xxGxY
+  Row 5: eaten  YYYxY
+
+Target: meaty
+  Row 1: thyme  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: matey  GYYYG
+  Row 4: abase  xxGxY
+  Row 5: maybe  GYYxY
+
+Target: medal
+  Row 1: abled  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: lamed  YYYYY
+  Row 4: bilge  xxYxY
+  Row 5: amend  YYYxY
+
+Target: media
+  Row 1: abide  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: aimed  YYYYY
+  Row 4: arena  xxYxG
+  Row 5: amend  YYYxY
+
+Target: medic
+  Row 1: chide  YxYYY
+  Row 2: caddy  YxGxx
+  Row 3: demic  YGYGG
+  Row 4: afire  xxYxY
+  Row 5: midge  GYGxY
+
+Target: melon
+  Row 1: lumen  YxYYG
+  Row 2: eclat  YxGxx
+  Row 3: lemon  YGYGG
+  Row 4: abode  xxYxY
+  Row 5: elmen  YYYxG
+
+Target: merge
+  Row 1: eager  YxYYY
+  Row 2: early  YxGxx
+  Row 3: emerg  YYYYY
+  Row 4: algae  xxYxG
+  Row 5: emeer  YYYxY
+
+Target: merit
+  Row 1: inert  YxYYG
+  Row 2: early  YxGxx
+  Row 3: remit  YGYGG
+  Row 4: abide  xxYxY
+  Row 5: meter  GGYxY
+
+Target: meter
+  Row 1: eater  YxGGG
+  Row 2: early  YxYxx
+  Row 3: metre  GGGYY
+  Row 4: actor  xxGxG
+  Row 5: erect  YYYxY
+
+Target: miner
+  Row 1: inner  YxGGG
+  Row 2: early  YxYxx
+  Row 3: inerm  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: mince  GGGxY
+
+Target: minus
+  Row 1: mains  GxYYG
+  Row 2: inner  YxGxx
+  Row 3: munis  GYGYG
+  Row 4: alien  xxYxY
+  Row 5: minas  GGGxG
+
+Target: miser
+  Row 1: raise  YxYYY
+  Row 2: early  YxYxx
+  Row 3: emirs  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: serum  YYYxY
+
+Target: mocha
+  Row 1: abmho  YxYGY
+  Row 2: abode  YxYxx
+  Row 3: macho  GYGGY
+  Row 4: agora  xxYxG
+  Row 5: cameo  YYYxY
+
+Target: modal
+  Row 1: medal  GxGGG
+  Row 2: abort  YxYxx
+  Row 3: dolma  YGYYY
+  Row 4: beard  xxYxY
+  Row 5: aloud  YYYxY
+
+Target: model
+  Row 1: dhole  YxYYY
+  Row 2: dally  YxYxx
+  Row 3: lomed  YGYGY
+  Row 4: above  xxYxY
+  Row 5: lodge  YGGxY
+
+Target: molar
+  Row 1: armor  YxYYG
+  Row 2: abled  YxGxx
+  Row 3: moral  GGYGY
+  Row 4: cello  xxGxY
+  Row 5: amour  YYYxG
+
+Target: moody
+  Row 1: dsomo  YxGYY
+  Row 2: demur  YxYxx
+  Row 3: doomy  YGGYG
+  Row 4: agony  xxGxG
+  Row 5: dooly  YGGxG
+
+Target: moral
+  Row 1: mural  GxGGG
+  Row 2: abled  YxYxx
+  Row 3: molar  GGYGY
+  Row 4: cello  xxYxY
+  Row 5: amour  YYYxY
+
+Target: motel
+  Row 1: extol  YxGYG
+  Row 2: ebony  YxYxx
+  Row 3: metol  GYGYG
+  Row 4: abode  xxYxY
+  Row 5: metal  GYGxG
+
+Target: mount
+  Row 1: manto  GxYYY
+  Row 2: manga  GxYxx
+  Row 3: muton  GYYYY
+  Row 4: abort  xxYxG
+  Row 5: moult  GGGxG
+
+Target: mouse
+  Row 1: meuse  GxGGG
+  Row 2: easel  YxYxx
+  Row 3: meous  GYYYY
+  Row 4: abode  xxYxG
+  Row 5: smoke  YYYxG
+
+Target: mover
+  Row 1: enorm  YxYYY
+  Row 2: early  YxYxx
+  Row 3: vomer  YGYGG
+  Row 4: abode  xxYxY
+  Row 5: movie  GGGxY
+
+Target: mower
+  Row 1: enorm  YxYYY
+  Row 2: early  YxYxx
+  Row 3: rowme  YGGYY
+  Row 4: abode  xxYxY
+  Row 5: worse  YGYxY
+
+Target: mucus
+  Row 1: camus  YxYGG
+  Row 2: camel  YxYxx
+  Row 3: cusum  YGYGY
+  Row 4: basic  xxYxY
+  Row 5: music  GGYxY
+
+Target: musky
+  Row 1: mausy  GxYYG
+  Row 2: kayak  YxYxx
+  Row 3: kumys  YGYYY
+  Row 4: assay  xxGxG
+  Row 5: mushy  GGGxG
+
+Target: nadir
+  Row 1: acrid  YxYGY
+  Row 2: agile  YxYxx
+  Row 3: drain  YYYGY
+  Row 4: build  xxYxY
+  Row 5: aider  YYGxG
+
+Target: naive
+  Row 1: alien  YxGYY
+  Row 2: adept  YxYxx
+  Row 3: avine  YYGYG
+  Row 4: blade  xxYxG
+  Row 5: anime  YYGxG
+
+Target: nasal
+  Row 1: amlas  YxYGY
+  Row 2: aback  YxYxx
+  Row 3: alans  YYYYY
+  Row 4: bison  xxGxY
+  Row 5: salon  YGYxY
+
+Target: nasty
+  Row 1: artsy  YxYYG
+  Row 2: actor  YxYxx
+  Row 3: antsy  YYYYG
+  Row 4: beady  xxYxG
+  Row 5: sandy  YGYxG
+
+Target: natal
+  Row 1: leant  YxYYY
+  Row 2: aback  YxYxx
+  Row 3: alant  YYYYY
+  Row 4: beast  xxYxY
+  Row 5: talon  YGYxY
+
+Target: nerdy
+  Row 1: diner  YxYYY
+  Row 2: dingo  YxYxx
+  Row 3: derny  YGGYG
+  Row 4: acrid  xxGxY
+  Row 5: derby  YGGxG
+
+Target: nerve
+  Row 1: raven  YxYYY
+  Row 2: early  YxGxx
+  Row 3: never  GGYYY
+  Row 4: apron  xxGxY
+  Row 5: revue  YGYxG
+
+Target: never
+  Row 1: raven  YxGGY
+  Row 2: early  YxYxx
+  Row 3: nerve  GGYYY
+  Row 4: apron  xxYxY
+  Row 5: revue  YGGxY
+
+Target: newer
+  Row 1: where  YxYYY
+  Row 2: early  YxYxx
+  Row 3: renew  YGYGY
+  Row 4: apron  xxYxY
+  Row 5: nerve  GGYxY
+
+Target: nicer
+  Row 1: cairn  YxYYY
+  Row 2: canal  YxYxx
+  Row 3: crine  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: crime  YYYxY
+
+Target: niche
+  Row 1: ethic  YxYYY
+  Row 2: canal  YxYxx
+  Row 3: chine  YYYYG
+  Row 4: abide  xxYxG
+  Row 5: chide  YYYxG
+
+Target: night
+  Row 1: glint  YxYYG
+  Row 2: gaily  YxYxx
+  Row 3: thing  YYYYY
+  Row 4: alien  xxYxY
+  Row 5: ingot  YYGxG
+
+Target: noble
+  Row 1: leone  YxYYG
+  Row 2: balmy  YxYxx
+  Row 3: belon  YYYYY
+  Row 4: acorn  xxYxY
+  Row 5: bloke  YYYxG
+
+Target: noise
+  Row 1: opine  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: eosin  YGYYY
+  Row 4: abide  xxGxG
+  Row 5: since  YYYxG
+
+Target: noisy
+  Row 1: irony  YxYYG
+  Row 2: idyll  YxYxx
+  Row 3: yonis  YGYYY
+  Row 4: acorn  xxYxY
+  Row 5: nosey  GGYxG
+
+Target: nomad
+  Row 1: demon  YxGYY
+  Row 2: abort  YxYxx
+  Row 3: monad  YGYGG
+  Row 4: beard  xxYxG
+  Row 5: admin  YYGxY
+
+Target: north
+  Row 1: heron  YxGYY
+  Row 2: handy  YxYxx
+  Row 3: thorn  YYYYY
+  Row 4: about  xxYxY
+  Row 5: honor  YGYxY
+
+Target: nosey
+  Row 1: ebony  YxYYG
+  Row 2: elope  YxYxx
+  Row 3: noyes  GGYGY
+  Row 4: abode  xxYxY
+  Row 5: snore  YYYxY
+
+Target: nurse
+  Row 1: reuse  YxYGG
+  Row 2: early  YxGxx
+  Row 3: runes  YGYYY
+  Row 4: acute  xxYxG
+  Row 5: resin  YYYxY
+
+Target: nylon
+  Row 1: linny  YxYYY
+  Row 2: lance  YxYxx
+  Row 3: nonyl  GYYYY
+  Row 4: acorn  xxYxG
+  Row 5: nonny  GYYxY
+
+Target: ocean
+  Row 1: alone  YxYYY
+  Row 2: abort  YxYxx
+  Row 3: canoe  YYYYY
+  Row 4: binge  xxYxY
+  Row 5: acorn  YGYxG
+
+Target: odder
+  Row 1: diode  YxYYY
+  Row 2: daddy  YxGxx
+  Row 3: roded  YYGGY
+  Row 4: above  xxYxY
+  Row 5: dodge  YYGxY
+
+Target: olden
+  Row 1: drone  YxYYY
+  Row 2: dally  YxYxx
+  Row 3: loden  YYGGG
+  Row 4: above  xxYxY
+  Row 5: lodge  YYGxY
+
+Target: older
+  Row 1: odder  GxGGG
+  Row 2: dally  YxYxx
+  Row 3: drole  YYYYY
+  Row 4: above  xxYxY
+  Row 5: drone  YYYxY
+
+Target: olive
+  Row 1: envoi  YxYYY
+  Row 2: ebony  YxYxx
+  Row 3: lovie  YYYYG
+  Row 4: abide  xxGxG
+  Row 5: ovine  GYGxG
+
+Target: ombre
+  Row 1: biome  YxYYG
+  Row 2: birch  YxYxx
+  Row 3: brome  YYYYG
+  Row 4: agree  xxYxG
+  Row 5: borne  YYYxG
+
+Target: onset
+  Row 1: often  GxYGY
+  Row 2: elope  YxYxx
+  Row 3: stone  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: snore  YGYxY
+
+Target: opera
+  Row 1: adore  YxYGY
+  Row 2: about  YxYxx
+  Row 3: pareo  YYYYY
+  Row 4: alpha  xxYxG
+  Row 5: arose  YYYxY
+
+Target: optic
+  Row 1: patio  YxGGY
+  Row 2: cairn  YxYxx
+  Row 3: topic  YYYGG
+  Row 4: abort  xxYxY
+  Row 5: point  YYYxY
+
+Target: order
+  Row 1: odder  GxGGG
+  Row 2: dirty  YxYxx
+  Row 3: derro  YYYYY
+  Row 4: above  xxYxY
+  Row 5: drone  YGYxY
+
+Target: other
+  Row 1: earth  YxYYY
+  Row 2: early  YxYxx
+  Row 3: throe  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: horde  YYYxY
+
+Target: ought
+  Row 1: grout  YxYYG
+  Row 2: gaudy  YxYxx
+  Row 3: tough  YYYYY
+  Row 4: abort  xxYxG
+  Row 5: ghost  YYYxG
+
+Target: outer
+  Row 1: otter  GxGGG
+  Row 2: early  YxYxx
+  Row 3: route  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: erupt  YYYxY
+
+Target: overt
+  Row 1: outer  GxYYY
+  Row 2: early  YxYxx
+  Row 3: trove  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: trope  YYYxY
+
+Target: ovine
+  Row 1: naive  YxGYG
+  Row 2: edict  YxGxx
+  Row 3: envoi  YYYYY
+  Row 4: abide  xxGxG
+  Row 5: noise  YYGxG
+
+Target: owing
+  Row 1: groin  YxYYY
+  Row 2: gaily  YxGxx
+  Row 3: wongi  YYYYY
+  Row 4: acorn  xxYxY
+  Row 5: ginzo  YYYxY
+
+Target: owner
+  Row 1: newer  YxYGG
+  Row 2: early  YxYxx
+  Row 3: rewon  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: worse  YYYxY
+
+Target: oxide
+  Row 1: index  YxYYY
+  Row 2: daily  YxGxx
+  Row 3: doxie  YYYYG
+  Row 4: above  xxYxG
+  Row 5: dixie  YYYxG
+
+Target: pagan
+  Row 1: ainga  YxYYY
+  Row 2: aback  YxYxx
+  Row 3: panga  GGYYY
+  Row 4: begin  xxGxG
+  Row 5: again  YYYxG
+
+Target: paint
+  Row 1: plain  GxYYY
+  Row 2: abide  YxGxx
+  Row 3: inapt  YYYYG
+  Row 4: beast  xxYxG
+  Row 5: input  YYYxG
+
+Target: paler
+  Row 1: ample  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: pearl  GYYYY
+  Row 4: bilge  xxGxY
+  Row 5: lapse  YGYxY
+
+Target: palsy
+  Row 1: amply  YxYYG
+  Row 2: abled  YxGxx
+  Row 3: plays  GYYYY
+  Row 4: beady  xxYxG
+  Row 5: pasty  GGYxG
+
+Target: panel
+  Row 1: ample  YxYYY
+  Row 2: aglow  YxYxx
+  Row 3: penal  GYGYG
+  Row 4: bilge  xxYxY
+  Row 5: lance  YGGxY
+
+Target: papal
+  Row 1: pupal  GxGGG
+  Row 2: aback  YxYxx
+  Row 3: appal  YYGGG
+  Row 4: brawl  xxYxG
+  Row 5: alpha  YYGxY
+
+Target: paper
+  Row 1: piper  GxGGG
+  Row 2: acrid  YxYxx
+  Row 3: rappe  YGGYY
+  Row 4: blade  xxYxY
+  Row 5: apple  YYGxY
+
+Target: parer
+  Row 1: purer  GxGGG
+  Row 2: acrid  YxGxx
+  Row 3: raper  YGYGG
+  Row 4: blade  xxYxY
+  Row 5: parse  GGGxY
+
+Target: party
+  Row 1: repay  YxYYG
+  Row 2: abyss  YxYxx
+  Row 3: praty  GYYGG
+  Row 4: beady  xxYxG
+  Row 5: aptly  YYYxG
+
+Target: pasta
+  Row 1: adapt  YxYYY
+  Row 2: aback  YxYxx
+  Row 3: ataps  YYYYY
+  Row 4: beset  xxGxY
+  Row 5: apart  YYYxY
+
+Target: paste
+  Row 1: adept  YxYYY
+  Row 2: actor  YxYxx
+  Row 3: pates  GGYYY
+  Row 4: blade  xxYxG
+  Row 5: sepia  YYYxY
+
+Target: pasty
+  Row 1: artsy  YxYYG
+  Row 2: actor  YxYxx
+  Row 3: patsy  GGYYG
+  Row 4: beady  xxYxG
+  Row 5: aptly  YYYxG
+
+Target: patch
+  Row 1: peach  GxYGG
+  Row 2: abhor  YxYxx
+  Row 3: chapt  YYYYY
+  Row 4: beast  xxYxY
+  Row 5: caput  YGYxY
+
+Target: patsy
+  Row 1: artsy  YxGGG
+  Row 2: actor  YxGxx
+  Row 3: pasty  GGYYG
+  Row 4: beady  xxYxG
+  Row 5: aptly  YYGxG
+
+Target: payer
+  Row 1: aiery  YxYYY
+  Row 2: abyss  YxGxx
+  Row 3: repay  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: early  YGYxY
+
+Target: peach
+  Row 1: place  GxGGY
+  Row 2: abhor  YxYxx
+  Row 3: cheap  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: chafe  YYGxY
+
+Target: pearl
+  Row 1: ample  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: paler  GYYYY
+  Row 4: abase  xxGxY
+  Row 5: lapse  YYYxY
+
+Target: pecan
+  Row 1: cheap  YxYGY
+  Row 2: alert  YxYxx
+  Row 3: pance  GYYYY
+  Row 4: binge  xxYxY
+  Row 5: canoe  YYYxY
+
+Target: pedal
+  Row 1: abled  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: plead  GYYGY
+  Row 4: bilge  xxYxY
+  Row 5: delta  YGYxY
+
+Target: penal
+  Row 1: ample  YxYYY
+  Row 2: aglow  YxYxx
+  Row 3: panel  GYGYG
+  Row 4: bilge  xxYxY
+  Row 5: lance  YYGxY
+
+Target: peril
+  Row 1: idler  YxYYY
+  Row 2: earth  YxGxx
+  Row 3: plier  GYYYY
+  Row 4: abide  xxYxY
+  Row 5: leper  YGYxY
+
+Target: pesky
+  Row 1: poesy  GxYYG
+  Row 2: easel  YxGxx
+  Row 3: kypes  YYYYY
+  Row 4: aisle  xxGxY
+  Row 5: speak  YYYxY
+
+Target: pesto
+  Row 1: onset  YxGYY
+  Row 2: easel  YxGxx
+  Row 3: estop  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: posit  GYGxY
+
+Target: petal
+  Row 1: adept  YxYYY
+  Row 2: actor  YxGxx
+  Row 3: leapt  YGYYY
+  Row 4: bilge  xxYxY
+  Row 5: alert  YYYxY
+
+Target: phone
+  Row 1: prone  GxGGG
+  Row 2: empty  YxYxx
+  Row 3: pheon  GGYYY
+  Row 4: abode  xxGxG
+  Row 5: epoch  YYGxY
+
+Target: pinto
+  Row 1: paint  GxYYY
+  Row 2: impel  YxYxx
+  Row 3: point  GYYYY
+  Row 4: abort  xxYxY
+  Row 5: input  YYYxY
+
+Target: pique
+  Row 1: umpie  YxYYG
+  Row 2: edict  YxYxx
+  Row 3: equip  YYYYY
+  Row 4: abide  xxYxG
+  Row 5: quite  YYYxG
+
+Target: place
+  Row 1: ample  YxYYG
+  Row 2: agent  YxYxx
+  Row 3: caple  YYYYG
+  Row 4: abase  xxGxG
+  Row 5: clamp  YGGxY
+
+Target: plain
+  Row 1: penal  GxYYY
+  Row 2: abide  YxYxx
+  Row 3: lapin  YYYGG
+  Row 4: brawl  xxGxY
+  Row 5: alien  YGYxG
+
+Target: plane
+  Row 1: ample  YxYYG
+  Row 2: aglow  YxYxx
+  Row 3: panel  GYYYY
+  Row 4: abase  xxGxG
+  Row 5: lance  YYYxG
+
+Target: plead
+  Row 1: abled  YxYYG
+  Row 2: agent  YxGxx
+  Row 3: pedal  GYYGY
+  Row 4: bilge  xxYxY
+  Row 5: delta  YYYxY
+
+Target: pleat
+  Row 1: adept  YxGYG
+  Row 2: actor  YxYxx
+  Row 3: leapt  YYYYG
+  Row 4: bilge  xxYxY
+  Row 5: alert  YGGxG
+
+Target: plied
+  Row 1: impel  YxYGY
+  Row 2: dairy  YxGxx
+  Row 3: lepid  YYYYG
+  Row 4: afire  xxGxY
+  Row 5: ideal  YYYxY
+
+Target: plier
+  Row 1: idler  YxYGG
+  Row 2: earth  YxYxx
+  Row 3: peril  GYYYY
+  Row 4: abide  xxGxY
+  Row 5: price  GYGxY
+
+Target: plush
+  Row 1: hapus  YxYYY
+  Row 2: halve  YxYxx
+  Row 3: sulph  YYYYG
+  Row 4: basal  xxYxY
+  Row 5: lupus  YYYxY
+
+Target: poesy
+  Row 1: prose  GxYGY
+  Row 2: easel  YxYxx
+  Row 3: posey  GGYYG
+  Row 4: abode  xxYxY
+  Row 5: epoxy  YYYxG
+
+Target: point
+  Row 1: paint  GxGGG
+  Row 2: impel  YxYxx
+  Row 3: pinto  GYYYY
+  Row 4: abort  xxYxG
+  Row 5: input  YYYxG
+
+Target: poker
+  Row 1: kiore  YxYYY
+  Row 2: early  YxYxx
+  Row 3: proke  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: probe  GYYxY
+
+Target: polar
+  Row 1: pearl  GxYYY
+  Row 2: abled  YxGxx
+  Row 3: parol  GYYYY
+  Row 4: cello  xxGxY
+  Row 5: paler  GYGxG
+
+Target: polka
+  Row 1: kalpa  YxGYG
+  Row 2: abled  YxGxx
+  Row 3: pokal  GGYYY
+  Row 4: agora  xxYxG
+  Row 5: plank  GYYxY
+
+Target: polyp
+  Row 1: pulpy  GxGYY
+  Row 2: lapel  YxYxx
+  Row 3: loppy  YGYYY
+  Row 4: afoul  xxYxY
+  Row 5: poppy  GGYxY
+
+Target: poser
+  Row 1: parse  GxYYY
+  Row 2: early  YxYxx
+  Row 3: prose  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: pesto  GYGxY
+
+Target: posit
+  Row 1: patio  GxYGY
+  Row 2: impel  YxYxx
+  Row 3: topis  YGYGY
+  Row 4: abort  xxYxG
+  Row 5: point  GGYxG
+
+Target: posse
+  Row 1: press  GxYGY
+  Row 2: easel  YxGxx
+  Row 3: pesos  GYGYY
+  Row 4: abode  xxYxG
+  Row 5: pesto  GYGxY
+
+Target: power
+  Row 1: pareo  GxYGY
+  Row 2: early  YxYxx
+  Row 3: powre  GGGYY
+  Row 4: abode  xxYxY
+  Row 5: probe  GYYxY
+
+Target: preen
+  Row 1: puree  GxYGY
+  Row 2: early  YxYxx
+  Row 3: neper  YYYGY
+  Row 4: ample  xxYxY
+  Row 5: nerve  YYYxY
+
+Target: price
+  Row 1: caper  YxYYY
+  Row 2: caput  YxYxx
+  Row 3: cripe  YGGYG
+  Row 4: abide  xxGxG
+  Row 5: creep  YGYxY
+
+Target: pride
+  Row 1: plied  GxGYY
+  Row 2: daily  YxGxx
+  Row 3: pried  GGGYY
+  Row 4: agile  xxGxG
+  Row 5: dirge  YYYxG
+
+Target: pried
+  Row 1: plied  GxGGG
+  Row 2: daily  YxGxx
+  Row 3: pride  GGGYY
+  Row 4: agile  xxGxY
+  Row 5: dirge  YYYxY
+
+Target: primo
+  Row 1: rumpo  YxYYG
+  Row 2: input  YxYxx
+  Row 3: impro  YYYYG
+  Row 4: bloom  xxYxY
+  Row 5: opium  YYGxY
+
+Target: prism
+  Row 1: skimp  YxGYY
+  Row 2: input  YxYxx
+  Row 3: prims  GGGYY
+  Row 4: axiom  xxGxG
+  Row 5: miser  YYYxY
+
+Target: probe
+  Row 1: ombre  YxYYG
+  Row 2: birch  YxYxx
+  Row 3: rebop  YYYYY
+  Row 4: agree  xxYxG
+  Row 5: borne  YYYxG
+
+Target: prone
+  Row 1: owner  YxYYY
+  Row 2: early  YxYxx
+  Row 3: preon  GGYYY
+  Row 4: abode  xxGxG
+  Row 5: preen  GGYxY
+
+Target: prose
+  Row 1: parse  GxYGG
+  Row 2: early  YxYxx
+  Row 3: poser  GYYYY
+  Row 4: abode  xxGxG
+  Row 5: pesto  GYYxY
+
+Target: proud
+  Row 1: pedro  GxYYY
+  Row 2: daunt  YxYxx
+  Row 3: pudor  GYYYY
+  Row 4: acrid  xxYxG
+  Row 5: droop  YGGxY
+
+Target: prove
+  Row 1: vapor  YxYYY
+  Row 2: early  YxYxx
+  Row 3: pervo  GYYGY
+  Row 4: abode  xxGxG
+  Row 5: probe  GGGxG
+
+Target: prude
+  Row 1: under  YxYYY
+  Row 2: daunt  YxGxx
+  Row 3: drupe  YGGYG
+  Row 4: abuse  xxGxG
+  Row 5: prune  GGGxG
+
+Target: psalm
+  Row 1: scalp  YxGGY
+  Row 2: abled  YxYxx
+  Row 3: lamps  YYYYY
+  Row 4: avail  xxGxY
+  Row 5: spasm  YYGxG
+
+Target: pulse
+  Row 1: lapse  YxYGG
+  Row 2: eclat  YxGxx
+  Row 3: plues  GYYYY
+  Row 4: acute  xxYxG
+  Row 5: lupus  YGYxY
+
+Target: pupil
+  Row 1: palpi  GxYYY
+  Row 2: idler  YxYxx
+  Row 3: pipul  GYGYG
+  Row 4: axial  xxYxG
+  Row 5: plump  GYYxY
+
+Target: puree
+  Row 1: emure  YxYYG
+  Row 2: early  YxGxx
+  Row 3: rupee  YGYGG
+  Row 4: abuse  xxYxG
+  Row 5: prude  GYYxG
+
+Target: purse
+  Row 1: parse  GxGGG
+  Row 2: early  YxGxx
+  Row 3: super  YGYYY
+  Row 4: acute  xxYxG
+  Row 5: prude  GYYxG
+
+Target: quasi
+  Row 1: umiaq  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: quais  GGGYY
+  Row 4: chaos  xxGxY
+  Row 5: aquas  YYYxY
+
+Target: quiet
+  Row 1: unite  YxGYY
+  Row 2: edify  YxGxx
+  Row 3: quite  GGGYY
+  Row 4: abide  xxGxY
+  Row 5: quest  GGYxG
+
+Target: quite
+  Row 1: unite  YxGGG
+  Row 2: eaten  YxYxx
+  Row 3: quiet  GGGYY
+  Row 4: abide  xxGxG
+  Row 5: quest  GGYxY
+
+Target: rabid
+  Row 1: acrid  YxYGG
+  Row 2: abbey  YxGxx
+  Row 3: braid  YYYGG
+  Row 4: child  xxYxG
+  Row 5: aider  YYYxY
+
+Target: racer
+  Row 1: clear  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: carer  YGYGG
+  Row 4: blade  xxYxY
+  Row 5: carve  YGYxY
+
+Target: radio
+  Row 1: acrid  YxYGY
+  Row 2: about  YxYxx
+  Row 3: aroid  YYYGY
+  Row 4: bland  xxYxY
+  Row 5: aider  YYGxY
+
+Target: raise
+  Row 1: afire  YxGYG
+  Row 2: adept  YxYxx
+  Row 3: arise  YYGGG
+  Row 4: blade  xxYxG
+  Row 5: aisle  YYYxG
+
+Target: ramen
+  Row 1: miner  YxYGY
+  Row 2: acrid  YxYxx
+  Row 3: enarm  YYYYY
+  Row 4: binge  xxYxY
+  Row 5: mange  YGYxY
+
+Target: range
+  Row 1: genre  YxGYG
+  Row 2: acrid  YxYxx
+  Row 3: anger  YYYYY
+  Row 4: blade  xxYxG
+  Row 5: agree  YYYxG
+
+Target: rapid
+  Row 1: acrid  YxYGG
+  Row 2: agile  YxYxx
+  Row 3: padri  YGYYY
+  Row 4: bland  xxYxG
+  Row 5: aider  YYYxY
+
+Target: raspy
+  Row 1: repay  GxYYG
+  Row 2: acrid  YxYxx
+  Row 3: spray  YYYYG
+  Row 4: beady  xxYxG
+  Row 5: parry  YGYxG
+
+Target: ratio
+  Row 1: abort  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: ariot  YYYYY
+  Row 4: beast  xxYxY
+  Row 5: roast  GYYxY
+
+Target: ratty
+  Row 1: teary  YxYYG
+  Row 2: abyss  YxYxx
+  Row 3: tarty  YGYGG
+  Row 4: beady  xxYxG
+  Row 5: artsy  YYGxG
+
+Target: ready
+  Row 1: aider  YxYYY
+  Row 2: abyss  YxYxx
+  Row 3: deary  YGGYG
+  Row 4: abase  xxGxY
+  Row 5: derby  YGYxG
+
+Target: realm
+  Row 1: molar  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: lamer  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: email  YYGxY
+
+Target: rearm
+  Row 1: aimer  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: armer  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: armor  YYYxY
+
+Target: rebar
+  Row 1: amber  YxGYG
+  Row 2: abbot  YxGxx
+  Row 3: barer  YYYYG
+  Row 4: bible  xxGxY
+  Row 5: arbor  YYGxG
+
+Target: recur
+  Row 1: corer  YxYYG
+  Row 2: carat  YxYxx
+  Row 3: curer  YYYYG
+  Row 4: abuse  xxYxY
+  Row 5: crude  YYYxY
+
+Target: recut
+  Row 1: cater  YxYYY
+  Row 2: cargo  YxYxx
+  Row 3: truce  YYYYY
+  Row 4: abuse  xxYxY
+  Row 5: crept  YYYxG
+
+Target: reedy
+  Row 1: elder  YxYYY
+  Row 2: dwell  YxGxx
+  Row 3: redye  GGYYY
+  Row 4: acrid  xxYxY
+  Row 5: derby  YGYxG
+
+Target: refit
+  Row 1: flier  YxYYY
+  Row 2: early  YxYxx
+  Row 3: freit  YYYGG
+  Row 4: abide  xxYxY
+  Row 5: first  YYYxG
+
+Target: relax
+  Row 1: abler  YxGYY
+  Row 2: acrid  YxYxx
+  Row 3: laxer  YYYYY
+  Row 4: bilge  xxGxY
+  Row 5: large  YYYxY
+
+Target: relay
+  Row 1: alley  YxGYG
+  Row 2: abyss  YxYxx
+  Row 3: early  YYYYG
+  Row 4: bilge  xxGxY
+  Row 5: large  YYYxY
+
+Target: renal
+  Row 1: liner  YxGYY
+  Row 2: acrid  YxYxx
+  Row 3: learn  YGYYY
+  Row 4: bilge  xxYxY
+  Row 5: lance  YYGxY
+
+Target: renew
+  Row 1: where  YxYYY
+  Row 2: early  YxYxx
+  Row 3: newer  YGYGY
+  Row 4: apron  xxYxY
+  Row 5: nerve  YGYxY
+
+Target: repay
+  Row 1: aiery  YxYYG
+  Row 2: abyss  YxYxx
+  Row 3: payer  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: early  YYYxG
+
+Target: repel
+  Row 1: expel  YxGGG
+  Row 2: earth  YxYxx
+  Row 3: leper  YGGGY
+  Row 4: barge  xxYxY
+  Row 5: peril  YGYxG
+
+Target: reply
+  Row 1: early  YxYGG
+  Row 2: earth  YxYxx
+  Row 3: plyer  YYYYY
+  Row 4: balmy  xxYxG
+  Row 5: leper  YGGxY
+
+Target: reset
+  Row 1: eater  YxYGY
+  Row 2: early  YxYxx
+  Row 3: ester  YYYGY
+  Row 4: actor  xxYxY
+  Row 5: erect  YYYxG
+
+Target: resin
+  Row 1: noise  YxYYY
+  Row 2: early  YxYxx
+  Row 3: rinse  GYYYY
+  Row 4: abide  xxYxY
+  Row 5: reign  GGYxG
+
+Target: retch
+  Row 1: cater  YxGYY
+  Row 2: cargo  YxYxx
+  Row 3: chert  YYYYY
+  Row 4: abhor  xxYxY
+  Row 5: cheat  YYYxY
+
+Target: retry
+  Row 1: entry  YxGGG
+  Row 2: eaten  YxGxx
+  Row 3: terry  YGYGG
+  Row 4: actor  xxGxY
+  Row 5: eyrir  YYYxY
+
+Target: revel
+  Row 1: liver  YxGGY
+  Row 2: earth  YxYxx
+  Row 3: lever  YGGGY
+  Row 4: anvil  xxGxG
+  Row 5: revue  GGGxY
+
+Target: rider
+  Row 1: ruder  GxGGG
+  Row 2: daily  YxYxx
+  Row 3: drier  YYYGG
+  Row 4: agile  xxYxY
+  Row 5: dirge  YGYxY
+
+Target: ridge
+  Row 1: glide  YxYYG
+  Row 2: daily  YxYxx
+  Row 3: dirge  YGYGG
+  Row 4: ahead  xxYxY
+  Row 5: drive  YYYxG
+
+Target: rifle
+  Row 1: idler  YxYYY
+  Row 2: earth  YxYxx
+  Row 3: filer  YGYYY
+  Row 4: abide  xxYxG
+  Row 5: feral  YYYxY
+
+Target: right
+  Row 1: garth  YxYYY
+  Row 2: gaily  YxYxx
+  Row 3: girth  YGYYY
+  Row 4: abhor  xxYxY
+  Row 5: thing  YYYxY
+
+Target: rinse
+  Row 1: inner  YxGYY
+  Row 2: early  YxYxx
+  Row 3: resin  GYYYY
+  Row 4: abide  xxYxG
+  Row 5: reign  GYYxY
+
+Target: ripen
+  Row 1: plier  YxYGY
+  Row 2: early  YxYxx
+  Row 3: repin  GYGYG
+  Row 4: abide  xxYxY
+  Row 5: price  YYYxY
+
+Target: riper
+  Row 1: parer  YxYGG
+  Row 2: early  YxYxx
+  Row 3: prier  YYYGG
+  Row 4: abide  xxYxY
+  Row 5: price  YYYxY
+
+Target: risen
+  Row 1: noise  YxYYY
+  Row 2: early  YxYxx
+  Row 3: resin  GYGYG
+  Row 4: abide  xxYxY
+  Row 5: reign  GYYxG
+
+Target: risky
+  Row 1: shirk  YxYYY
+  Row 2: idyll  YxYxx
+  Row 3: yirks  YGYGY
+  Row 4: amity  xxYxG
+  Row 5: skier  YYYxY
+
+Target: rival
+  Row 1: anvil  YxGYG
+  Row 2: abide  YxYxx
+  Row 3: viral  YGYGG
+  Row 4: bevel  xxGxG
+  Row 5: liver  YGGxY
+
+Target: roach
+  Row 1: abhor  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: orach  YYGGG
+  Row 4: awash  xxGxG
+  Row 5: cargo  YYYxY
+
+Target: roast
+  Row 1: abort  YxYYG
+  Row 2: abode  YxYxx
+  Row 3: ratos  GYYYY
+  Row 4: adapt  xxGxG
+  Row 5: ratio  GYYxY
+
+Target: robin
+  Row 1: baron  YxYYG
+  Row 2: banal  YxYxx
+  Row 3: inorb  YYYYY
+  Row 4: alien  xxYxG
+  Row 5: bingo  YYYxY
+
+Target: rocky
+  Row 1: choky  YxYGG
+  Row 2: carat  YxYxx
+  Row 3: corky  YGYGG
+  Row 4: agony  xxYxG
+  Row 5: corny  YGYxG
+
+Target: roger
+  Row 1: rigor  GxGYG
+  Row 2: eagle  YxGxx
+  Row 3: reorg  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: gorge  YGYxY
+
+Target: rogue
+  Row 1: gluer  YxYYY
+  Row 2: early  YxYxx
+  Row 3: rouge  GGYYG
+  Row 4: abode  xxYxG
+  Row 5: gorge  YGYxG
+
+Target: roomy
+  Row 1: mayor  YxYYY
+  Row 2: march  YxYxx
+  Row 3: moory  YGGYG
+  Row 4: agony  xxGxG
+  Row 5: moody  YGGxG
+
+Target: rouge
+  Row 1: gluer  YxGYY
+  Row 2: early  YxYxx
+  Row 3: rogue  GGYYG
+  Row 4: abode  xxYxG
+  Row 5: grope  YYYxG
+
+Target: rouse
+  Row 1: reuse  GxGGG
+  Row 2: early  YxYxx
+  Row 3: euros  YYYYY
+  Row 4: abode  xxYxG
+  Row 5: rouge  GGGxG
+
+Target: route
+  Row 1: overt  YxYYY
+  Row 2: early  YxYxx
+  Row 3: outer  YYYYY
+  Row 4: abode  xxYxG
+  Row 5: erupt  YYGxY
+
+Target: rowdy
+  Row 1: duroy  YxYYG
+  Row 2: dirge  YxYxx
+  Row 3: dowry  YGGYG
+  Row 4: acrid  xxYxY
+  Row 5: downy  YGGxG
+
+Target: ruler
+  Row 1: loure  YxYYY
+  Row 2: earth  YxYxx
+  Row 3: lurer  YGYGG
+  Row 4: abuse  xxYxY
+  Row 5: rural  GGYxY
+
+Target: rumba
+  Row 1: album  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: umbra  YYYYG
+  Row 4: aorta  xxYxG
+  Row 5: amber  YYYxY
+
+Target: rupee
+  Row 1: upper  YxGGY
+  Row 2: early  YxYxx
+  Row 3: puree  YGYGG
+  Row 4: abuse  xxYxG
+  Row 5: prude  YYYxG
+
+Target: rusty
+  Row 1: satyr  YxYYY
+  Row 2: ratio  GxYxx
+  Row 3: yurts  YGYGY
+  Row 4: actor  xxYxY
+  Row 5: stray  YYYxG
+
+Target: safer
+  Row 1: flare  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: fares  YGYGY
+  Row 4: blade  xxYxY
+  Row 5: farce  YGYxY
+
+Target: saint
+  Row 1: scant  GxYGG
+  Row 2: abide  YxGxx
+  Row 3: satin  GGYYY
+  Row 4: beset  xxYxG
+  Row 5: aitus  YYYxY
+
+Target: salad
+  Row 1: scald  GxYYG
+  Row 2: aback  YxYxx
+  Row 3: daals  YGYYY
+  Row 4: beard  xxYxG
+  Row 5: salsa  GGGxY
+
+Target: salon
+  Row 1: arson  YxYGG
+  Row 2: abled  YxGxx
+  Row 3: loans  YYYYY
+  Row 4: bingo  xxYxY
+  Row 5: lasso  YGYxY
+
+Target: salty
+  Row 1: aptly  YxYYG
+  Row 2: abled  YxGxx
+  Row 3: slaty  GYYGG
+  Row 4: beady  xxYxG
+  Row 5: sally  GGGxG
+
+Target: salve
+  Row 1: aisle  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: slave  GYYGG
+  Row 4: belie  xxGxG
+  Row 5: easel  YGYxY
+
+Target: salvo
+  Row 1: shoal  GxYYY
+  Row 2: abled  YxGxx
+  Row 3: ovals  YYYYY
+  Row 4: bevel  xxYxY
+  Row 5: lasso  YGYxG
+
+Target: sandy
+  Row 1: sedan  GxYYY
+  Row 2: aider  YxYxx
+  Row 3: sdayn  GYYYY
+  Row 4: beard  xxYxY
+  Row 5: nasty  YGYxG
+
+Target: saner
+  Row 1: nurse  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: snare  GYYYY
+  Row 4: binge  xxGxY
+  Row 5: arson  YYYxY
+
+Target: sappy
+  Row 1: soapy  GxYGG
+  Row 2: aisle  YxYxx
+  Row 3: paspy  YGYGG
+  Row 4: beady  xxYxG
+  Row 5: apply  YYGxG
+
+Target: satin
+  Row 1: scant  GxYYY
+  Row 2: abide  YxYxx
+  Row 3: saint  GGYYY
+  Row 4: beset  xxYxY
+  Row 5: aitus  YYGxY
+
+Target: sauce
+  Row 1: abuse  YxGYG
+  Row 2: adept  YxYxx
+  Row 3: cause  YGGYG
+  Row 4: blade  xxYxG
+  Row 5: acute  YYGxG
+
+Target: saucy
+  Row 1: arcus  YxYYY
+  Row 2: adult  YxGxx
+  Row 3: yucas  YYYYY
+  Row 4: beady  xxYxG
+  Row 5: scaly  GYYxG
+
+Target: savor
+  Row 1: verso  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: arvos  YYGGY
+  Row 4: chair  xxYxG
+  Row 5: avows  YYYxY
+
+Target: scamp
+  Row 1: champ  YxGGG
+  Row 2: admin  YxYxx
+  Row 3: camps  YYYYY
+  Row 4: alarm  xxGxY
+  Row 5: psalm  YYGxY
+
+Target: scant
+  Row 1: chant  YxGGG
+  Row 2: after  YxYxx
+  Row 3: canst  YYYYG
+  Row 4: adapt  xxGxG
+  Row 5: antic  YYYxY
+
+Target: scare
+  Row 1: cease  YxGYG
+  Row 2: adept  YxYxx
+  Row 3: acers  YGYGY
+  Row 4: abate  xxGxG
+  Row 5: carve  YYYxG
+
+Target: scene
+  Row 1: niece  YxGYG
+  Row 2: canal  YxYxx
+  Row 3: cense  YYYYG
+  Row 4: aisle  xxYxG
+  Row 5: ensue  YYYxG
+
+Target: scent
+  Row 1: caste  YxYYY
+  Row 2: canal  YxYxx
+  Row 3: cents  YYYYY
+  Row 4: adept  xxGxG
+  Row 5: stein  GYGxY
+
+Target: scoff
+  Row 1: caffs  YxYGY
+  Row 2: caste  YxYxx
+  Row 3: coffs  YYYGY
+  Row 4: aloof  xxGxG
+  Row 5: focus  YYYxY
+
+Target: scone
+  Row 1: canoe  YxYYG
+  Row 2: canal  YxYxx
+  Row 3: cones  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: ocean  YGYxY
+
+Target: scope
+  Row 1: chose  YxGYG
+  Row 2: caput  YxYxx
+  Row 3: copse  YYYYG
+  Row 4: abode  xxGxG
+  Row 5: pesto  YYYxY
+
+Target: score
+  Row 1: chore  YxGGG
+  Row 2: carat  YxYxx
+  Row 3: ceros  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: credo  YYYxY
+
+Target: scour
+  Row 1: ceros  YxYYY
+  Row 2: carat  YxYxx
+  Row 3: cours  YYYYY
+  Row 4: basic  xxYxY
+  Row 5: curio  YYYxY
+
+Target: scout
+  Row 1: clout  YxGGG
+  Row 2: catch  YxYxx
+  Row 3: souct  GYYYG
+  Row 4: abort  xxGxG
+  Row 5: count  YYYxG
+
+Target: scowl
+  Row 1: calos  YxYYY
+  Row 2: caste  YxYxx
+  Row 3: clows  YYGGY
+  Row 4: afoul  xxGxG
+  Row 5: locus  YYYxY
+
+Target: scree
+  Row 1: cheer  YxYGY
+  Row 2: carat  YxGxx
+  Row 3: ceres  YYGGY
+  Row 4: aisle  xxYxG
+  Row 5: creme  YYYxG
+
+Target: screw
+  Row 1: cower  YxYGY
+  Row 2: carat  YxGxx
+  Row 3: crews  YYYYY
+  Row 4: aisle  xxYxY
+  Row 5: swear  GYYxY
+
+Target: sedan
+  Row 1: amend  YxYYY
+  Row 2: alert  YxYxx
+  Row 3: deans  YGYYY
+  Row 4: binge  xxYxY
+  Row 5: dance  YYYxY
+
+Target: seedy
+  Row 1: speed  GxGYY
+  Row 2: disco  YxYxx
+  Row 3: yedes  YGYYY
+  Row 4: ahead  xxGxY
+  Row 5: deely  YGGxG
+
+Target: semen
+  Row 1: scene  GxYYY
+  Row 2: eject  YxYxx
+  Row 3: menes  YGYGY
+  Row 4: admin  xxGxG
+  Row 5: ensue  YYYxY
+
+Target: sepia
+  Row 1: arise  YxYYY
+  Row 2: agent  YxYxx
+  Row 3: aspie  YYGGY
+  Row 4: alpha  xxGxG
+  Row 5: aisle  YYYxY
+
+Target: serve
+  Row 1: scree  GxGYG
+  Row 2: early  YxGxx
+  Row 3: sever  GGYYY
+  Row 4: aisle  xxYxG
+  Row 5: revue  YGYxG
+
+Target: setup
+  Row 1: erupt  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: upset  YYYYY
+  Row 4: adult  xxYxY
+  Row 5: spelt  GYYxY
+
+Target: seven
+  Row 1: scene  GxYYY
+  Row 2: eject  YxYxx
+  Row 3: eevns  YGGYY
+  Row 4: aisle  xxYxY
+  Row 5: ensue  YYYxY
+
+Target: sever
+  Row 1: scree  GxYGY
+  Row 2: early  YxYxx
+  Row 3: serve  GGYYY
+  Row 4: aisle  xxYxY
+  Row 5: revue  YGGxY
+
+Target: sewer
+  Row 1: scree  GxYGY
+  Row 2: early  YxYxx
+  Row 3: ewers  YYYYY
+  Row 4: aisle  xxYxY
+  Row 5: serve  GGYxY
+
+Target: shack
+  Row 1: clash  YxGYY
+  Row 2: abhor  YxYxx
+  Row 3: hacks  YYYYY
+  Row 4: blank  xxGxG
+  Row 5: chalk  YGGxG
+
+Target: shady
+  Row 1: heady  YxGGG
+  Row 2: abhor  YxYxx
+  Row 3: dashy  YYYYG
+  Row 4: award  xxGxY
+  Row 5: hasty  YYYxG
+
+Target: shaft
+  Row 1: feast  YxGYG
+  Row 2: abhor  YxYxx
+  Row 3: hafts  YYYYY
+  Row 4: adapt  xxGxG
+  Row 5: shalt  GGGxG
+
+Target: shake
+  Row 1: snake  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: hakes  YYYYY
+  Row 4: aback  xxGxY
+  Row 5: haste  YYYxG
+
+Target: shall
+  Row 1: leash  YxGYY
+  Row 2: abhor  YxYxx
+  Row 3: halls  YYYGY
+  Row 4: avail  xxGxG
+  Row 5: shawl  GGGxG
+
+Target: shalt
+  Row 1: leash  YxGYY
+  Row 2: abhor  YxYxx
+  Row 3: halts  YYYYY
+  Row 4: adapt  xxGxG
+  Row 5: latch  YYYxY
+
+Target: shame
+  Row 1: steam  GxYYY
+  Row 2: abhor  YxYxx
+  Row 3: haems  YYYGY
+  Row 4: abate  xxGxG
+  Row 5: haste  YYYxG
+
+Target: shank
+  Row 1: spank  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: ankhs  YYYYY
+  Row 4: aback  xxGxG
+  Row 5: ashen  YYYxY
+
+Target: shape
+  Row 1: aches  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: phase  YGGYG
+  Row 4: abate  xxGxG
+  Row 5: haste  YYYxG
+
+Target: shard
+  Row 1: heard  YxGGG
+  Row 2: agree  YxYxx
+  Row 3: hards  YYYYY
+  Row 4: beach  xxGxY
+  Row 5: arsed  YYYxG
+
+Target: share
+  Row 1: horse  YxYYG
+  Row 2: acrid  YxYxx
+  Row 3: shear  GGYYY
+  Row 4: abate  xxGxG
+  Row 5: earth  YYYxY
+
+Target: shark
+  Row 1: spark  GxGGG
+  Row 2: acrid  YxYxx
+  Row 3: harks  YYYYY
+  Row 4: aback  xxGxG
+  Row 5: shack  GGGxG
+
+Target: sharp
+  Row 1: scrap  GxYYG
+  Row 2: acrid  YxYxx
+  Row 3: harps  YYYYY
+  Row 4: beach  xxGxY
+  Row 5: aphis  YYYxY
+
+Target: shave
+  Row 1: heave  YxGGG
+  Row 2: abhor  YxYxx
+  Row 3: haves  YYYYY
+  Row 4: abate  xxGxG
+  Row 5: haste  YYYxG
+
+Target: shear
+  Row 1: horse  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: share  GGYYY
+  Row 4: beech  xxGxY
+  Row 5: earth  YYYxY
+
+Target: sheep
+  Row 1: sleep  GxGGG
+  Row 2: eject  YxGxx
+  Row 3: phese  YGGYY
+  Row 4: aisle  xxYxY
+  Row 5: ephas  YYYxY
+
+Target: sheer
+  Row 1: ether  YxYGG
+  Row 2: early  YxYxx
+  Row 3: heres  YYYGY
+  Row 4: abhor  xxYxG
+  Row 5: serve  GYYxY
+
+Target: sheet
+  Row 1: haste  YxYYY
+  Row 2: elegy  YxGxx
+  Row 3: these  YGGYY
+  Row 4: adept  xxGxG
+  Row 5: ethos  YYYxY
+
+Target: sheik
+  Row 1: spike  GxYYY
+  Row 2: easel  YxYxx
+  Row 3: hikes  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: shine  GGYxY
+
+Target: shell
+  Row 1: smell  GxGGG
+  Row 2: eclat  YxYxx
+  Row 3: hells  YYYGY
+  Row 4: basal  xxYxG
+  Row 5: heles  YYYxY
+
+Target: shire
+  Row 1: horse  YxYYG
+  Row 2: early  YxYxx
+  Row 3: heirs  YYGGY
+  Row 4: abhor  xxYxY
+  Row 5: shear  GGYxY
+
+Target: shoal
+  Row 1: leash  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: halos  YYYYY
+  Row 4: beach  xxYxY
+  Row 5: lasso  YYYxY
+
+Target: shock
+  Row 1: smock  GxGGG
+  Row 2: caste  YxYxx
+  Row 3: hocks  YYYYY
+  Row 4: basic  xxYxY
+  Row 5: shook  GGGxG
+
+Target: shone
+  Row 1: ethos  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: hones  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: sheen  GGYxY
+
+Target: shook
+  Row 1: spook  GxGGG
+  Row 2: haste  YxYxx
+  Row 3: hooks  YYGYY
+  Row 4: block  xxGxG
+  Row 5: shock  GGGxG
+
+Target: shoot
+  Row 1: sloth  GxGYY
+  Row 2: hatch  YxYxx
+  Row 3: sooth  GYGYY
+  Row 4: abort  xxGxG
+  Row 5: short  GGGxG
+
+Target: shore
+  Row 1: ethos  YxYYY
+  Row 2: early  YxYxx
+  Row 3: horse  YYYYG
+  Row 4: abode  xxGxG
+  Row 5: horde  YYYxG
+
+Target: shorn
+  Row 1: heron  YxYYG
+  Row 2: handy  YxYxx
+  Row 3: horns  YYYYY
+  Row 4: banjo  xxYxY
+  Row 5: honor  YYYxY
+
+Target: short
+  Row 1: roost  YxGYG
+  Row 2: hardy  YxYxx
+  Row 3: horst  YYYYG
+  Row 4: about  xxGxG
+  Row 5: other  YYYxY
+
+Target: shout
+  Row 1: scout  GxGGG
+  Row 2: hatch  YxYxx
+  Row 3: south  GYYYY
+  Row 4: abort  xxGxG
+  Row 5: shoot  GGGxG
+
+Target: shove
+  Row 1: ethos  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: hoves  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: shone  GGGxG
+
+Target: shrub
+  Row 1: blush  YxYYY
+  Row 2: barge  YxGxx
+  Row 3: brush  YYYYY
+  Row 4: amber  xxYxY
+  Row 5: usher  YYYxY
+
+Target: shuck
+  Row 1: crush  YxGYY
+  Row 2: caste  YxYxx
+  Row 3: hucks  YYYYY
+  Row 4: basic  xxYxY
+  Row 5: chunk  YGGxG
+
+Target: shunt
+  Row 1: haunt  YxGGG
+  Row 2: handy  YxYxx
+  Row 3: hunts  YYYYY
+  Row 4: adult  xxGxG
+  Row 5: unset  YYYxG
+
+Target: sight
+  Row 1: heist  YxYYG
+  Row 2: gaily  YxYxx
+  Row 3: thigs  YYYYY
+  Row 4: aping  xxYxY
+  Row 5: shift  GYYxG
+
+Target: sigma
+  Row 1: swami  GxYGY
+  Row 2: abide  YxYxx
+  Row 3: agism  YYYYY
+  Row 4: being  xxYxY
+  Row 5: agios  YYYxY
+
+Target: silly
+  Row 1: idyll  YxYGY
+  Row 2: idler  YxGxx
+  Row 3: slily  GYYGG
+  Row 4: amity  xxYxG
+  Row 5: silky  GGGxG
+
+Target: since
+  Row 1: noise  YxYYG
+  Row 2: canal  YxGxx
+  Row 3: cines  YGGYY
+  Row 4: abide  xxYxG
+  Row 5: niche  YGYxG
+
+Target: sinew
+  Row 1: noise  YxYYY
+  Row 2: edict  YxYxx
+  Row 3: swine  GYYYY
+  Row 4: abide  xxYxY
+  Row 5: since  GGGxY
+
+Target: singe
+  Row 1: eking  YxYYY
+  Row 2: eager  YxYxx
+  Row 3: segni  GYYYY
+  Row 4: abide  xxYxG
+  Row 5: since  GGGxG
+
+Target: siren
+  Row 1: noise  YxYYY
+  Row 2: early  YxGxx
+  Row 3: resin  YYYYG
+  Row 4: abide  xxYxY
+  Row 5: reign  YYYxG
+
+Target: sixty
+  Row 1: seity  GxYGG
+  Row 2: idyll  YxYxx
+  Row 3: xysti  YYYGY
+  Row 4: aptly  xxYxG
+  Row 5: stimy  GYYxG
+
+Target: skill
+  Row 1: krill  YxGGG
+  Row 2: idler  YxYxx
+  Row 3: kills  YYYGY
+  Row 4: axial  xxGxG
+  Row 5: slick  GYGxY
+
+Target: skirt
+  Row 1: shirk  GxGGY
+  Row 2: karma  YxYxx
+  Row 3: stirk  GYGGY
+  Row 4: actor  xxYxY
+  Row 5: skier  GGGxY
+
+Target: slack
+  Row 1: chalk  YxGYG
+  Row 2: abled  YxYxx
+  Row 3: calks  YYYYY
+  Row 4: avail  xxGxY
+  Row 5: clank  YGGxG
+
+Target: slain
+  Row 1: stain  GxGGG
+  Row 2: abide  YxYxx
+  Row 3: snail  GYGGY
+  Row 4: bonus  xxYxY
+  Row 5: alien  YGYxG
+
+Target: slang
+  Row 1: geals  YxGYY
+  Row 2: abled  YxYxx
+  Row 3: glans  YGGGY
+  Row 4: avail  xxGxY
+  Row 5: angel  YYYxY
+
+Target: slant
+  Row 1: leant  YxGGG
+  Row 2: abled  YxYxx
+  Row 3: lants  YYYYY
+  Row 4: adapt  xxGxG
+  Row 5: nasal  YYYxY
+
+Target: slept
+  Row 1: lapse  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: spelt  GYGYG
+  Row 4: agent  xxGxG
+  Row 5: petal  YYYxY
+
+Target: slick
+  Row 1: stick  GxGGG
+  Row 2: cairn  YxGxx
+  Row 3: licks  YYYYY
+  Row 4: axial  xxGxY
+  Row 5: clink  YGGxG
+
+Target: slime
+  Row 1: spiel  GxGYY
+  Row 2: eclat  YxYxx
+  Row 3: smile  GYGYG
+  Row 4: abide  xxGxG
+  Row 5: slice  GGGxG
+
+Target: sling
+  Row 1: login  YxYYY
+  Row 2: gassy  YxYxx
+  Row 3: lings  YYYYY
+  Row 4: arson  xxYxY
+  Row 5: gilas  YYYxY
+
+Target: slink
+  Row 1: stink  GxGGG
+  Row 2: idler  YxYxx
+  Row 3: kilns  YYYGY
+  Row 4: arson  xxYxY
+  Row 5: liken  YYYxY
+
+Target: sloop
+  Row 1: scoop  GxGGG
+  Row 2: lapel  YxYxx
+  Row 3: spool  GYGGY
+  Row 4: afoul  xxGxY
+  Row 5: spoil  GYGxY
+
+Target: slope
+  Row 1: lapse  YxYYG
+  Row 2: ebony  YxGxx
+  Row 3: elops  YGGGY
+  Row 4: abode  xxGxG
+  Row 5: pesto  YYYxY
+
+Target: sloth
+  Row 1: sooth  GxGGG
+  Row 2: halve  YxYxx
+  Row 3: holts  YYYGY
+  Row 4: abort  xxGxY
+  Row 5: hotel  YYYxY
+
+Target: slump
+  Row 1: stump  GxGGG
+  Row 2: lapel  YxYxx
+  Row 3: lumps  YYYYY
+  Row 4: basal  xxYxY
+  Row 5: lupus  YYYxY
+
+Target: slung
+  Row 1: stung  GxGGG
+  Row 2: gassy  YxYxx
+  Row 3: lungs  YYYYY
+  Row 4: arson  xxYxY
+  Row 5: glues  YGGxY
+
+Target: slunk
+  Row 1: skulk  GxGYG
+  Row 2: kinky  YxYxx
+  Row 3: lunks  YYYYY
+  Row 4: arson  xxYxY
+  Row 5: snuck  GYGxG
+
+Target: slurp
+  Row 1: syrup  GxYYG
+  Row 2: lapel  YxYxx
+  Row 3: purls  YYYYY
+  Row 4: baler  xxYxY
+  Row 5: lupus  YYYxY
+
+Target: slush
+  Row 1: shush  GxGGG
+  Row 2: halve  YxYxx
+  Row 3: shuls  GYGYY
+  Row 4: basal  xxYxY
+  Row 5: hulas  YYYxY
+
+Target: smack
+  Row 1: chasm  YxGYY
+  Row 2: admin  YxYxx
+  Row 3: macks  YYYYY
+  Row 4: alarm  xxGxY
+  Row 5: acmes  YYYxY
+
+Target: small
+  Row 1: shall  GxGGG
+  Row 2: abled  YxYxx
+  Row 3: malls  YYYGY
+  Row 4: avail  xxGxG
+  Row 5: allis  YYYxY
+
+Target: smash
+  Row 1: slash  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: shams  GYGYY
+  Row 4: alarm  xxGxY
+  Row 5: ashes  YYYxY
+
+Target: smear
+  Row 1: miser  YxYYG
+  Row 2: acrid  YxYxx
+  Row 3: mares  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: masse  YYYxY
+
+Target: smell
+  Row 1: shell  GxGGG
+  Row 2: eclat  YxYxx
+  Row 3: mells  YYYGY
+  Row 4: basal  xxYxG
+  Row 5: lemel  YYYxG
+
+Target: smelt
+  Row 1: motel  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: melts  YYYYY
+  Row 4: adept  xxGxG
+  Row 5: metal  YYYxY
+
+Target: smile
+  Row 1: spiel  GxGYY
+  Row 2: eclat  YxYxx
+  Row 3: slime  GYGYG
+  Row 4: abide  xxGxG
+  Row 5: slice  GYGxG
+
+Target: smirk
+  Row 1: shirk  GxGGG
+  Row 2: knife  YxGxx
+  Row 3: mirks  YYYYY
+  Row 4: axiom  xxGxY
+  Row 5: miser  YYYxY
+
+Target: smite
+  Row 1: exist  YxGYY
+  Row 2: easel  YxYxx
+  Row 3: emits  YGGGY
+  Row 4: abide  xxGxG
+  Row 5: smelt  GGYxY
+
+Target: smock
+  Row 1: shock  GxGGG
+  Row 2: camel  YxYxx
+  Row 3: mocks  YYYYY
+  Row 4: basic  xxYxY
+  Row 5: cokes  YYYxY
+
+Target: smoke
+  Row 1: moose  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: mokes  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: smock  GGGxY
+
+Target: smote
+  Row 1: moose  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: mesto  YYYGY
+  Row 4: abode  xxGxG
+  Row 5: metro  YYYxY
+
+Target: snail
+  Row 1: stain  GxGGY
+  Row 2: abide  YxYxx
+  Row 3: slain  GYGGY
+  Row 4: bonus  xxYxY
+  Row 5: alien  YYYxY
+
+Target: snake
+  Row 1: shake  GxGGG
+  Row 2: adept  YxYxx
+  Row 3: sneak  GGYYY
+  Row 4: aback  xxGxY
+  Row 5: ankle  YGYxG
+
+Target: snaky
+  Row 1: shaky  GxGGG
+  Row 2: aisle  YxYxx
+  Row 3: yanks  YYYGY
+  Row 4: aback  xxGxY
+  Row 5: nasty  YYYxG
+
+Target: snarl
+  Row 1: learn  YxGGY
+  Row 2: abled  YxYxx
+  Row 3: larns  YYYYY
+  Row 4: again  xxGxY
+  Row 5: arson  YYYxY
+
+Target: sneak
+  Row 1: shake  GxYYY
+  Row 2: adept  YxGxx
+  Row 3: snake  GGYYY
+  Row 4: binge  xxYxY
+  Row 5: ankle  YGYxY
+
+Target: snide
+  Row 1: dense  YxYYG
+  Row 2: daily  YxGxx
+  Row 3: denis  YYYYY
+  Row 4: afire  xxGxG
+  Row 5: deign  YYGxY
+
+Target: sniff
+  Row 1: skiff  GxGGG
+  Row 2: fairy  YxGxx
+  Row 3: niffs  YYYGY
+  Row 4: alien  xxGxY
+  Row 5: fifes  YYYxY
+
+Target: snoop
+  Row 1: scoop  GxGGG
+  Row 2: nasal  YxYxx
+  Row 3: spoon  GYGGY
+  Row 4: acorn  xxGxY
+  Row 5: noobs  YYGxY
+
+Target: snore
+  Row 1: noose  YxGYG
+  Row 2: early  YxYxx
+  Row 3: noser  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: resin  YYYxY
+
+Target: snout
+  Row 1: scout  GxGGG
+  Row 2: nasal  YxYxx
+  Row 3: nutso  YYYYY
+  Row 4: abort  xxGxG
+  Row 5: onset  YGYxG
+
+Target: snuff
+  Row 1: stuff  GxGGG
+  Row 2: fancy  YxYxx
+  Row 3: nuffs  YYYGY
+  Row 4: arson  xxYxY
+  Row 5: funds  YYYxY
+
+Target: sober
+  Row 1: ombre  YxGYY
+  Row 2: basal  YxYxx
+  Row 3: bores  YGYGY
+  Row 4: aisle  xxYxY
+  Row 5: borne  YGYxY
+
+Target: solar
+  Row 1: shoal  GxYGY
+  Row 2: abled  YxGxx
+  Row 3: orals  YYYYY
+  Row 4: cello  xxGxY
+  Row 5: lasso  YYYxY
+
+Target: solid
+  Row 1: scold  GxYYG
+  Row 2: dairy  YxYxx
+  Row 3: diols  YYYYY
+  Row 4: abled  xxGxG
+  Row 5: disco  YYYxY
+
+Target: solve
+  Row 1: salve  GxGGG
+  Row 2: ebony  YxYxx
+  Row 3: loves  YGYYY
+  Row 4: abode  xxYxG
+  Row 5: slope  GYYxG
+
+Target: sonar
+  Row 1: acorn  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: arson  YYYYY
+  Row 4: bingo  xxGxY
+  Row 5: saner  GYGxG
+
+Target: sonic
+  Row 1: stoic  GxYGG
+  Row 2: canal  YxGxx
+  Row 3: scion  GYYYY
+  Row 4: adorn  xxYxY
+  Row 5: scorn  GYYxY
+
+Target: sooth
+  Row 1: sloth  GxGGG
+  Row 2: hater  YxYxx
+  Row 3: shoot  GYGYY
+  Row 4: abort  xxGxY
+  Row 5: short  GYGxY
+
+Target: sooty
+  Row 1: shoot  GxGYY
+  Row 2: octal  YxYxx
+  Row 3: toyos  YGYYY
+  Row 4: abort  xxGxY
+  Row 5: stony  GYGxG
+
+Target: sound
+  Row 1: synod  GxYYG
+  Row 2: dance  YxYxx
+  Row 3: nodus  YGYYY
+  Row 4: acorn  xxYxY
+  Row 5: donas  YGYxY
+
+Target: south
+  Row 1: scout  GxYYY
+  Row 2: hater  YxYxx
+  Row 3: shout  GYYYY
+  Row 4: abort  xxYxY
+  Row 5: shoot  GYYxY
+
+Target: sower
+  Row 1: score  GxYYY
+  Row 2: early  YxYxx
+  Row 3: swore  GYYYY
+  Row 4: abode  xxYxY
+  Row 5: swear  GYYxG
+
+Target: space
+  Row 1: cease  YxGYG
+  Row 2: agent  YxYxx
+  Row 3: capes  YYYYY
+  Row 4: abate  xxGxG
+  Row 5: caste  YYYxG
+
+Target: spade
+  Row 1: drape  YxGYG
+  Row 2: agent  YxYxx
+  Row 3: sepad  GYYYY
+  Row 4: abate  xxGxG
+  Row 5: paste  YYYxG
+
+Target: spark
+  Row 1: scrap  GxYYY
+  Row 2: acrid  YxYxx
+  Row 3: parks  YYYYY
+  Row 4: aback  xxGxG
+  Row 5: prank  YYGxG
+
+Target: spasm
+  Row 1: scamp  GxGYY
+  Row 2: admin  YxYxx
+  Row 3: samps  GYYYY
+  Row 4: alarm  xxGxG
+  Row 5: psalm  YYGxG
+
+Target: spawn
+  Row 1: prawn  YxGGG
+  Row 2: aisle  YxYxx
+  Row 3: pawns  YYYYY
+  Row 4: again  xxGxG
+  Row 5: swamp  GYGxY
+
+Target: speak
+  Row 1: phase  YxYYY
+  Row 2: agent  YxGxx
+  Row 3: peaks  YYYYY
+  Row 4: black  xxYxG
+  Row 5: paste  YYYxY
+
+Target: speck
+  Row 1: copse  YxYYY
+  Row 2: caput  YxYxx
+  Row 3: pecks  YYYYY
+  Row 4: aisle  xxYxY
+  Row 5: speak  GGGxG
+
+Target: speed
+  Row 1: sheep  GxGGY
+  Row 2: disco  YxYxx
+  Row 3: deeps  YYGYY
+  Row 4: ahead  xxGxG
+  Row 5: spend  GGGxG
+
+Target: spell
+  Row 1: lapel  YxYYG
+  Row 2: eclat  YxYxx
+  Row 3: pells  YYYGY
+  Row 4: basal  xxYxG
+  Row 5: sleep  GYGxY
+
+Target: spelt
+  Row 1: lapse  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: slept  GYGYG
+  Row 4: agent  xxGxG
+  Row 5: petal  YYYxY
+
+Target: spend
+  Row 1: deens  YxGGY
+  Row 2: dandy  YxYxx
+  Row 3: pends  YYYYY
+  Row 4: ahead  xxGxG
+  Row 5: sedan  GYYxY
+
+Target: spent
+  Row 1: paste  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: pents  YYYYY
+  Row 4: aisle  xxYxY
+  Row 5: setup  GYYxY
+
+Target: spice
+  Row 1: copse  YxYYG
+  Row 2: cairn  YxGxx
+  Row 3: epics  YGGGY
+  Row 4: abide  xxGxG
+  Row 5: spike  GGGxG
+
+Target: spied
+  Row 1: plied  YxGGG
+  Row 2: daily  YxGxx
+  Row 3: pedis  YYYYY
+  Row 4: afire  xxGxY
+  Row 5: spend  GGYxG
+
+Target: spiel
+  Row 1: impel  YxYGG
+  Row 2: eclat  YxYxx
+  Row 3: lipes  YYYGY
+  Row 4: abide  xxGxY
+  Row 5: slice  GYGxY
+
+Target: spike
+  Row 1: poise  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: kepis  YYYYY
+  Row 4: abide  xxGxG
+  Row 5: skimp  GYGxY
+
+Target: spiky
+  Row 1: pesky  YxYGG
+  Row 2: idyll  YxYxx
+  Row 3: pisky  YYYGG
+  Row 4: amity  xxGxG
+  Row 5: skimp  GYGxY
+
+Target: spill
+  Row 1: skill  GxGGG
+  Row 2: idler  YxYxx
+  Row 3: pills  YYYGY
+  Row 4: axial  xxGxG
+  Row 5: spiel  GGGxG
+
+Target: spilt
+  Row 1: posit  YxYYG
+  Row 2: idler  YxYxx
+  Row 3: split  GGYYG
+  Row 4: axial  xxGxY
+  Row 5: islet  YYYxG
+
+Target: spine
+  Row 1: noise  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: snipe  GYGYG
+  Row 4: abide  xxGxG
+  Row 5: since  GYYxG
+
+Target: spiny
+  Row 1: noisy  YxGYG
+  Row 2: idyll  YxYxx
+  Row 3: pyins  YYGGY
+  Row 4: alien  xxGxY
+  Row 5: piney  YYYxG
+
+Target: spite
+  Row 1: exist  YxGYY
+  Row 2: easel  YxYxx
+  Row 3: piets  YYYGY
+  Row 4: abide  xxGxG
+  Row 5: setup  GYYxY
+
+Target: splat
+  Row 1: leapt  YxYYG
+  Row 2: abled  YxGxx
+  Row 3: plast  YYYYG
+  Row 4: beset  xxYxG
+  Row 5: plait  YYYxG
+
+Target: split
+  Row 1: posit  YxYGG
+  Row 2: idler  YxGxx
+  Row 3: spilt  GGYYG
+  Row 4: allot  xxGxG
+  Row 5: islet  YYGxG
+
+Target: spoil
+  Row 1: idols  YxGYY
+  Row 2: idler  YxYxx
+  Row 3: lipos  YYYYY
+  Row 4: afoul  xxGxG
+  Row 5: sloop  GYGxY
+
+Target: spoke
+  Row 1: prose  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: pokes  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: pesto  YYYxY
+
+Target: spoof
+  Row 1: proof  YxGGG
+  Row 2: fishy  YxYxx
+  Row 3: poofs  YYGYY
+  Row 4: croup  xxGxY
+  Row 5: foods  YYGxY
+
+Target: spook
+  Row 1: scoop  GxGGY
+  Row 2: kappa  YxYxx
+  Row 3: pooks  YYGYY
+  Row 4: block  xxGxG
+  Row 5: kooks  YYGxY
+
+Target: spool
+  Row 1: scoop  GxGGY
+  Row 2: leper  YxYxx
+  Row 3: sloop  GYGGY
+  Row 4: afoul  xxGxG
+  Row 5: spoil  GGGxG
+
+Target: spoon
+  Row 1: scoop  GxGGY
+  Row 2: nasal  YxYxx
+  Row 3: snoop  GYGGY
+  Row 4: acorn  xxGxG
+  Row 5: noobs  YYGxY
+
+Target: spore
+  Row 1: parse  YxYYG
+  Row 2: early  YxYxx
+  Row 3: poser  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: pesto  YYYxY
+
+Target: sport
+  Row 1: pesto  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: ports  YYYYY
+  Row 4: about  xxGxG
+  Row 5: poser  YYYxY
+
+Target: spout
+  Row 1: pesto  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: pouts  YYYYY
+  Row 4: abort  xxGxG
+  Row 5: posit  YYYxG
+
+Target: spray
+  Row 1: repay  YxYGG
+  Row 2: acrid  YxGxx
+  Row 3: raspy  YYYYG
+  Row 4: beady  xxYxG
+  Row 5: parry  YYGxG
+
+Target: spree
+  Row 1: parse  YxGYG
+  Row 2: early  YxGxx
+  Row 3: peers  YYYYY
+  Row 4: aisle  xxYxG
+  Row 5: serve  GYGxG
+
+Target: sprig
+  Row 1: strip  GxGGY
+  Row 2: gaily  YxYxx
+  Row 3: grips  YYYYY
+  Row 4: aging  xxYxG
+  Row 5: girds  YYGxY
+
+Target: spunk
+  Row 1: plunk  YxGGG
+  Row 2: kappa  YxYxx
+  Row 3: punks  YYYYY
+  Row 4: arson  xxYxY
+  Row 5: snuck  GYGxG
+
+Target: spurt
+  Row 1: setup  GxYYY
+  Row 2: parer  YxYxx
+  Row 3: turps  YYYYY
+  Row 4: actor  xxYxY
+  Row 5: strap  GYYxY
+
+Target: squad
+  Row 1: scaud  GxYYG
+  Row 2: acute  YxGxx
+  Row 3: quads  YYYYY
+  Row 4: beard  xxYxG
+  Row 5: daubs  YYGxY
+
+Target: squat
+  Row 1: abuts  YxGYY
+  Row 2: actor  YxYxx
+  Row 3: quats  YYYYY
+  Row 4: beset  xxYxG
+  Row 5: quart  YYYxG
+
+Target: stack
+  Row 1: coast  YxGYY
+  Row 2: after  YxYxx
+  Row 3: tacks  YYYYY
+  Row 4: adapt  xxGxY
+  Row 5: ascot  YYYxY
+
+Target: stake
+  Row 1: shake  GxGGG
+  Row 2: actor  YxYxx
+  Row 3: skate  GYGYG
+  Row 4: aback  xxGxY
+  Row 5: stack  GGGxY
+
+Target: stalk
+  Row 1: least  YxGYY
+  Row 2: abled  YxYxx
+  Row 3: talks  YYYYY
+  Row 4: aback  xxGxG
+  Row 5: slack  GYGxG
+
+Target: stall
+  Row 1: least  YxGYY
+  Row 2: abled  YxYxx
+  Row 3: talls  YYYGY
+  Row 4: adapt  xxGxY
+  Row 5: allot  YYYxY
+
+Target: stamp
+  Row 1: scamp  GxGGG
+  Row 2: actor  YxYxx
+  Row 3: tamps  YYYYY
+  Row 4: alarm  xxGxY
+  Row 5: psalm  YYGxY
+
+Target: stand
+  Row 1: scant  GxGGY
+  Row 2: actor  YxYxx
+  Row 3: dants  YYYYY
+  Row 4: again  xxGxY
+  Row 5: satin  GYYxY
+
+Target: stank
+  Row 1: scant  GxGGY
+  Row 2: actor  YxYxx
+  Row 3: kants  YYYYY
+  Row 4: aback  xxGxG
+  Row 5: satin  GYYxY
+
+Target: stark
+  Row 1: roast  YxGYY
+  Row 2: acrid  YxYxx
+  Row 3: karst  YYYYY
+  Row 4: aback  xxGxG
+  Row 5: satyr  GYYxY
+
+Target: state
+  Row 1: skate  GxGGG
+  Row 2: actor  YxYxx
+  Row 3: taste  YYYGG
+  Row 4: adage  xxGxG
+  Row 5: stage  GGGxG
+
+Target: stave
+  Row 1: shave  GxGGG
+  Row 2: actor  YxYxx
+  Row 3: vesta  YYYYY
+  Row 4: adage  xxGxG
+  Row 5: avert  YYYxY
+
+Target: stead
+  Row 1: shade  GxYYY
+  Row 2: actor  YxYxx
+  Row 3: dates  YYYYY
+  Row 4: blame  xxYxY
+  Row 5: adept  YYGxY
+
+Target: steak
+  Row 1: shake  GxYYY
+  Row 2: actor  YxYxx
+  Row 3: skate  GYYYY
+  Row 4: black  xxYxG
+  Row 5: stack  GGYxG
+
+Target: steam
+  Row 1: shame  GxYYY
+  Row 2: actor  YxYxx
+  Row 3: mates  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: masse  YYYxY
+
+Target: steed
+  Row 1: sheet  GxGGY
+  Row 2: datum  YxYxx
+  Row 3: deets  YYGYY
+  Row 4: agent  xxGxY
+  Row 5: stead  GGGxG
+
+Target: stein
+  Row 1: exist  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: inset  YYYYY
+  Row 4: abide  xxYxY
+  Row 5: inept  YYGxY
+
+Target: stern
+  Row 1: nurse  YxYYY
+  Row 2: early  YxYxx
+  Row 3: nerts  YYYYY
+  Row 4: actor  xxYxY
+  Row 5: enter  YYYxY
+
+Target: stick
+  Row 1: slick  GxGGG
+  Row 2: cairn  YxGxx
+  Row 3: ticks  YYYYY
+  Row 4: beset  xxYxY
+  Row 5: skirt  GYGxY
+
+Target: stiff
+  Row 1: foist  YxGYY
+  Row 2: fairy  YxGxx
+  Row 3: tiffs  YYYGY
+  Row 4: beset  xxYxY
+  Row 5: fifes  YYYxY
+
+Target: still
+  Row 1: skill  GxGGG
+  Row 2: idler  YxYxx
+  Row 3: lilts  YYYYY
+  Row 4: axial  xxGxG
+  Row 5: islet  YYYxY
+
+Target: stilt
+  Row 1: spilt  GxGGG
+  Row 2: idler  YxYxx
+  Row 3: tilts  YYYYY
+  Row 4: axial  xxGxY
+  Row 5: islet  YYYxG
+
+Target: sting
+  Row 1: glint  YxGGY
+  Row 2: gaily  YxGxx
+  Row 3: tings  YYYYY
+  Row 4: alien  xxGxY
+  Row 5: ingot  YYYxY
+
+Target: stint
+  Row 1: saint  GxGGG
+  Row 2: ionic  YxYxx
+  Row 3: tints  YYYYY
+  Row 4: alien  xxGxY
+  Row 5: stilt  GGGxG
+
+Target: stock
+  Row 1: shock  GxGGG
+  Row 2: cater  YxYxx
+  Row 3: tocks  YYYYY
+  Row 4: abort  xxGxY
+  Row 5: scout  GYGxY
+
+Target: stoic
+  Row 1: optic  YxYGG
+  Row 2: cairn  YxYxx
+  Row 3: coits  YYYYY
+  Row 4: abort  xxGxY
+  Row 5: scout  GYGxY
+
+Target: stoke
+  Row 1: onset  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: tokes  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: steak  GGYxY
+
+Target: stole
+  Row 1: extol  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: lotes  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: sleet  GYYxY
+
+Target: stone
+  Row 1: noose  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: onset  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: snore  GYGxG
+
+Target: stool
+  Row 1: shoot  GxGGY
+  Row 2: latch  YxYxx
+  Row 3: loots  YYGYY
+  Row 4: abort  xxGxY
+  Row 5: loofs  YYGxY
+
+Target: store
+  Row 1: onset  YxYYY
+  Row 2: early  YxYxx
+  Row 3: estro  YYYGY
+  Row 4: abode  xxGxG
+  Row 5: ester  YYYxY
+
+Target: stork
+  Row 1: roost  YxGYY
+  Row 2: karma  YxYxx
+  Row 3: skort  GYGGY
+  Row 4: about  xxGxY
+  Row 5: stock  GGGxG
+
+Target: storm
+  Row 1: metro  YxYGY
+  Row 2: march  YxYxx
+  Row 3: morts  YYYYY
+  Row 4: about  xxGxY
+  Row 5: motor  YYYxY
+
+Target: stout
+  Row 1: scout  GxGGG
+  Row 2: octal  YxYxx
+  Row 3: touts  YYYYY
+  Row 4: abort  xxGxG
+  Row 5: stunt  GGYxG
+
+Target: stove
+  Row 1: onset  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: votes  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: overt  YYYxY
+
+Target: stray
+  Row 1: roast  YxYYY
+  Row 2: acrid  YxGxx
+  Row 3: artsy  YYYYG
+  Row 4: beady  xxYxG
+  Row 5: raspy  YYYxG
+
+Target: strip
+  Row 1: posit  YxYGY
+  Row 2: impel  YxYxx
+  Row 3: spirt  GYYYY
+  Row 4: actor  xxYxY
+  Row 5: print  YYYxY
+
+Target: strut
+  Row 1: spurt  GxYYG
+  Row 2: raspy  YxYxx
+  Row 3: trust  YYYYG
+  Row 4: actor  xxYxY
+  Row 5: stunt  GGYxG
+
+Target: stuck
+  Row 1: crust  YxGYY
+  Row 2: cater  YxYxx
+  Row 3: tucks  YYYYY
+  Row 4: adult  xxGxY
+  Row 5: stunk  GGGxG
+
+Target: study
+  Row 1: dauts  YxGYY
+  Row 2: deter  YxYxx
+  Row 3: dusty  YYYYG
+  Row 4: aptly  xxYxG
+  Row 5: dusky  YYYxG
+
+Target: stuff
+  Row 1: fetus  YxYYY
+  Row 2: fatal  YxYxx
+  Row 3: tuffs  YYYGY
+  Row 4: adult  xxGxY
+  Row 5: tufas  YYYxY
+
+Target: stump
+  Row 1: setup  GxYYG
+  Row 2: maple  YxYxx
+  Row 3: tumps  YYYYY
+  Row 4: admit  xxYxY
+  Row 5: spurt  GYGxY
+
+Target: stung
+  Row 1: gaunt  YxGGY
+  Row 2: gassy  YxYxx
+  Row 3: tungs  YYYYY
+  Row 4: adult  xxGxY
+  Row 5: unset  YYYxY
+
+Target: style
+  Row 1: lusty  YxYYY
+  Row 2: eaten  YxYxx
+  Row 3: lytes  YYYYY
+  Row 4: adept  xxYxY
+  Row 5: sleet  GYYxY
+
+Target: suave
+  Row 1: abuse  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: uveas  YYYYY
+  Row 4: abate  xxGxG
+  Row 5: sauce  GYYxG
+
+Target: suing
+  Row 1: sling  GxGGG
+  Row 2: gaily  YxGxx
+  Row 3: using  YYGGG
+  Row 4: alien  xxGxY
+  Row 5: gings  YYYxY
+
+Target: suite
+  Row 1: exist  YxGYY
+  Row 2: easel  YxYxx
+  Row 3: etuis  YYYYY
+  Row 4: abide  xxGxG
+  Row 5: utile  YYGxG
+
+Target: super
+  Row 1: parse  YxYYY
+  Row 2: early  YxYxx
+  Row 3: purse  YGYYY
+  Row 4: acute  xxYxY
+  Row 5: prude  YYYxY
+
+Target: surer
+  Row 1: riser  YxYGG
+  Row 2: early  YxGxx
+  Row 3: ruers  YGYYY
+  Row 4: acute  xxYxY
+  Row 5: surge  GGGxY
+
+Target: surge
+  Row 1: reuse  YxYYG
+  Row 2: early  YxGxx
+  Row 3: grues  YYYYY
+  Row 4: acute  xxYxG
+  Row 5: sugar  GGYxY
+
+Target: swami
+  Row 1: agism  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: aswim  YYYYY
+  Row 4: alarm  xxGxY
+  Row 5: swarm  GGGxY
+
+Target: swarm
+  Row 1: scram  GxYYG
+  Row 2: acrid  YxYxx
+  Row 3: mawrs  YYYGY
+  Row 4: bosom  xxYxG
+  Row 5: aswim  YYYxG
+
+Target: swash
+  Row 1: slash  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: shaws  GYGYY
+  Row 4: beach  xxGxG
+  Row 5: swath  GGGxG
+
+Target: swear
+  Row 1: scare  GxYYY
+  Row 2: acrid  YxYxx
+  Row 3: resaw  YYYGY
+  Row 4: blade  xxYxY
+  Row 5: sewer  GYYxG
+
+Target: sweat
+  Row 1: skate  GxYYY
+  Row 2: actor  YxYxx
+  Row 3: waste  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: stage  GYYxY
+
+Target: sweep
+  Row 1: sheep  GxGGG
+  Row 2: eject  YxGxx
+  Row 3: weeps  YYGYY
+  Row 4: aisle  xxYxY
+  Row 5: ewers  YGGxY
+
+Target: swell
+  Row 1: shell  GxGGG
+  Row 2: eclat  YxYxx
+  Row 3: wells  YYYGY
+  Row 4: aglow  xxYxY
+  Row 5: lewis  YYYxY
+
+Target: swill
+  Row 1: skill  GxGGG
+  Row 2: idler  YxYxx
+  Row 3: wills  YYYGY
+  Row 4: aglow  xxYxY
+  Row 5: swirl  GGGxG
+
+Target: swine
+  Row 1: noise  YxGYG
+  Row 2: easel  YxYxx
+  Row 3: sinew  GYYYY
+  Row 4: abide  xxGxG
+  Row 5: since  GYYxG
+
+Target: swing
+  Row 1: sling  GxGGG
+  Row 2: gaily  YxGxx
+  Row 3: wings  YYYYY
+  Row 4: alien  xxGxY
+  Row 5: sinew  GYYxY
+
+Target: swish
+  Row 1: sushi  GxYYY
+  Row 2: hairy  YxGxx
+  Row 3: whiss  YYGGY
+  Row 4: ethos  xxYxY
+  Row 5: hists  YYYxY
+
+Target: swoon
+  Row 1: shown  GxGYG
+  Row 2: nasal  YxYxx
+  Row 3: woons  YYGYY
+  Row 4: acorn  xxGxG
+  Row 5: sworn  GGGxG
+
+Target: swoop
+  Row 1: scoop  GxGGG
+  Row 2: onset  YxYxx
+  Row 3: woops  YYGYY
+  Row 4: croup  xxGxG
+  Row 5: poods  YYGxY
+
+Target: swore
+  Row 1: score  GxGGG
+  Row 2: early  YxYxx
+  Row 3: sower  GYYYY
+  Row 4: abode  xxGxG
+  Row 5: sewer  GYYxY
+
+Target: table
+  Row 1: amble  YxGGG
+  Row 2: actor  YxYxx
+  Row 3: bleat  YYYYY
+  Row 4: cease  xxYxG
+  Row 5: alert  YYYxY
+
+Target: tacit
+  Row 1: antic  YxYGY
+  Row 2: abide  YxYxx
+  Row 3: attic  YYYGY
+  Row 4: beast  xxYxG
+  Row 5: taint  GGYxG
+
+Target: taint
+  Row 1: train  GxYYY
+  Row 2: abide  YxGxx
+  Row 3: titan  GYYYY
+  Row 4: beast  xxYxG
+  Row 5: atilt  YYGxG
+
+Target: talon
+  Row 1: allot  YxGGY
+  Row 2: abled  YxGxx
+  Row 3: tonal  GYYYY
+  Row 4: beast  xxYxY
+  Row 5: aloft  YYYxY
+
+Target: tamer
+  Row 1: after  YxYGG
+  Row 2: acrid  YxYxx
+  Row 3: armet  YYGGY
+  Row 4: blade  xxYxY
+  Row 5: meant  YYYxY
+
+Target: tango
+  Row 1: along  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: tonga  GYGGY
+  Row 4: beast  xxYxY
+  Row 5: angst  YYYxY
+
+Target: taper
+  Row 1: adept  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: apert  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: parse  YGYxY
+
+Target: tapir
+  Row 1: plait  YxYGY
+  Row 2: abide  YxYxx
+  Row 3: atrip  YYYGY
+  Row 4: beast  xxYxY
+  Row 5: paint  YGYxY
+
+Target: tarot
+  Row 1: abort  YxYYG
+  Row 2: abode  YxYxx
+  Row 3: ottar  YYYYY
+  Row 4: beast  xxYxG
+  Row 5: otter  YYYxY
+
+Target: taste
+  Row 1: asset  YxGYY
+  Row 2: actor  YxYxx
+  Row 3: state  YYYGG
+  Row 4: blade  xxYxG
+  Row 5: stage  YYYxG
+
+Target: tawny
+  Row 1: aunty  YxYYG
+  Row 2: abyss  YxYxx
+  Row 3: wanty  YGYYG
+  Row 4: beady  xxYxG
+  Row 5: tangy  GGYxG
+
+Target: teach
+  Row 1: cleat  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: cheat  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: chafe  YYGxY
+
+Target: tease
+  Row 1: elate  YxGYG
+  Row 2: actor  YxYxx
+  Row 3: setae  YGYYG
+  Row 4: adage  xxGxG
+  Row 5: stage  YYGxG
+
+Target: teeth
+  Row 1: tithe  GxYYY
+  Row 2: elegy  YxGxx
+  Row 3: thete  GYGGY
+  Row 4: adept  xxGxY
+  Row 5: theft  GYGxY
+
+Target: tense
+  Row 1: eaten  YxYYY
+  Row 2: elegy  YxYxx
+  Row 3: etens  YYYYY
+  Row 4: adept  xxYxY
+  Row 5: ensue  YYYxG
+
+Target: terse
+  Row 1: eater  YxYYY
+  Row 2: early  YxGxx
+  Row 3: ester  YYYYY
+  Row 4: actor  xxYxY
+  Row 5: erect  YYYxY
+
+Target: testy
+  Row 1: taste  GxGGY
+  Row 2: easel  YxGxx
+  Row 3: styte  YYYGY
+  Row 4: adept  xxYxY
+  Row 5: style  YYYxY
+
+Target: their
+  Row 1: earth  YxYYY
+  Row 2: early  YxYxx
+  Row 3: ither  YYYYG
+  Row 4: abhor  xxYxG
+  Row 5: ether  YYYxG
+
+Target: there
+  Row 1: earth  YxYYY
+  Row 2: early  YxYxx
+  Row 3: ether  YYYYY
+  Row 4: abhor  xxYxY
+  Row 5: erect  YYGxY
+
+Target: these
+  Row 1: haste  YxYYG
+  Row 2: elegy  YxGxx
+  Row 3: sheet  YGGYY
+  Row 4: adept  xxGxY
+  Row 5: ethos  YYYxY
+
+Target: thigh
+  Row 1: grith  YxGYG
+  Row 2: gaily  YxGxx
+  Row 3: hight  YYYYY
+  Row 4: angst  xxYxY
+  Row 5: hitch  YYYxG
+
+Target: thing
+  Row 1: glint  YxGGY
+  Row 2: gaily  YxGxx
+  Row 3: night  YYYYY
+  Row 4: alien  xxGxY
+  Row 5: ingot  YYYxY
+
+Target: third
+  Row 1: derth  YxYYY
+  Row 2: daily  YxGxx
+  Row 3: thrid  GGYYG
+  Row 4: abhor  xxYxY
+  Row 5: ditch  YYYxY
+
+Target: thorn
+  Row 1: heron  YxYYG
+  Row 2: handy  YxYxx
+  Row 3: north  YYYYY
+  Row 4: about  xxGxY
+  Row 5: honor  YYYxY
+
+Target: those
+  Row 1: haste  YxYYG
+  Row 2: easel  YxYxx
+  Row 3: ethos  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: sheet  YGYxY
+
+Target: three
+  Row 1: earth  YxGYY
+  Row 2: early  YxGxx
+  Row 3: ether  YYYGY
+  Row 4: abhor  xxYxY
+  Row 5: erect  YYYxY
+
+Target: threw
+  Row 1: earth  YxGYY
+  Row 2: early  YxGxx
+  Row 3: rewth  YYYYY
+  Row 4: abhor  xxYxY
+  Row 5: retch  YYYxY
+
+Target: throb
+  Row 1: berth  YxGYY
+  Row 2: barge  YxGxx
+  Row 3: broth  YYYYY
+  Row 4: adopt  xxYxY
+  Row 5: botch  YYYxY
+
+Target: tiara
+  Row 1: altar  YxYYY
+  Row 2: aback  YxGxx
+  Row 3: aarti  YYYYY
+  Row 4: beast  xxGxY
+  Row 5: ariot  YYYxY
+
+Target: tidal
+  Row 1: audit  YxGYY
+  Row 2: actor  YxYxx
+  Row 3: dital  YGYGG
+  Row 4: beard  xxYxY
+  Row 5: ailed  YGYxY
+
+Target: tilde
+  Row 1: dwelt  YxYYY
+  Row 2: dairy  YxYxx
+  Row 3: lited  YGYYY
+  Row 4: afire  xxYxG
+  Row 5: edict  YYYxY
+
+Target: titan
+  Row 1: train  GxYYG
+  Row 2: abide  YxYxx
+  Row 3: taint  GYYYY
+  Row 4: beast  xxYxY
+  Row 5: atilt  YYYxY
+
+Target: toast
+  Row 1: altos  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: stoat  YYYYG
+  Row 4: adapt  xxGxG
+  Row 5: start  YYGxG
+
+Target: today
+  Row 1: diota  YxYYY
+  Row 2: above  YxYxx
+  Row 3: toady  GGYYG
+  Row 4: beard  xxYxY
+  Row 5: adopt  YYYxY
+
+Target: tonal
+  Row 1: leant  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: talon  GYYYY
+  Row 4: beast  xxYxY
+  Row 5: aloft  YYYxY
+
+Target: tonga
+  Row 1: along  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: tango  GYGGY
+  Row 4: apnea  xxGxG
+  Row 5: angst  YYYxY
+
+Target: tonic
+  Row 1: optic  YxYGG
+  Row 2: canal  YxGxx
+  Row 3: ontic  YYYGG
+  Row 4: abort  xxYxY
+  Row 5: intro  YYYxY
+
+Target: topic
+  Row 1: patio  YxYGY
+  Row 2: cairn  YxYxx
+  Row 3: optic  YYYGG
+  Row 4: abort  xxYxY
+  Row 5: point  YGYxY
+
+Target: torch
+  Row 1: cloth  YxYYG
+  Row 2: carry  YxGxx
+  Row 3: rotch  YGYGG
+  Row 4: about  xxYxY
+  Row 5: choir  YYYxY
+
+Target: torso
+  Row 1: shoot  YxYYY
+  Row 2: octal  YxYxx
+  Row 3: roost  YGYGY
+  Row 4: about  xxYxY
+  Row 5: torus  GGGxY
+
+Target: torus
+  Row 1: scour  YxYGY
+  Row 2: octal  YxYxx
+  Row 3: roust  YGYYY
+  Row 4: adopt  xxYxY
+  Row 5: outer  YYYxY
+
+Target: total
+  Row 1: octal  YxGGG
+  Row 2: abled  YxYxx
+  Row 3: lotta  YGGYY
+  Row 4: beast  xxYxY
+  Row 5: aloft  YYYxY
+
+Target: totem
+  Row 1: octet  YxGGY
+  Row 2: ebony  YxYxx
+  Row 3: motet  YGGGY
+  Row 4: abode  xxYxY
+  Row 5: metro  YYGxY
+
+Target: touch
+  Row 1: cloth  YxYYG
+  Row 2: cater  YxYxx
+  Row 3: chout  YYYYY
+  Row 4: abort  xxYxY
+  Row 5: cough  YGGxG
+
+Target: tough
+  Row 1: grout  YxYYY
+  Row 2: gaudy  YxGxx
+  Row 3: ought  YYYYY
+  Row 4: abort  xxYxY
+  Row 5: ghost  YYYxY
+
+Target: towel
+  Row 1: extol  YxYYG
+  Row 2: ebony  YxYxx
+  Row 3: owlet  YYYGY
+  Row 4: abode  xxYxY
+  Row 5: lotte  YGYxY
+
+Target: tower
+  Row 1: outer  YxYGG
+  Row 2: early  YxYxx
+  Row 3: wrote  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: retro  YYYxY
+
+Target: trace
+  Row 1: after  YxYYY
+  Row 2: ahead  YxYxx
+  Row 3: cater  YYYYY
+  Row 4: abase  xxGxG
+  Row 5: actor  YYYxY
+
+Target: trade
+  Row 1: after  YxYYY
+  Row 2: antic  YxYxx
+  Row 3: tread  GGYYY
+  Row 4: abase  xxGxG
+  Row 5: adept  YYYxY
+
+Target: trash
+  Row 1: heart  YxGYY
+  Row 2: acrid  YxYxx
+  Row 3: harts  YYYYY
+  Row 4: adapt  xxGxY
+  Row 5: hater  YYYxY
+
+Target: tread
+  Row 1: after  YxYYY
+  Row 2: antic  YxYxx
+  Row 3: trade  GGYYY
+  Row 4: blame  xxYxY
+  Row 5: adept  YYGxY
+
+Target: treat
+  Row 1: after  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: arett  YGGYG
+  Row 4: blade  xxYxY
+  Row 5: eater  YYYxY
+
+Target: trend
+  Row 1: diner  YxYYY
+  Row 2: dandy  YxYxx
+  Row 3: drent  YGGGY
+  Row 4: acrid  xxYxG
+  Row 5: deter  YYYxY
+
+Target: trial
+  Row 1: twirl  GxGYG
+  Row 2: abide  YxGxx
+  Row 3: trail  GGYYG
+  Row 4: beast  xxYxY
+  Row 5: alter  YYYxY
+
+Target: tribe
+  Row 1: inert  YxYYY
+  Row 2: baron  YxYxx
+  Row 3: biter  YYYYY
+  Row 4: actor  xxYxY
+  Row 5: beret  YYYxY
+
+Target: trice
+  Row 1: cater  YxYYY
+  Row 2: cargo  YxYxx
+  Row 3: citer  YYYYY
+  Row 4: abide  xxGxG
+  Row 5: crept  YGYxY
+
+Target: tried
+  Row 1: deter  YxYGY
+  Row 2: daily  YxGxx
+  Row 3: tired  GYYGG
+  Row 4: actor  xxYxY
+  Row 5: dirge  YYYxY
+
+Target: tripe
+  Row 1: inept  YxYGY
+  Row 2: early  YxYxx
+  Row 3: petri  YYYYY
+  Row 4: abide  xxGxG
+  Row 5: price  YGGxG
+
+Target: trite
+  Row 1: inert  YxYYY
+  Row 2: early  YxYxx
+  Row 3: tetri  GYYYY
+  Row 4: abide  xxGxG
+  Row 5: tithe  GYYxG
+
+Target: trope
+  Row 1: outer  YxYYY
+  Row 2: early  YxYxx
+  Row 3: opter  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: probe  YGGxG
+
+Target: trout
+  Row 1: tarot  GxYYG
+  Row 2: octal  YxYxx
+  Row 3: tutor  GYYYY
+  Row 4: adopt  xxGxG
+  Row 5: otter  YYYxY
+
+Target: trove
+  Row 1: outer  YxYYY
+  Row 2: early  YxYxx
+  Row 3: overt  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: retro  YYYxY
+
+Target: truce
+  Row 1: cater  YxYYY
+  Row 2: cargo  YxYxx
+  Row 3: recut  YYYYY
+  Row 4: abuse  xxGxG
+  Row 5: crept  YGYxY
+
+Target: truss
+  Row 1: spurt  YxGYY
+  Row 2: raspy  YxYxx
+  Row 3: rusts  YYYYG
+  Row 4: actor  xxYxY
+  Row 5: rusas  YYYxG
+
+Target: trust
+  Row 1: spurt  YxGYG
+  Row 2: raspy  YxYxx
+  Row 3: strut  YYYYG
+  Row 4: actor  xxYxY
+  Row 5: stunt  YYGxG
+
+Target: tulip
+  Row 1: input  YxYYY
+  Row 2: idler  YxGxx
+  Row 3: uplit  YYGGY
+  Row 4: allot  xxGxY
+  Row 5: pilot  YYGxY
+
+Target: tunic
+  Row 1: count  YxYYY
+  Row 2: canal  YxGxx
+  Row 3: cunit  YGGGY
+  Row 4: adult  xxYxY
+  Row 5: uncut  YYYxY
+
+Target: tutor
+  Row 1: tarot  GxYGY
+  Row 2: octal  YxGxx
+  Row 3: trout  GYYYY
+  Row 4: adopt  xxYxY
+  Row 5: otter  YYGxG
+
+Target: tweed
+  Row 1: endew  YxYGY
+  Row 2: datum  YxYxx
+  Row 3: tewed  GYYGG
+  Row 4: agent  xxGxY
+  Row 5: dwelt  YGGxY
+
+Target: twist
+  Row 1: waist  YxGGG
+  Row 2: inter  YxYxx
+  Row 3: twits  GGGYY
+  Row 4: beset  xxYxG
+  Row 5: stilt  YYGxG
+
+Target: udder
+  Row 1: under  GxGGG
+  Row 2: daddy  YxGxx
+  Row 3: dured  YYYGY
+  Row 4: abuse  xxYxY
+  Row 5: dread  YYYxY
+
+Target: umbra
+  Row 1: album  YxGYY
+  Row 2: abbey  YxGxx
+  Row 3: rumba  YYYYG
+  Row 4: aorta  xxYxG
+  Row 5: amber  YGGxY
+
+Target: under
+  Row 1: diner  YxYGG
+  Row 2: dandy  YxYxx
+  Row 3: nuder  YYGGG
+  Row 4: abuse  xxYxY
+  Row 5: dunce  YYYxY
+
+Target: unite
+  Row 1: twine  YxGYG
+  Row 2: eater  YxYxx
+  Row 3: untie  GGYYG
+  Row 4: abide  xxGxG
+  Row 5: inept  YGYxY
+
+Target: unlit
+  Row 1: lenti  YxYYY
+  Row 2: idler  YxGxx
+  Row 3: until  GGYGY
+  Row 4: allot  xxGxG
+  Row 5: inlet  YGGxG
+
+Target: unset
+  Row 1: saute  YxYYY
+  Row 2: elude  YxYxx
+  Row 3: suent  YYYYG
+  Row 4: adept  xxYxG
+  Row 5: stein  YYYxY
+
+Target: untie
+  Row 1: twine  YxYYG
+  Row 2: eater  YxGxx
+  Row 3: unite  GGYYG
+  Row 4: abide  xxYxG
+  Row 5: inept  YGYxY
+
+Target: until
+  Row 1: lenti  YxYYY
+  Row 2: idler  YxYxx
+  Row 3: unlit  GGYGY
+  Row 4: avian  xxYxY
+  Row 5: inlet  YGYxY
+
+Target: upset
+  Row 1: erupt  YxYYG
+  Row 2: elude  YxYxx
+  Row 3: setup  YYYYY
+  Row 4: adult  xxYxG
+  Row 5: spelt  YGYxG
+
+Target: urban
+  Row 1: umbra  GxGYY
+  Row 2: abbey  YxGxx
+  Row 3: buran  YYYGG
+  Row 4: chain  xxYxG
+  Row 5: baron  YYYxG
+
+Target: urine
+  Row 1: nairu  YxGYY
+  Row 2: early  YxYxx
+  Row 3: inure  YYYYG
+  Row 4: abide  xxGxG
+  Row 5: nurse  YYYxG
+
+Target: usage
+  Row 1: abuse  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: agues  YYYYY
+  Row 4: abate  xxGxG
+  Row 5: gauze  YYYxG
+
+Target: using
+  Row 1: sling  YxGGG
+  Row 2: gaily  YxGxx
+  Row 3: suing  YYGGG
+  Row 4: alien  xxGxY
+  Row 5: gings  YYYxY
+
+Target: usual
+  Row 1: aglus  YxYYY
+  Row 2: abled  YxYxx
+  Row 3: luaus  YYYYY
+  Row 4: brawl  xxYxG
+  Row 5: alums  YYGxY
+
+Target: utile
+  Row 1: exult  YxYGY
+  Row 2: eaten  YxYxx
+  Row 3: tuile  YYGGG
+  Row 4: abide  xxGxG
+  Row 5: lithe  YYYxG
+
+Target: valor
+  Row 1: rival  YxYYY
+  Row 2: abled  YxGxx
+  Row 3: orval  YYYYY
+  Row 4: bevel  xxYxY
+  Row 5: lover  YYYxG
+
+Target: value
+  Row 1: equal  YxYYY
+  Row 2: adept  YxYxx
+  Row 3: uveal  YYYYY
+  Row 4: belie  xxGxG
+  Row 5: valve  GGGxG
+
+Target: vapid
+  Row 1: plaid  YxYGG
+  Row 2: afire  YxYxx
+  Row 3: pavid  YGYGG
+  Row 4: beard  xxYxG
+  Row 5: divna  YYYxY
+
+Target: vapor
+  Row 1: appro  YxGYY
+  Row 2: abode  YxYxx
+  Row 3: parvo  YGYYY
+  Row 4: chair  xxYxG
+  Row 5: pareo  YGYxY
+
+Target: vegan
+  Row 1: given  YxYYG
+  Row 2: adept  YxYxx
+  Row 3: ganev  YYYYY
+  Row 4: blade  xxYxY
+  Row 5: angle  YYGxY
+
+Target: verge
+  Row 1: eager  YxYYY
+  Row 2: early  YxGxx
+  Row 3: greve  YYYYG
+  Row 4: algae  xxYxG
+  Row 5: revue  YGYxG
+
+Target: verse
+  Row 1: scree  YxGYG
+  Row 2: early  YxGxx
+  Row 3: serve  YGGYG
+  Row 4: aisle  xxYxG
+  Row 5: revue  YGYxG
+
+Target: verso
+  Row 1: savor  YxYYY
+  Row 2: early  YxGxx
+  Row 3: overs  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: sever  YGYxY
+
+Target: vicar
+  Row 1: chair  YxYYG
+  Row 2: abide  YxYxx
+  Row 3: vraic  GYYYY
+  Row 4: cocoa  xxGxY
+  Row 5: circa  YGYxY
+
+Target: video
+  Row 1: drive  YxYYY
+  Row 2: daily  YxYxx
+  Row 3: dovie  YYYYY
+  Row 4: afire  xxYxY
+  Row 5: diode  YGYxY
+
+Target: viola
+  Row 1: anvil  YxYYY
+  Row 2: abide  YxYxx
+  Row 3: voila  GYYGG
+  Row 4: agora  xxGxG
+  Row 5: aviso  YYYxY
+
+Target: viral
+  Row 1: anvil  YxYYG
+  Row 2: abide  YxYxx
+  Row 3: rival  YGYGG
+  Row 4: bevel  xxYxG
+  Row 5: liver  YGYxY
+
+Target: vista
+  Row 1: absit  YxGYY
+  Row 2: abide  YxYxx
+  Row 3: vitas  GGYYY
+  Row 4: beset  xxGxY
+  Row 5: saint  YYYxY
+
+Target: vogue
+  Row 1: glove  YxYYG
+  Row 2: eager  YxGxx
+  Row 3: vouge  GGYYG
+  Row 4: abode  xxYxG
+  Row 5: gouge  YGYxG
+
+Target: voila
+  Row 1: anvil  YxYYY
+  Row 2: abide  YxGxx
+  Row 3: viola  GYYGG
+  Row 4: agora  xxYxG
+  Row 5: aviso  YYGxY
+
+Target: voter
+  Row 1: otter  YxGGG
+  Row 2: early  YxYxx
+  Row 3: overt  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: retro  YYGxY
+
+Target: vowel
+  Row 1: whole  YxYYY
+  Row 2: ebony  YxYxx
+  Row 3: wolve  YGYYY
+  Row 4: abode  xxYxY
+  Row 5: lovie  YGYxY
+
+Target: wagon
+  Row 1: along  YxYYY
+  Row 2: abode  YxYxx
+  Row 3: gowan  YYYYG
+  Row 4: begin  xxGxG
+  Row 5: anglo  YYGxY
+
+Target: waist
+  Row 1: wrist  GxGGG
+  Row 2: abide  YxGxx
+  Row 3: waits  GGGYY
+  Row 4: beset  xxYxG
+  Row 5: saint  YGGxG
+
+Target: waste
+  Row 1: asset  YxGYY
+  Row 2: actor  YxYxx
+  Row 3: sweat  YYYYY
+  Row 4: blade  xxYxG
+  Row 5: stage  YYYxG
+
+Target: water
+  Row 1: after  YxGGG
+  Row 2: acrid  YxYxx
+  Row 3: tawer  YGYGG
+  Row 4: blade  xxYxY
+  Row 5: react  YYYxY
+
+Target: weird
+  Row 1: dower  YxYYY
+  Row 2: daily  YxGxx
+  Row 3: wider  GYYYY
+  Row 4: agile  xxGxY
+  Row 5: dirge  YYYxY
+
+Target: whack
+  Row 1: wrack  GxGGG
+  Row 2: abhor  YxYxx
+  Row 3: chawk  YGGYG
+  Row 4: blank  xxGxG
+  Row 5: chalk  YGGxG
+
+Target: whale
+  Row 1: ethal  YxYYY
+  Row 2: abhor  YxYxx
+  Row 3: wheal  GGYYY
+  Row 4: abase  xxGxG
+  Row 5: halve  YYYxG
+
+Target: where
+  Row 1: ether  YxYYY
+  Row 2: early  YxYxx
+  Row 3: hewer  YYYYY
+  Row 4: abhor  xxYxY
+  Row 5: herse  YYYxG
+
+Target: white
+  Row 1: write  GxGGG
+  Row 2: eaten  YxYxx
+  Row 3: withe  GYYYG
+  Row 4: abide  xxGxG
+  Row 5: heist  YYGxY
+
+Target: whose
+  Row 1: ethos  YxYYY
+  Row 2: easel  YxYxx
+  Row 3: howes  YYYYY
+  Row 4: abode  xxGxG
+  Row 5: shone  YGGxG
+
+Target: widen
+  Row 1: whine  GxYYY
+  Row 2: daily  YxYxx
+  Row 3: dwine  YYYYY
+  Row 4: afire  xxYxY
+  Row 5: deign  YYYxG
+
+Target: wider
+  Row 1: drier  YxYGG
+  Row 2: daily  YxYxx
+  Row 3: weird  GYYYY
+  Row 4: agile  xxYxY
+  Row 5: dirge  YGYxY
+
+Target: wield
+  Row 1: dowel  YxYYY
+  Row 2: dairy  YxYxx
+  Row 3: dwile  YYYGY
+  Row 4: afire  xxYxY
+  Row 5: ideal  YYGxY
+
+Target: wiser
+  Row 1: raise  YxYYY
+  Row 2: early  YxYxx
+  Row 3: sweir  YYYYG
+  Row 4: abide  xxYxY
+  Row 5: swear  YYYxG
+
+Target: woken
+  Row 1: known  YxYYG
+  Row 2: elope  YxYxx
+  Row 3: knowe  YYYYY
+  Row 4: abode  xxYxY
+  Row 5: kendo  YYYxY
+
+Target: wordy
+  Row 1: duroy  YxGYG
+  Row 2: dirge  YxGxx
+  Row 3: dowry  YGYYG
+  Row 4: acrid  xxGxY
+  Row 5: downy  YGYxG
+
+Target: worth
+  Row 1: rewth  YxYGG
+  Row 2: hardy  YxGxx
+  Row 3: throw  YYGYY
+  Row 4: about  xxYxY
+  Row 5: other  YYYxY
+
+Target: wrath
+  Row 1: heart  YxGYY
+  Row 2: acrid  YxYxx
+  Row 3: thraw  YYYYY
+  Row 4: adapt  xxGxY
+  Row 5: hater  YYYxY
+
+Target: wreak
+  Row 1: askew  YxYYY
+  Row 2: acrid  YxYxx
+  Row 3: waker  GYYYY
+  Row 4: black  xxYxG
+  Row 5: wrack  GGYxG
+
+Target: wrest
+  Row 1: screw  YxYYY
+  Row 2: early  YxYxx
+  Row 3: strew  YYYYY
+  Row 4: actor  xxYxY
+  Row 5: ester  YYYxY
+
+Target: wrist
+  Row 1: shirt  YxGYG
+  Row 2: rainy  YxGxx
+  Row 3: writs  GGGYY
+  Row 4: actor  xxYxY
+  Row 5: straw  YYYxY
+
+Target: wrong
+  Row 1: wagon  GxYYY
+  Row 2: gawky  YxYxx
+  Row 3: grown  YGGYY
+  Row 4: augur  xxYxY
+  Row 5: goner  YYYxY
+
+Target: yearn
+  Row 1: aiery  YxYGY
+  Row 2: abyss  YxYxx
+  Row 3: rayne  YYYYY
+  Row 4: abase  xxGxY
+  Row 5: early  YYYxY
+
+Target: yeast
+  Row 1: artsy  YxYGY
+  Row 2: actor  YxYxx
+  Row 3: yates  GYYYY
+  Row 4: adage  xxGxY
+  Row 5: stage  YYGxY
+
+Target: zebra
+  Row 1: amber  YxGYY
+  Row 2: abbot  YxGxx
+  Row 3: braze  YYYYY
+  Row 4: aorta  xxYxG
+  Row 5: barge  YYYxY
+
+
+IMPOSSIBLE (1135 words)
+======================================================================
+aback
+abase
+abate
+abbey
+abbot
+abhor
+abide
+about
+above
+acute
+adage
+adapt
+admit
+adopt
+affix
+afoot
+afoul
+agate
+agent
+agile
+aging
+aglow
+agony
+agora
+aisle
+album
+alive
+allay
+alley
+allow
+alpha
+amaze
+amuse
+ankle
+annex
+annul
+anode
+aorta
+apart
+aphid
+aping
+apply
+apron
+ardor
+aroma
+array
+arrow
+assay
+audio
+audit
+augur
+aunty
+avail
+avian
+avoid
+awake
+award
+aware
+awful
+awoke
+axial
+axiom
+axion
+azure
+baggy
+banjo
+basic
+batch
+baton
+batty
+bawdy
+bayou
+beach
+beech
+beefy
+befit
+begat
+beget
+begun
+belie
+belle
+belly
+bench
+beret
+berry
+berth
+betel
+bevel
+bezel
+bible
+bicep
+biddy
+bigot
+billy
+birch
+bison
+bitty
+black
+bland
+blank
+blaze
+bleak
+blend
+blimp
+blind
+blink
+bliss
+blitz
+bloat
+block
+bloke
+blond
+blood
+bloom
+blown
+bluff
+blunt
+blurb
+blurt
+bobby
+boney
+booty
+booze
+boozy
+borax
+bossy
+botch
+bough
+boule
+bound
+boxer
+brand
+brash
+brass
+brave
+bravo
+brawl
+brawn
+briar
+bribe
+brick
+bring
+brink
+briny
+broil
+brook
+brown
+buddy
+buggy
+built
+bulky
+bully
+bunch
+bunny
+burly
+bushy
+butch
+butte
+buxom
+bylaw
+cabal
+cabby
+cabin
+cable
+cacao
+caddy
+cagey
+canal
+canny
+caput
+cargo
+carry
+catch
+catty
+caulk
+cello
+chafe
+chaff
+chalk
+champ
+chard
+check
+chick
+child
+chill
+chirp
+chock
+choke
+chord
+chuck
+chump
+chunk
+cinch
+civic
+civil
+clack
+clamp
+clang
+clank
+class
+cleft
+clerk
+click
+cliff
+climb
+cling
+clink
+cloak
+clock
+clone
+cloth
+clout
+clove
+clown
+cluck
+clump
+clung
+cocoa
+colon
+comfy
+comic
+comma
+conch
+conic
+couch
+count
+coupe
+coven
+cover
+covet
+covey
+cower
+coyly
+crack
+cramp
+crank
+crawl
+craze
+crazy
+creek
+creme
+crept
+cress
+crick
+crime
+crimp
+croak
+crock
+crook
+cross
+croup
+crowd
+crown
+crumb
+crump
+crush
+crypt
+cubic
+curio
+curly
+curry
+curvy
+cutie
+cyber
+cynic
+daddy
+daily
+dandy
+datum
+daunt
+decay
+deity
+depth
+derby
+detox
+deuce
+dicey
+digit
+dilly
+dimly
+diner
+diode
+dirty
+ditto
+ditty
+dizzy
+dodge
+dodgy
+dogma
+dolly
+donut
+dopey
+doubt
+dough
+dowdy
+downy
+draft
+drank
+drawl
+drawn
+dress
+drift
+drill
+drink
+droit
+droll
+drool
+droop
+druid
+drunk
+dryly
+duchy
+dully
+dummy
+dumpy
+dunce
+dusky
+dutch
+duvet
+dwarf
+dwell
+dwelt
+ebony
+eerie
+eight
+eject
+eking
+elect
+elegy
+elfin
+elite
+elope
+elude
+embed
+emcee
+empty
+enact
+enemy
+enjoy
+ennui
+envoy
+epoch
+epoxy
+error
+etude
+event
+evoke
+exact
+excel
+exert
+exile
+expel
+extol
+exult
+fable
+facet
+fairy
+faith
+fancy
+fanny
+fatal
+fatty
+fault
+fauna
+favor
+fecal
+feign
+fella
+felon
+femme
+fence
+fetid
+fetus
+fever
+fewer
+fifth
+fifty
+fight
+filly
+filmy
+filth
+final
+finch
+fishy
+fizzy
+fjord
+flack
+flail
+flake
+flaky
+flank
+fleck
+flick
+fling
+flint
+flirt
+flock
+flood
+floor
+flora
+floss
+flour
+flout
+flown
+fluff
+fluid
+fluke
+flume
+flung
+flunk
+flush
+flute
+foamy
+focal
+focus
+foggy
+folio
+folly
+foray
+force
+forty
+forum
+foyer
+frame
+frank
+freer
+fresh
+friar
+frill
+fritz
+frock
+frond
+front
+frown
+fruit
+fudge
+fugue
+fully
+fungi
+funky
+funny
+furor
+furry
+fussy
+fuzzy
+gaffe
+gaily
+gamut
+gassy
+gaudy
+gauge
+gaunt
+gauze
+gavel
+gawky
+gayly
+gecko
+geeky
+geese
+giddy
+gipsy
+girly
+given
+gland
+glaze
+gleam
+glint
+gloat
+gloom
+glory
+glove
+glyph
+golem
+golly
+goody
+gooey
+goofy
+goose
+gouge
+gourd
+graft
+grand
+grant
+graph
+grass
+grave
+gravy
+grief
+grill
+grime
+grimy
+grind
+gripe
+groom
+gross
+group
+grove
+growl
+gruff
+grunt
+guard
+guava
+guess
+guide
+guild
+guile
+guilt
+guise
+gulch
+gully
+gumbo
+gummy
+guppy
+gypsy
+hairy
+halve
+handy
+happy
+harpy
+harry
+harsh
+hasty
+hatch
+haute
+haven
+havoc
+hazel
+heath
+heavy
+hedge
+hefty
+helix
+hello
+hence
+hilly
+hippo
+hippy
+hitch
+hoard
+hobby
+hoist
+holly
+honey
+honor
+horde
+horny
+hotly
+hound
+house
+hovel
+hover
+howdy
+human
+humid
+humor
+humph
+humus
+hunch
+hunky
+hurry
+husky
+hussy
+hutch
+hyena
+hymen
+hyper
+icily
+icing
+idiot
+idyll
+image
+imbue
+impel
+imply
+inane
+inbox
+input
+ionic
+irony
+issue
+ivory
+jazzy
+jelly
+jerky
+jetty
+jewel
+jiffy
+joint
+joist
+joker
+jolly
+joust
+judge
+juice
+juicy
+jumbo
+jumpy
+juror
+kappa
+kebab
+khaki
+kinky
+kiosk
+kitty
+knack
+knave
+kneed
+kneel
+knelt
+knife
+knock
+knoll
+known
+koala
+krill
+label
+lanky
+lapel
+latch
+latte
+laugh
+leafy
+leech
+leery
+legal
+leggy
+lemur
+level
+libel
+liege
+light
+lilac
+limbo
+limit
+linen
+liner
+lipid
+lithe
+livid
+llama
+loamy
+lobby
+local
+lofty
+logic
+loopy
+lorry
+lousy
+lover
+lucky
+lumen
+lunch
+lunge
+lurid
+lusty
+lymph
+lynch
+lyric
+macaw
+madam
+madly
+mafia
+maize
+mambo
+mamma
+mammy
+manga
+mange
+mangy
+manly
+marry
+match
+mauve
+maxim
+mecca
+melee
+mercy
+merry
+metal
+metro
+micro
+midge
+midst
+might
+milky
+mimic
+mince
+minim
+minor
+minty
+mirth
+missy
+modem
+mogul
+moldy
+money
+month
+moose
+moron
+morph
+mossy
+motif
+motor
+motto
+moult
+mound
+mourn
+mouth
+movie
+mucky
+muddy
+mulch
+mummy
+munch
+murky
+mushy
+music
+musty
+myrrh
+nanny
+naval
+needy
+newly
+niece
+ninja
+ninny
+ninth
+nobly
+noose
+notch
+novel
+nudge
+nutty
+nymph
+oaken
+obese
+occur
+octal
+octet
+oddly
+offal
+often
+omega
+onion
+opine
+opium
+orbit
+ounce
+outdo
+outgo
+ovary
+ovate
+ovoid
+ozone
+paddy
+panic
+pansy
+parka
+parry
+patio
+patty
+pause
+payee
+peace
+pence
+penne
+penny
+perch
+perky
+petty
+phony
+photo
+piano
+picky
+piece
+piety
+piggy
+pilot
+pinch
+piney
+pinky
+piper
+pitch
+pithy
+pivot
+pixel
+pixie
+pizza
+plaid
+plait
+plank
+plant
+plaza
+pluck
+plumb
+plume
+plump
+plunk
+poise
+pooch
+poppy
+porch
+pouch
+pound
+pouty
+prank
+prawn
+press
+prick
+prime
+print
+prior
+privy
+prize
+prong
+proof
+prowl
+proxy
+prune
+pubic
+pudgy
+puffy
+pulpy
+punch
+pupal
+puppy
+purer
+purge
+pushy
+putty
+pygmy
+quack
+quail
+quake
+qualm
+quark
+quart
+quash
+queen
+queer
+quell
+query
+quest
+queue
+quick
+quill
+quilt
+quirk
+quota
+quote
+quoth
+rabbi
+radar
+radii
+rainy
+rajah
+rally
+ralph
+ranch
+randy
+rarer
+raven
+rayon
+razor
+rebel
+refer
+rehab
+relic
+rerun
+retro
+reuse
+revue
+rhino
+rhyme
+rigid
+rigor
+riser
+river
+rivet
+robot
+rodeo
+rotor
+rough
+round
+rover
+rower
+royal
+ruddy
+ruder
+rugby
+rumor
+rural
+sadly
+sally
+salsa
+sassy
+sauna
+saute
+savoy
+savvy
+scarf
+scrum
+scuba
+segue
+seize
+shaky
+shawl
+sheen
+shift
+shine
+shiny
+shirk
+shirt
+shown
+showy
+shush
+shyly
+siege
+sieve
+silky
+sissy
+sixth
+skiff
+skimp
+skulk
+skull
+skunk
+slash
+slimy
+slosh
+slyly
+smith
+smoky
+snack
+snowy
+snuck
+soapy
+soggy
+sorry
+spicy
+spurn
+squib
+staff
+stash
+steep
+stomp
+stony
+stood
+stunt
+sulky
+sully
+sunny
+surly
+sushi
+swamp
+swept
+swift
+swirl
+sworn
+swung
+tabby
+taboo
+tacky
+taffy
+taken
+taker
+tally
+tangy
+tardy
+tasty
+tatty
+taunt
+teary
+teddy
+tempo
+tenet
+tenth
+tepee
+tepid
+thank
+theft
+theme
+theta
+thick
+thief
+think
+thong
+thrum
+thumb
+thump
+thyme
+tibia
+tiger
+tight
+timid
+tipsy
+tithe
+title
+toddy
+token
+tooth
+topaz
+toxic
+toxin
+track
+tract
+trait
+tramp
+trawl
+triad
+trick
+troll
+truck
+truer
+truly
+trump
+trunk
+truth
+tryst
+tubal
+tulle
+tumor
+turbo
+twang
+tweak
+tweet
+twice
+twine
+twirl
+twixt
+tying
+ultra
+uncle
+uncut
+undid
+undue
+unfed
+unfit
+unify
+union
+unity
+unmet
+unwed
+unzip
+upper
+usurp
+utter
+vague
+valet
+valid
+valve
+vault
+vaunt
+venom
+venue
+verve
+vigil
+vigor
+villa
+vinyl
+viper
+virus
+visit
+visor
+vital
+vivid
+vixen
+vocal
+vodka
+voice
+vomit
+vouch
+vying
+wacky
+wafer
+wager
+waive
+waltz
+warty
+watch
+waver
+waxen
+weary
+weave
+wedge
+weedy
+weigh
+welch
+welsh
+wench
+wharf
+wheat
+wheel
+whelp
+which
+whiff
+while
+whine
+whiny
+whirl
+whisk
+whole
+whoop
+widow
+width
+wight
+willy
+wimpy
+wince
+winch
+windy
+wispy
+witch
+witty
+woman
+women
+woody
+wooer
+wooly
+woozy
+world
+worry
+would
+wound
+woven
+wrack
+wreck
+wring
+wrung
+wryly
+yacht
+yield
+young
+youth
+zesty
